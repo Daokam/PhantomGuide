@@ -1,0 +1,4168 @@
+[
+  {
+    "name": "Abaddon",
+    "level": 75,
+    "arcana": "Judgement",
+    "elems": ["ab", "ab", "-", "-", "-", "-", "-", "-", "rs", "ab"],
+    "skills": [
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Megaton Raid", "level": 0 },
+      { "name": "Enduring Soul", "level": 0 },
+      { "name": "Flash Bomb", "level": 78 },
+      { "name": "Ailment Boost", "level": 79 },
+      { "name": "Absorb Phys", "level": 80 },
+      { "name": "Gigantomachia", "level": 81 }
+    ],
+    "stats": [51, 42, 58, 38, 43],
+    "trait": "Mouth of Savoring",
+    "dlc": false
+  },
+  {
+    "name": "Agathion",
+    "level": 3,
+    "arcana": "Chariot",
+    "elems": ["-", "rs", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Dia", "level": 0 },
+      { "name": "Baisudi", "level": 0 },
+      { "name": "Lunge", "level": 4 },
+      { "name": "Rakukaja", "level": 6 },
+      { "name": "Zio", "level": 7 },
+      { "name": "Dodge Elec", "level": 8 }
+    ],
+    "stats": [3, 4, 5, 7, 3],
+    "trait": "Rare Antibody",
+    "dlc": false
+  },
+  {
+    "name": "Alice",
+    "level": 83,
+    "arcana": "Death",
+    "elems": ["-", "-", "-", "-", "-", "-", "rs", "rs", "wk", "rp"],
+    "skills": [
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Mudo Boost", "level": 0 },
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Die For Me!", "level": 85 },
+      { "name": "Megidolaon", "level": 86 },
+      { "name": "Concentrate", "level": 87 },
+      { "name": "Survival Trick", "level": 88 }
+    ],
+    "stats": [45, 61, 49, 54, 47],
+    "trait": "Just Die",
+    "dlc": false
+  },
+  {
+    "name": "Alilat",
+    "level": 81,
+    "arcana": "Empress",
+    "elems": ["rp", "rp", "wk", "ab", "-", "-", "nu", "-", "-", "wk"],
+    "skills": [
+      { "name": "Diamond Dust", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Freeze Boost", "level": 0 },
+      { "name": "Mabufudyne", "level": 82 },
+      { "name": "Concentrate", "level": 83 },
+      { "name": "Auto-Maraku", "level": 85 },
+      { "name": "Ice Amp", "level": 86 },
+      { "name": "Ice Age", "level": 87 }
+    ],
+    "stats": [45, 54, 57, 49, 45],
+    "trait": "Frigid Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Ame-no-Uzume",
+    "level": 13,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "ab", "-", "-", "-", "wk", "-", "-", "-"],
+    "skills": [
+      { "name": "Mazio", "level": 0 },
+      { "name": "Magaru", "level": 0 },
+      { "name": "Media", "level": 0 },
+      { "name": "Nocturnal Flash", "level": 15 },
+      { "name": "Baisudi", "level": 16 },
+      { "name": "Divine Grace", "level": 18 }
+    ],
+    "stats": [7, 10, 9, 11, 9],
+    "trait": "Electric Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Ananta",
+    "level": 44,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "-", "ab", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Mafreila", "level": 0 },
+      { "name": "Defense Master", "level": 0 },
+      { "name": "Elec Wall", "level": 0 },
+      { "name": "Abysmal Surge", "level": 46 },
+      { "name": "Growth 2", "level": 47 },
+      { "name": "Marakukaja", "level": 48 },
+      { "name": "Freidyne", "level": 49 },
+      { "name": "Nuke Boost", "level": 50 }
+    ],
+    "stats": [26, 30, 31, 27, 25],
+    "trait": "Atomic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Andras",
+    "level": 27,
+    "arcana": "Devil",
+    "elems": ["-", "-", "wk", "rs", "-", "-", "rs", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Foul Breath", "level": 0 },
+      { "name": "Terror Claw", "level": 0 },
+      { "name": "Evil Touch", "level": 28 },
+      { "name": "Fear Boost", "level": 29 },
+      { "name": "Rakunda", "level": 31 },
+      { "name": "Ghastly Wail", "level": 32 }
+    ],
+    "stats": [15, 19, 19, 21, 14],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Angel",
+    "level": 9,
+    "arcana": "Justice",
+    "elems": ["-", "wk", "-", "-", "rs", "-", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Kouha", "level": 0 },
+      { "name": "Makajam", "level": 0 },
+      { "name": "Dia", "level": 0 },
+      { "name": "Baisudi", "level": 10 },
+      { "name": "Dodge Curse", "level": 11 },
+      { "name": "Dekunda", "level": 12 }
+    ],
+    "stats": [6, 9, 5, 9, 5],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Anubis",
+    "level": 34,
+    "arcana": "Judgement",
+    "elems": ["-", "rs", "-", "-", "-", "-", "rs", "-", "nu", "nu"],
+    "skills": [
+      { "name": "Hamaon", "level": 0 },
+      { "name": "Mudoon", "level": 0 },
+      { "name": "Makouga", "level": 0 },
+      { "name": "Maeiga", "level": 36 },
+      { "name": "Dekunda", "level": 37 },
+      { "name": "Resist Bless", "level": 38 }
+    ],
+    "stats": [19, 24, 22, 21, 23],
+    "trait": "Deathly Illness",
+    "dlc": false
+  },
+  {
+    "name": "Anzu",
+    "level": 25,
+    "arcana": "Hierophant",
+    "elems": ["-", "wk", "-", "-", "rs", "rp", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Garula", "level": 0 },
+      { "name": "Masukukaja", "level": 0 },
+      { "name": "Wind Break", "level": 0 },
+      { "name": "Assault Dive", "level": 27 },
+      { "name": "Dekaja", "level": 28 },
+      { "name": "Null Forget", "level": 29 }
+    ],
+    "stats": [14, 18, 15, 21, 14],
+    "trait": "Wind Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Apsaras",
+    "level": 11,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "wk", "rs", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Rebellion", "level": 0 },
+      { "name": "Ice Wall", "level": 0 },
+      { "name": "Bufu", "level": 0 },
+      { "name": "Media", "level": 13 },
+      { "name": "Elec Wall", "level": 14 },
+      { "name": "Wind Wall", "level": 16 }
+    ],
+    "stats": [7, 11, 6, 10, 6],
+    "trait": "Internal Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Ara Mitama",
+    "level": 30,
+    "arcana": "Chariot",
+    "elems": ["rs", "-", "-", "wk", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Miracle Punch", "level": 0 },
+      { "name": "Freila", "level": 0 },
+      { "name": "Taunt", "level": 0 },
+      { "name": "Rebellion", "level": 31 },
+      { "name": "Marakunda", "level": 32 },
+      { "name": "Rage Boost", "level": 34 },
+      { "name": "Matarukaja", "level": 35 }
+    ],
+    "stats": [20, 18, 20, 20, 19],
+    "trait": "Atomic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Arahabaki",
+    "level": 35,
+    "arcana": "Hermit",
+    "elems": ["rp", "rp", "-", "-", "-", "-", "wk", "wk", "rs", "rs"],
+    "skills": [
+      { "name": "Makarakarn", "level": 0 },
+      { "name": "Abysmal Surge", "level": 0 },
+      { "name": "Null Brainwash", "level": 0 },
+      { "name": "Spirit Drain", "level": 37 },
+      { "name": "Flash Bomb", "level": 38 },
+      { "name": "Defense Master", "level": 39 }
+    ],
+    "stats": [21, 23, 22, 24, 22],
+    "trait": "Immunity",
+    "dlc": false
+  },
+  {
+    "name": "Archangel",
+    "level": 14,
+    "arcana": "Justice",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Giant Slice", "level": 0 },
+      { "name": "Dazzler", "level": 0 },
+      { "name": "Hama", "level": 0 },
+      { "name": "Rebellion", "level": 16 },
+      { "name": "Power Slash", "level": 17 },
+      { "name": "Vajra Blast", "level": 19 }
+    ],
+    "stats": [11, 9, 10, 12, 7],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Ardha",
+    "level": 84,
+    "arcana": "Temperance",
+    "elems": ["rs", "-", "-", "nu", "nu", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "God's Hand", "level": 0 },
+      { "name": "Cosmic Flare", "level": 0 },
+      { "name": "Invigorate 3", "level": 0 },
+      { "name": "Agneyastra", "level": 87 },
+      { "name": "Auto-Masuku", "level": 88 },
+      { "name": "Fortified Moxy", "level": 89 },
+      { "name": "Salvation", "level": 90 }
+    ],
+    "stats": [54, 56, 55, 54, 40],
+    "trait": "Naranari",
+    "dlc": false
+  },
+  {
+    "name": "Arsène",
+    "level": 1,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "wk", "-", "-", "-", "-", "wk", "rs"],
+    "skills": [
+      { "name": "Eiha", "level": 0 },
+      { "name": "Cleave", "level": 2 },
+      { "name": "Sukunda", "level": 4 },
+      { "name": "Dream Needle", "level": 5 },
+      { "name": "Adverse Resolve", "level": 7 }
+    ],
+    "stats": [2, 2, 2, 3, 1],
+    "trait": "Pinch Anchor",
+    "dlc": false
+  },
+  {
+    "name": "Asura",
+    "level": 76,
+    "arcana": "Sun",
+    "elems": ["-", "-", "nu", "-", "-", "-", "wk", "rp", "-", "-"],
+    "skills": [
+      { "name": "Atomic Flare", "level": 0 },
+      { "name": "Mahamaon", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Auto-Mataru", "level": 78 },
+      { "name": "Mafreidyne", "level": 79 },
+      { "name": "High Counter", "level": 80 },
+      { "name": "Unshaken Will", "level": 81 }
+    ],
+    "stats": [52, 48, 51, 49, 35],
+    "trait": "Atomic Hellscape",
+    "dlc": false
+  },
+  {
+    "name": "Atavaka",
+    "level": 65,
+    "arcana": "Faith",
+    "elems": ["rs", "nu", "rp", "-", "-", "-", "-", "-", "-", "rs"],
+    "skills": [
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Oni Kagura", "level": 0 },
+      { "name": "Mediarahan", "level": 0 },
+      { "name": "High Counter", "level": 67 },
+      { "name": "Samarecarm", "level": 68 },
+      { "name": "Brave Blade", "level": 70 },
+      { "name": "Attack Master", "level": 71 }
+    ],
+    "stats": [51, 36, 43, 38, 34],
+    "trait": "Savior Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Atropos",
+    "level": 39,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "wk", "-", "-", "nu", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Mazionga", "level": 0 },
+      { "name": "Fire Wall", "level": 0 },
+      { "name": "Elec Break", "level": 0 },
+      { "name": "Mediarama", "level": 41 },
+      { "name": "Elec Boost", "level": 42 },
+      { "name": "Ziodyne", "level": 44 },
+      { "name": "Concentrate", "level": 45 }
+    ],
+    "stats": [23, 30, 22, 27, 22],
+    "trait": "Mighty Gaze",
+    "dlc": false
+  },
+  {
+    "name": "Attis",
+    "level": 82,
+    "arcana": "Hanged",
+    "elems": ["-", "-", "nu", "-", "-", "rp", "-", "-", "-", "wk"],
+    "skills": [
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Salvation", "level": 0 },
+      { "name": "Thermopylae", "level": 0 },
+      { "name": "Enduring Soul", "level": 84 },
+      { "name": "Samarecarm", "level": 85 },
+      { "name": "Absorb Curse", "level": 86 },
+      { "name": "Blazing Hell", "level": 88 }
+    ],
+    "stats": [49, 50, 48, 54, 52],
+    "trait": "Vitality of the Tree",
+    "dlc": false
+  },
+  {
+    "name": "Baal",
+    "level": 82,
+    "arcana": "Emperor",
+    "elems": ["-", "-", "rs", "-", "-", "ab", "-", "-", "rs", "-"],
+    "skills": [
+      { "name": "Panta Rhei", "level": 0 },
+      { "name": "Revolution", "level": 0 },
+      { "name": "Matarukaja", "level": 0 },
+      { "name": "Ayamur", "level": 84 },
+      { "name": "Tetraja", "level": 85 },
+      { "name": "Charge", "level": 86 },
+      { "name": "Vacuum Wave", "level": 87 }
+    ],
+    "stats": [54, 58, 53, 47, 41],
+    "trait": "Wind Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Baphomet",
+    "level": 58,
+    "arcana": "Devil",
+    "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Evade Fire", "level": 0 },
+      { "name": "Burn Boost", "level": 0 },
+      { "name": "Bufudyne", "level": 59 },
+      { "name": "Ziodyne", "level": 61 },
+      { "name": "Shock Boost", "level": 62 },
+      { "name": "Freeze Boost", "level": 63 }
+    ],
+    "stats": [34, 42, 36, 38, 31],
+    "trait": "Thermal Conduct",
+    "dlc": false
+  },
+  {
+    "name": "Barong",
+    "level": 52,
+    "arcana": "Emperor",
+    "elems": ["-", "rs", "-", "-", "rs", "wk", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Wage War", "level": 0 },
+      { "name": "Invigorate 2", "level": 0 },
+      { "name": "Elec Break", "level": 54 },
+      { "name": "Null Elec", "level": 55 },
+      { "name": "Maziodyne", "level": 57 }
+    ],
+    "stats": [33, 35, 33, 37, 25],
+    "trait": "Blessed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Beelzebub",
+    "level": 87,
+    "arcana": "Devil",
+    "elems": ["-", "-", "ab", "-", "-", "-", "-", "-", "wk", "rp"],
+    "skills": [
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Evil Smile", "level": 0 },
+      { "name": "Curse Amp", "level": 88 },
+      { "name": "Concentrate", "level": 89 },
+      { "name": "Demonic Decree", "level": 90 },
+      { "name": "Repel Ice", "level": 91 },
+      { "name": "Megidolaon", "level": 92 }
+    ],
+    "stats": [55, 61, 54, 56, 42],
+    "trait": "Mother's Lament",
+    "dlc": false
+  },
+  {
+    "name": "Belial",
+    "level": 82,
+    "arcana": "Devil",
+    "elems": ["nu", "-", "-", "rs", "-", "-", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Eigaon", "level": 0 },
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Curse Amp", "level": 0 },
+      { "name": "Maeigaon", "level": 84 },
+      { "name": "Fear Boost", "level": 85 },
+      { "name": "Mamudoon", "level": 86 },
+      { "name": "Demonic Decree", "level": 88 }
+    ],
+    "stats": [52, 53, 51, 48, 49],
+    "trait": "Bloodstained Eyes",
+    "dlc": false
+  },
+  {
+    "name": "Belphegor",
+    "level": 37,
+    "arcana": "Tower",
+    "elems": ["-", "-", "wk", "rs", "rs", "-", "-", "rs", "-", "rp"],
+    "skills": [
+      { "name": "Mabufula", "level": 0 },
+      { "name": "Ice Break", "level": 0 },
+      { "name": "Null Rage", "level": 38 },
+      { "name": "Dodge Fire", "level": 39 },
+      { "name": "Bufudyne", "level": 41 },
+      { "name": "Concentrate", "level": 42 }
+    ],
+    "stats": [25, 27, 24, 23, 19],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Berith",
+    "level": 9,
+    "arcana": "Hierophant",
+    "elems": ["-", "nu", "rs", "wk", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Cleave", "level": 0 },
+      { "name": "Rakukaja", "level": 0 },
+      { "name": "Tarukaja", "level": 10 },
+      { "name": "Dodge Fire", "level": 11 },
+      { "name": "Power Slash", "level": 13 }
+    ],
+    "stats": [9, 6, 8, 8, 3],
+    "trait": "Crisis Control",
+    "dlc": false
+  },
+  {
+    "name": "Bicorn",
+    "level": 4,
+    "arcana": "Hermit",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "-", "rs"],
+    "skills": [
+      { "name": "Lunge", "level": 0 },
+      { "name": "Tarunda", "level": 0 },
+      { "name": "Garu", "level": 6 },
+      { "name": "Ice Wall", "level": 7 },
+      { "name": "Apt Pupil", "level": 8 }
+    ],
+    "stats": [5, 3, 3, 5, 3],
+    "trait": "Striking Weight",
+    "dlc": false
+  },
+  {
+    "name": "Bishamonten",
+    "level": 67,
+    "arcana": "Hierophant",
+    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "-", "rs", "rs"],
+    "skills": [
+      { "name": "Freidyne", "level": 0 },
+      { "name": "Diarahan", "level": 0 },
+      { "name": "Deadly Fury", "level": 0 },
+      { "name": "Mafreidyne", "level": 69 },
+      { "name": "Nuke Amp", "level": 71 },
+      { "name": "Tetrakarn", "level": 72 },
+      { "name": "God's Hand", "level": 73 }
+    ],
+    "stats": [51, 37, 42, 44, 34],
+    "trait": "Savior Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Black Frost",
+    "level": 67,
+    "arcana": "Fool",
+    "elems": ["-", "-", "rp", "ab", "-", "-", "-", "nu", "-", "rp"],
+    "skills": [
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "One-shot Kill", "level": 0 },
+      { "name": "Miracle Punch", "level": 0 },
+      { "name": "Ice Amp", "level": 68 },
+      { "name": "Freeze Boost", "level": 70 },
+      { "name": "Repel Fire", "level": 71 },
+      { "name": "Diamond Dust", "level": 72 }
+    ],
+    "stats": [44, 46, 41, 42, 35],
+    "trait": "Frigid Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Black Ooze",
+    "level": 18,
+    "arcana": "Moon",
+    "elems": ["rs", "rs", "-", "rs", "wk", "-", "wk", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Sledgehammer", "level": 0 },
+      { "name": "Evil Touch", "level": 0 },
+      { "name": "Foul Breath", "level": 0 },
+      { "name": "Ambient Aid", "level": 20 },
+      { "name": "Headbutt", "level": 21 },
+      { "name": "Brain Jack", "level": 23 },
+      { "name": "Flash Bomb", "level": 24 }
+    ],
+    "stats": [15, 7, 16, 8, 15],
+    "trait": "Rare Antibody",
+    "dlc": false
+  },
+  {
+    "name": "Black Rider",
+    "level": 59,
+    "arcana": "Tower",
+    "elems": ["-", "-", "wk", "ab", "-", "-", "-", "-", "rs", "rs"],
+    "skills": [
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Flash Bomb", "level": 0 },
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Ambient Aid", "level": 60 },
+      { "name": "Bloodbath", "level": 61 },
+      { "name": "Ghastly Wail", "level": 63 },
+      { "name": "Megidola", "level": 64 }
+    ],
+    "stats": [36, 42, 34, 42, 30],
+    "trait": "Gloomy Child",
+    "dlc": false
+  },
+  {
+    "name": "Bugs",
+    "level": 49,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "-", "-", "rs", "wk", "-", "nu"],
+    "skills": [
+      { "name": "Miracle Punch", "level": 0 },
+      { "name": "Masukunda", "level": 0 },
+      { "name": "Psiodyne", "level": 0 },
+      { "name": "Auto-Mataru", "level": 51 },
+      { "name": "Triple Down", "level": 52 },
+      { "name": "Evade Phys", "level": 54 },
+      { "name": "Fast Heal", "level": 55 }
+    ],
+    "stats": [35, 33, 30, 32, 24],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Byakhee",
+    "level": 70,
+    "arcana": "Moon",
+    "elems": ["-", "-", "nu", "wk", "-", "nu", "-", "wk", "-", "nu"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Foul Breath", "level": 0 },
+      { "name": "Death Scythe", "level": 0 },
+      { "name": "Maragidyne", "level": 72 },
+      { "name": "Ailment Boost", "level": 73 },
+      { "name": "Fire Break", "level": 74 },
+      { "name": "Heat Riser", "level": 75 }
+    ],
+    "stats": [42, 49, 43, 51, 32],
+    "trait": "Heated Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Byakko",
+    "level": 45,
+    "arcana": "Temperance",
+    "elems": ["-", "-", "wk", "ab", "-", "-", "-", "wk", "-", "rs"],
+    "skills": [
+      { "name": "Swift Strike", "level": 0 },
+      { "name": "Mabufula", "level": 0 },
+      { "name": "Counterstrike", "level": 0 },
+      { "name": "Ice Boost", "level": 47 },
+      { "name": "Ice Break", "level": 48 },
+      { "name": "Evade Fire", "level": 49 },
+      { "name": "Null Rage", "level": 50 },
+      { "name": "Bufudyne", "level": 51 }
+    ],
+    "stats": [35, 28, 30, 32, 17],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "Cait Sith",
+    "level": 5,
+    "arcana": "Magician",
+    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Agi", "level": 0 },
+      { "name": "Cleave", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Resist Sleep", "level": 6 },
+      { "name": "Sukukaja", "level": 7 },
+      { "name": "Media", "level": 9 }
+    ],
+    "stats": [6, 4, 4, 5, 3],
+    "trait": "Thermal Conduct",
+    "dlc": false
+  },
+  {
+    "name": "Cerberus",
+    "level": 55,
+    "arcana": "Chariot",
+    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Megaton Raid", "level": 0 },
+      { "name": "Rebellion", "level": 56 },
+      { "name": "High Counter", "level": 57 },
+      { "name": "Maragidyne", "level": 58 },
+      { "name": "Enduring Soul", "level": 60 }
+    ],
+    "stats": [39, 35, 32, 39, 27],
+    "trait": "Heated Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Chernobog",
+    "level": 62,
+    "arcana": "Death",
+    "elems": ["-", "rs", "wk", "ab", "nu", "-", "-", "-", "wk", "ab"],
+    "skills": [
+      { "name": "Mudoon", "level": 0 },
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Foul Breath", "level": 63 },
+      { "name": "Deathbound", "level": 64 },
+      { "name": "Fear Boost", "level": 66 },
+      { "name": "Brave Blade", "level": 67 }
+    ],
+    "stats": [40, 37, 39, 38, 39],
+    "trait": "Crisis Control",
+    "dlc": false
+  },
+  {
+    "name": "Chi You",
+    "level": 88,
+    "arcana": "Chariot",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "nu", "wk", "-", "-"],
+    "skills": [
+      { "name": "Psycho Force", "level": 0 },
+      { "name": "Repel Phys", "level": 0 },
+      { "name": "Gigantomachia", "level": 0 },
+      { "name": "Fortify Spirit", "level": 90 },
+      { "name": "Psycho Blast", "level": 91 },
+      { "name": "Absorb Psy", "level": 92 },
+      { "name": "Concentrate", "level": 94 }
+    ],
+    "stats": [56, 57, 54, 53, 51],
+    "trait": "Chi You's Blessing",
+    "dlc": false
+  },
+  {
+    "name": "Chimera",
+    "level": 74,
+    "arcana": "Strength",
+    "elems": ["-", "-", "ab", "nu", "-", "wk", "-", "-", "-", "wk"],
+    "skills": [
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Heat Wave", "level": 0 },
+      { "name": "Bufudyne", "level": 0 },
+      { "name": "Marakunda", "level": 76 },
+      { "name": "Fire Amp", "level": 77 },
+      { "name": "Mabufudyne", "level": 78 },
+      { "name": "Ice Amp", "level": 79 }
+    ],
+    "stats": [51, 40, 42, 48, 48],
+    "trait": "Foul Stench",
+    "dlc": false
+  },
+  {
+    "name": "Choronzon",
+    "level": 28,
+    "arcana": "Magician",
+    "elems": ["rs", "-", "ab", "-", "-", "-", "-", "-", "wk", "-"],
+    "skills": [
+      { "name": "Pulinpa", "level": 0 },
+      { "name": "Life Drain", "level": 0 },
+      { "name": "Rampage", "level": 0 },
+      { "name": "Maeiha", "level": 29 },
+      { "name": "Dodge Elec", "level": 30 },
+      { "name": "Eiga", "level": 31 },
+      { "name": "Curse Boost", "level": 32 },
+      { "name": "Climate Decorum", "level": 33 }
+    ],
+    "stats": [16, 19, 19, 18, 19],
+    "trait": "Draining Mouth",
+    "dlc": false
+  },
+  {
+    "name": "Clotho",
+    "level": 27,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "-", "wk", "-", "nu", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Mahama", "level": 0 },
+      { "name": "Me Patra", "level": 0 },
+      { "name": "Makajam", "level": 0 },
+      { "name": "Tetraja", "level": 28 },
+      { "name": "Makajamaon", "level": 30 },
+      { "name": "Energy Shower", "level": 31 },
+      { "name": "Invigorate 1", "level": 33 }
+    ],
+    "stats": [14, 19, 18, 20, 17],
+    "trait": "Relief Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Crystal Skull",
+    "level": 50,
+    "arcana": "Fool",
+    "elems": ["rs", "rs", "-", "-", "-", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Magarudyne", "level": 0 },
+      { "name": "Maziodyne", "level": 0 },
+      { "name": "Mapsiodyne", "level": 0 },
+      { "name": "Mafreidyne", "level": 0 },
+      { "name": "Makougaon", "level": 0 },
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Foul Stench", "level": 0 },
+      { "name": "Ailment Hunter", "level": 0 },
+      { "name": "Cursed Bloodline", "level": 0 }
+    ],
+    "stats": [50, 50, 50, 50, 50],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Cu Chulainn",
+    "level": 76,
+    "arcana": "Faith",
+    "elems": ["rs", "rs", "-", "-", "wk", "rp", "-", "-", "nu", "-"],
+    "skills": [
+      { "name": "High Counter", "level": 0 },
+      { "name": "One-shot Kill", "level": 0 },
+      { "name": "Rebellion", "level": 0 },
+      { "name": "Matarukaja", "level": 78 },
+      { "name": "Brave Blade", "level": 79 },
+      { "name": "Charge", "level": 80 },
+      { "name": "Apt Pupil", "level": 81 }
+    ],
+    "stats": [55, 44, 46, 48, 42],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Cybele",
+    "level": 83,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "rs", "-", "wk", "-", "-", "-", "nu", "-"],
+    "skills": [
+      { "name": "Samarecarm", "level": 0 },
+      { "name": "Mediarahan", "level": 0 },
+      { "name": "Makougaon", "level": 0 },
+      { "name": "Amrita Shower", "level": 84 },
+      { "name": "Auto-Maraku", "level": 86 },
+      { "name": "Absorb Bless", "level": 87 },
+      { "name": "Salvation", "level": 89 }
+    ],
+    "stats": [44, 57, 49, 51, 55],
+    "trait": "Linked Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Daisoujou",
+    "level": 40,
+    "arcana": "Hierophant",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Spirit Drain", "level": 0 },
+      { "name": "Makouga", "level": 0 },
+      { "name": "Samsara", "level": 41 },
+      { "name": "Bless Boost", "level": 42 },
+      { "name": "Diarahan", "level": 43 },
+      { "name": "Me Patra", "level": 44 },
+      { "name": "Null Rage", "level": 45 }
+    ],
+    "stats": [21, 33, 24, 24, 25],
+    "trait": "Draining Mouth",
+    "dlc": false
+  },
+  {
+    "name": "Dakini",
+    "level": 50,
+    "arcana": "Empress",
+    "elems": ["-", "nu", "rs", "-", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Bad Beat", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Rising Slash", "level": 0 },
+      { "name": "High Counter", "level": 52 },
+      { "name": "Deathbound", "level": 53 },
+      { "name": "Rebellion", "level": 54 },
+      { "name": "Charge", "level": 55 }
+    ],
+    "stats": [34, 32, 34, 28, 29],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Decarabia",
+    "level": 32,
+    "arcana": "Councillor",
+    "elems": ["wk", "-", "rp", "-", "-", "-", "-", "rs", "-", "rs"],
+    "skills": [
+      { "name": "Agilao", "level": 0 },
+      { "name": "Ominous Words", "level": 0 },
+      { "name": "Tetrakarn", "level": 33 },
+      { "name": "Fire Boost", "level": 35 },
+      { "name": "Agidyne", "level": 36 },
+      { "name": "Null Fire", "level": 37 },
+      { "name": "Megidola", "level": 38 }
+    ],
+    "stats": [21, 23, 19, 22, 18],
+    "trait": "Heated Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Dionysus",
+    "level": 71,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "-", "-", "rp", "-", "-", "-", "nu", "nu"],
+    "skills": [
+      { "name": "Maziodyne", "level": 0 },
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Brain Jack", "level": 0 },
+      { "name": "Thermopylae", "level": 72 },
+      { "name": "Ailment Boost", "level": 73 },
+      { "name": "Amrita Shower", "level": 75 },
+      { "name": "Debilitate", "level": 76 }
+    ],
+    "stats": [42, 48, 44, 42, 44],
+    "trait": "Pinch Anchor",
+    "dlc": false
+  },
+  {
+    "name": "Dominion",
+    "level": 68,
+    "arcana": "Justice",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "rp", "nu", "rs"],
+    "skills": [
+      { "name": "Makajamaon", "level": 0 },
+      { "name": "Hamaon", "level": 0 },
+      { "name": "Kougaon", "level": 0 },
+      { "name": "Makougaon", "level": 70 },
+      { "name": "Hama Boost", "level": 71 },
+      { "name": "Mahamaon", "level": 72 },
+      { "name": "Evade Curse", "level": 74 }
+    ],
+    "stats": [42, 45, 43, 44, 37],
+    "trait": "Blessed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Eligor",
+    "level": 16,
+    "arcana": "Emperor",
+    "elems": ["-", "-", "rs", "-", "wk", "-", "-", "-", "-", "rs"],
+    "skills": [
+      { "name": "Maragi", "level": 0 },
+      { "name": "Sharp Student", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Double Fangs", "level": 18 },
+      { "name": "Sukunda", "level": 19 },
+      { "name": "Memory Blow", "level": 20 }
+    ],
+    "stats": [12, 10, 13, 10, 10],
+    "trait": "Thermal Conduct",
+    "dlc": false
+  },
+  {
+    "name": "Emperor's Amulet",
+    "level": 35,
+    "arcana": "Hanged",
+    "elems": ["rs", "rs", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Bufudyne", "level": 0 },
+      { "name": "Garudyne", "level": 0 },
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Psiodyne", "level": 0 },
+      { "name": "Freidyne", "level": 0 },
+      { "name": "Kougaon", "level": 0 },
+      { "name": "Eigaon", "level": 0 },
+      { "name": "Frigid Bloodline", "level": 0 },
+      { "name": "Wind Bloodline", "level": 0 },
+      { "name": "Psychic Bloodline", "level": 0 }
+    ],
+    "stats": [35, 35, 35, 35, 35],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Fafnir",
+    "level": 86,
+    "arcana": "Hermit",
+    "elems": ["rp", "rp", "ab", "-", "rs", "-", "-", "ab", "-", "-"],
+    "skills": [
+      { "name": "Gigantomachia", "level": 0 },
+      { "name": "Evil Smile", "level": 0 },
+      { "name": "Cosmic Flare", "level": 0 },
+      { "name": "Atomic Flare", "level": 88 },
+      { "name": "Nuke Amp", "level": 90 },
+      { "name": "Debilitate", "level": 91 },
+      { "name": "Absorb Nuke", "level": 92 }
+    ],
+    "stats": [61, 55, 58, 48, 43],
+    "trait": "Ailment Hunter",
+    "dlc": false
+  },
+  {
+    "name": "Flauros",
+    "level": 19,
+    "arcana": "Devil",
+    "elems": ["-", "-", "nu", "wk", "-", "rs", "-", "rs", "-", "-"],
+    "skills": [
+      { "name": "Giant Slice", "level": 0 },
+      { "name": "Dormin Rush", "level": 0 },
+      { "name": "Dekaja", "level": 0 },
+      { "name": "Dodge Phys", "level": 20 },
+      { "name": "Rebellion", "level": 22 },
+      { "name": "Cornered Fang", "level": 23 },
+      { "name": "Heat Up", "level": 24 }
+    ],
+    "stats": [15, 11, 13, 14, 11],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Forneus",
+    "level": 63,
+    "arcana": "Magician",
+    "elems": ["-", "-", "-", "ab", "wk", "-", "nu", "-", "-", "-"],
+    "skills": [
+      { "name": "Psiodyne", "level": 0 },
+      { "name": "Masukunda", "level": 0 },
+      { "name": "Brain Jack", "level": 0 },
+      { "name": "Survival Trick", "level": 65 },
+      { "name": "Stagnant Air", "level": 66 },
+      { "name": "Mapsiodyne", "level": 67 },
+      { "name": "Evade Psy", "level": 68 }
+    ],
+    "stats": [41, 39, 40, 42, 34],
+    "trait": "Bloodstained Eyes",
+    "dlc": false
+  },
+  {
+    "name": "Fortuna",
+    "level": 46,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "nu", "-", "wk", "nu", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Magarula", "level": 0 },
+      { "name": "Masukukaja", "level": 0 },
+      { "name": "Tetraja", "level": 0 },
+      { "name": "Garudyne", "level": 47 },
+      { "name": "Touch n' Go", "level": 49 },
+      { "name": "Amrita Drop", "level": 50 },
+      { "name": "Evade Elec", "level": 51 }
+    ],
+    "stats": [23, 32, 29, 34, 27],
+    "trait": "Wind Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Futsunushi",
+    "level": 86,
+    "arcana": "Magician",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Matarukaja", "level": 0 },
+      { "name": "Apt Pupil", "level": 0 },
+      { "name": "Charge", "level": 88 },
+      { "name": "Brave Blade", "level": 89 },
+      { "name": "Regenerate 3", "level": 90 },
+      { "name": "Firm Stance", "level": 91 },
+      { "name": "Auto-Maraku", "level": 92 }
+    ],
+    "stats": [60, 58, 55, 52, 40],
+    "trait": "Will of the Sword",
+    "dlc": false
+  },
+  {
+    "name": "Fuu-Ki",
+    "level": 23,
+    "arcana": "Star",
+    "elems": ["-", "rs", "-", "-", "wk", "ab", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Tetra Break", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Garula", "level": 0 },
+      { "name": "Wind Boost", "level": 25 },
+      { "name": "Magarula", "level": 26 },
+      { "name": "Resist Wind", "level": 27 }
+    ],
+    "stats": [14, 17, 16, 15, 14],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Gabriel",
+    "level": 77,
+    "arcana": "Temperance",
+    "elems": ["-", "-", "-", "-", "-", "-", "nu", "-", "ab", "-"],
+    "skills": [
+      { "name": "Maziodyne", "level": 0 },
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Divine Judgement", "level": 78 },
+      { "name": "Ali Dance", "level": 79 },
+      { "name": "Evade Curse", "level": 80 },
+      { "name": "Touch n' Go", "level": 81 },
+      { "name": "Ice Amp", "level": 82 },
+      { "name": "Salvation", "level": 83 }
+    ],
+    "stats": [43, 51, 48, 54, 42],
+    "trait": "Relentless",
+    "dlc": false
+  },
+  {
+    "name": "Ganesha",
+    "level": 53,
+    "arcana": "Sun",
+    "elems": ["rs", "rs", "-", "-", "-", "ab", "wk", "-", "-", "-"],
+    "skills": [
+      { "name": "Miracle Punch", "level": 0 },
+      { "name": "Tempest Slash", "level": 0 },
+      { "name": "Rebellion", "level": 0 },
+      { "name": "Tetraja", "level": 55 },
+      { "name": "Resist Psy", "level": 56 },
+      { "name": "Masukunda", "level": 57 },
+      { "name": "Charge", "level": 60 }
+    ],
+    "stats": [39, 31, 37, 33, 26],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Garuda",
+    "level": 52,
+    "arcana": "Star",
+    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "rp", "-"],
+    "skills": [
+      { "name": "Garudyne", "level": 0 },
+      { "name": "Mind Slice", "level": 0 },
+      { "name": "Amrita Shower", "level": 53 },
+      { "name": "Masukukaja", "level": 54 },
+      { "name": "Evade Elec", "level": 55 },
+      { "name": "Magarudyne", "level": 57 },
+      { "name": "Wind Amp", "level": 59 }
+    ],
+    "stats": [30, 36, 29, 39, 29],
+    "trait": "Wind Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Genbu",
+    "level": 7,
+    "arcana": "Temperance",
+    "elems": ["-", "-", "-", "nu", "wk", "-", "rs", "-", "-", "-"],
+    "skills": [
+      { "name": "Bufu", "level": 0 },
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Patra", "level": 8 },
+      { "name": "Mabufu", "level": 10 },
+      { "name": "Resist Forget", "level": 11 },
+      { "name": "Defense Master", "level": 12 }
+    ],
+    "stats": [5, 6, 7, 6, 4],
+    "trait": "Cold-Blooded",
+    "dlc": false
+  },
+  {
+    "name": "Girimehkala",
+    "level": 43,
+    "arcana": "Moon",
+    "elems": ["rp", "rp", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Mudoon", "level": 0 },
+      { "name": "Marakunda", "level": 0 },
+      { "name": "Deathbound", "level": 0 },
+      { "name": "Agidyne", "level": 45 },
+      { "name": "Wage War", "level": 47 },
+      { "name": "Repel Phys", "level": 50 }
+    ],
+    "stats": [32, 24, 32, 29, 19],
+    "trait": "Cursed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Hanuman",
+    "level": 64,
+    "arcana": "Strength",
+    "elems": ["-", "rs", "-", "wk", "-", "-", "rs", "-", "rs", "-"],
+    "skills": [
+      { "name": "Tempest Slash", "level": 0 },
+      { "name": "Matarunda", "level": 0 },
+      { "name": "Revolution", "level": 0 },
+      { "name": "Deathbound", "level": 65 },
+      { "name": "Tetra Break", "level": 67 },
+      { "name": "Regenerate 3", "level": 69 }
+    ],
+    "stats": [43, 38, 40, 40, 38],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Hariti",
+    "level": 40,
+    "arcana": "Empress",
+    "elems": ["-", "-", "-", "-", "-", "wk", "rs", "-", "rs", "-"],
+    "skills": [
+      { "name": "Zionga", "level": 0 },
+      { "name": "Energy Shower", "level": 0 },
+      { "name": "Mabaisudi", "level": 0 },
+      { "name": "Samarecarm", "level": 41 },
+      { "name": "Nocturnal Flash", "level": 42 },
+      { "name": "Mediarama", "level": 44 },
+      { "name": "Dizzy Boost", "level": 45 },
+      { "name": "Spirit Drain", "level": 46 }
+    ],
+    "stats": [21, 32, 24, 23, 27],
+    "trait": "Electric Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Hastur",
+    "level": 84,
+    "arcana": "Star",
+    "elems": ["-", "-", "rs", "-", "-", "ab", "nu", "-", "-", "nu"],
+    "skills": [
+      { "name": "Vacuum Wave", "level": 0 },
+      { "name": "Nocturnal Flash", "level": 0 },
+      { "name": "Debilitate", "level": 0 },
+      { "name": "Abyssal Eye", "level": 86 },
+      { "name": "Wind Amp", "level": 87 },
+      { "name": "Spirit Drain", "level": 88 },
+      { "name": "Repel Wind", "level": 89 }
+    ],
+    "stats": [51, 59, 52, 56, 41],
+    "trait": "Mouth of Savoring",
+    "dlc": false
+  },
+  {
+    "name": "Hecatoncheires",
+    "level": 42,
+    "arcana": "Hanged",
+    "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Swift Strike", "level": 0 },
+      { "name": "Regenerate 2", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Endure", "level": 43 },
+      { "name": "Rebellion", "level": 45 },
+      { "name": "Fortified Moxy", "level": 46 },
+      { "name": "Gattling Blows", "level": 49 }
+    ],
+    "stats": [35, 22, 27, 23, 26],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Hell Biker",
+    "level": 37,
+    "arcana": "Death",
+    "elems": ["-", "-", "rp", "-", "-", "rs", "-", "-", "wk", "-"],
+    "skills": [
+      { "name": "Mudoon", "level": 0 },
+      { "name": "Agilao", "level": 0 },
+      { "name": "Speed Master", "level": 0 },
+      { "name": "Tentarafoo", "level": 38 },
+      { "name": "Fire Boost", "level": 39 },
+      { "name": "Maragion", "level": 40 },
+      { "name": "Mamudoon", "level": 41 }
+    ],
+    "stats": [23, 24, 24, 30, 17],
+    "trait": "Internal Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "High Pixie",
+    "level": 16,
+    "arcana": "Fool",
+    "elems": ["-", "wk", "-", "-", "rs", "rs", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Garu", "level": 0 },
+      { "name": "Media", "level": 0 },
+      { "name": "Dormina", "level": 0 },
+      { "name": "Diarama", "level": 19 },
+      { "name": "Pulinpa", "level": 20 },
+      { "name": "Magaru", "level": 22 }
+    ],
+    "stats": [8, 14, 10, 13, 10],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Hope Diamond",
+    "level": 40,
+    "arcana": "Death",
+    "elems": ["rs", "rs", "-", "wk", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Auto-Mataru", "level": 0 },
+      { "name": "Auto-Maraku", "level": 0 },
+      { "name": "Auto-Masuku", "level": 0 },
+      { "name": "Endure", "level": 0 },
+      { "name": "Regenerate 2", "level": 0 },
+      { "name": "Invigorate 2", "level": 0 },
+      { "name": "High Counter", "level": 0 },
+      { "name": "Fast Heal", "level": 0 },
+      { "name": "Internal Hypnosis", "level": 0 },
+      { "name": "Striking Weight", "level": 0 },
+      { "name": "Retaliating Body", "level": 0 }
+    ],
+    "stats": [40, 40, 40, 40, 40],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Horus",
+    "level": 47,
+    "arcana": "Sun",
+    "elems": ["-", "-", "wk", "-", "nu", "-", "-", "-", "rp", "-"],
+    "skills": [
+      { "name": "Megidola", "level": 0 },
+      { "name": "Diarama", "level": 0 },
+      { "name": "Kougaon", "level": 0 },
+      { "name": "Flash Bomb", "level": 49 },
+      { "name": "Masukukaja", "level": 50 },
+      { "name": "Hamaon", "level": 51 },
+      { "name": "Hama Boost", "level": 52 }
+    ],
+    "stats": [30, 32, 29, 35, 22],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Hua Po",
+    "level": 9,
+    "arcana": "Hanged",
+    "elems": ["-", "wk", "rp", "wk", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Agi", "level": 0 },
+      { "name": "Dormina", "level": 0 },
+      { "name": "Tarunda", "level": 11 },
+      { "name": "Resist Forget", "level": 12 },
+      { "name": "Maragi", "level": 13 },
+      { "name": "Burn Boost", "level": 15 }
+    ],
+    "stats": [4, 10, 4, 8, 8],
+    "trait": "Thermal Conduct",
+    "dlc": false
+  },
+  {
+    "name": "Incubus",
+    "level": 5,
+    "arcana": "Devil",
+    "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "wk", "-"],
+    "skills": [
+      { "name": "Life Drain", "level": 0 },
+      { "name": "Dream Needle", "level": 0 },
+      { "name": "Dormina", "level": 7 },
+      { "name": "Tarunda", "level": 8 },
+      { "name": "Dodge Curse", "level": 9 }
+    ],
+    "stats": [4, 6, 4, 5, 3],
+    "trait": "Draining Mouth",
+    "dlc": false
+  },
+  {
+    "name": "Inugami",
+    "level": 14,
+    "arcana": "Hanged",
+    "elems": ["-", "nu", "nu", "-", "-", "wk", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Pulinpa", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Giant Slice", "level": 0 },
+      { "name": "Dream Needle", "level": 15 },
+      { "name": "Lucky Punch", "level": 17 },
+      { "name": "Brain Shake", "level": 18 },
+      { "name": "Confuse Boost", "level": 19 }
+    ],
+    "stats": [11, 9, 9, 12, 8],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Ippon-Datara",
+    "level": 13,
+    "arcana": "Hermit",
+    "elems": ["-", "rs", "rs", "wk", "-", "rp", "-", "-", "rs", "rs"],
+    "skills": [
+      { "name": "Sledgehammer", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Resist Dizzy", "level": 0 },
+      { "name": "Rampage", "level": 15 },
+      { "name": "Sharp Student", "level": 17 },
+      { "name": "Counter", "level": 18 }
+    ],
+    "stats": [11, 7, 14, 6, 8],
+    "trait": "Striking Weight",
+    "dlc": false
+  },
+  {
+    "name": "Ishtar",
+    "level": 85,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Mediarahan", "level": 0 },
+      { "name": "Samarecarm", "level": 0 },
+      { "name": "Absorb Wind", "level": 0 },
+      { "name": "Insta-Heal", "level": 87 },
+      { "name": "Maziodyne", "level": 88 },
+      { "name": "Spell Master", "level": 89 },
+      { "name": "Salvation", "level": 90 }
+    ],
+    "stats": [48, 59, 49, 58, 48],
+    "trait": "Grace of Mother",
+    "dlc": false
+  },
+  {
+    "name": "Isis",
+    "level": 26,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "-", "-", "-", "-", "wk", "-", "nu", "-"],
+    "skills": [
+      { "name": "Makouga", "level": 0 },
+      { "name": "Mahama", "level": 0 },
+      { "name": "Diarama", "level": 0 },
+      { "name": "Resist Despair", "level": 27 },
+      { "name": "Hamaon", "level": 29 },
+      { "name": "Hama Boost", "level": 30 },
+      { "name": "Makarakarn", "level": 32 }
+    ],
+    "stats": [14, 20, 17, 18, 16],
+    "trait": "Savior Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Jack Frost",
+    "level": 11,
+    "arcana": "Magician",
+    "elems": ["-", "-", "wk", "nu", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Bufu", "level": 0 },
+      { "name": "Ice Break", "level": 0 },
+      { "name": "Baisudi", "level": 0 },
+      { "name": "Mabufu", "level": 12 },
+      { "name": "Rakunda", "level": 13 },
+      { "name": "Freeze Boost", "level": 15 }
+    ],
+    "stats": [8, 9, 7, 9, 7],
+    "trait": "Frigid Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Jack-o'-Lantern",
+    "level": 2,
+    "arcana": "Magician",
+    "elems": ["-", "-", "ab", "wk", "-", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Agi", "level": 0 },
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Sharp Student", "level": 4 },
+      { "name": "Dazzler", "level": 5 },
+      { "name": "Resist Sleep", "level": 7 }
+    ],
+    "stats": [2, 3, 3, 3, 2],
+    "trait": "Thermal Conduct",
+    "dlc": false
+  },
+  {
+    "name": "Jatayu",
+    "level": 51,
+    "arcana": "Hanged",
+    "elems": ["-", "-", "-", "rs", "-", "rp", "-", "wk", "rs", "-"],
+    "skills": [
+      { "name": "Garudyne", "level": 0 },
+      { "name": "Masukukaja", "level": 0 },
+      { "name": "Nocturnal Flash", "level": 0 },
+      { "name": "Dizzy Boost", "level": 52 },
+      { "name": "Wind Amp", "level": 54 },
+      { "name": "Magarudyne", "level": 55 },
+      { "name": "Speed Master", "level": 57 }
+    ],
+    "stats": [31, 34, 29, 36, 30],
+    "trait": "Wind Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Jikokuten",
+    "level": 22,
+    "arcana": "Temperance",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Assault Dive", "level": 0 },
+      { "name": "Defense Master", "level": 0 },
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Kill Rush", "level": 24 },
+      { "name": "Counter", "level": 25 },
+      { "name": "Matarukaja", "level": 27 },
+      { "name": "Adverse Resolve", "level": 28 }
+    ],
+    "stats": [18, 11, 16, 15, 13],
+    "trait": "Internal Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Kaiwan",
+    "level": 36,
+    "arcana": "Star",
+    "elems": ["-", "nu", "-", "-", "-", "-", "nu", "wk", "-", "-"],
+    "skills": [
+      { "name": "Makajam", "level": 0 },
+      { "name": "Psio", "level": 0 },
+      { "name": "Forget Boost", "level": 37 },
+      { "name": "Speed Master", "level": 38 },
+      { "name": "Makajamaon", "level": 39 },
+      { "name": "Psiodyne", "level": 40 },
+      { "name": "Marakunda", "level": 41 }
+    ],
+    "stats": [23, 26, 24, 22, 20],
+    "trait": "Psychic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Kali",
+    "level": 63,
+    "arcana": "Empress",
+    "elems": ["-", "rp", "nu", "-", "-", "-", "rp", "-", "-", "rs"],
+    "skills": [
+      { "name": "Heat Wave", "level": 0 },
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Brave Blade", "level": 0 },
+      { "name": "Charge", "level": 65 },
+      { "name": "High Counter", "level": 66 },
+      { "name": "Repel Psy", "level": 67 },
+      { "name": "Vorpal Blade", "level": 68 }
+    ],
+    "stats": [43, 41, 39, 39, 34],
+    "trait": "Relentless",
+    "dlc": false
+  },
+  {
+    "name": "Kelpie",
+    "level": 6,
+    "arcana": "Strength",
+    "elems": ["-", "-", "-", "rs", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Garu", "level": 0 },
+      { "name": "Lunge", "level": 0 },
+      { "name": "Resist Brainwash", "level": 8 },
+      { "name": "Sukukaja", "level": 9 },
+      { "name": "Terror Claw", "level": 10 }
+    ],
+    "stats": [5, 5, 5, 6, 4],
+    "trait": "Striking Weight",
+    "dlc": false
+  },
+  {
+    "name": "Kikuri-Hime",
+    "level": 40,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "wk", "-", "-", "nu", "-", "-", "rs", "-"],
+    "skills": [
+      { "name": "Lullaby", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Energy Drop", "level": 0 },
+      { "name": "Mediarama", "level": 41 },
+      { "name": "Tetraja", "level": 43 },
+      { "name": "Divine Grace", "level": 45 }
+    ],
+    "stats": [22, 31, 24, 28, 22],
+    "trait": "Relief Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Kin-Ki",
+    "level": 25,
+    "arcana": "Chariot",
+    "elems": ["rs", "rp", "-", "-", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Vajra Blast", "level": 0 },
+      { "name": "Rakukaja", "level": 0 },
+      { "name": "Regenerate 1", "level": 0 },
+      { "name": "Dodge Psy", "level": 27 },
+      { "name": "Sledgehammer", "level": 28 },
+      { "name": "Bad Beat", "level": 30 },
+      { "name": "Counterstrike", "level": 31 }
+    ],
+    "stats": [21, 13, 21, 15, 12],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "King Frost",
+    "level": 61,
+    "arcana": "Emperor",
+    "elems": ["-", "-", "-", "ab", "-", "-", "-", "-", "nu", "-"],
+    "skills": [
+      { "name": "Bufudyne", "level": 0 },
+      { "name": "Ice Break", "level": 0 },
+      { "name": "Megaton Raid", "level": 0 },
+      { "name": "Freeze Boost", "level": 62 },
+      { "name": "Mabufudyne", "level": 64 },
+      { "name": "Concentrate", "level": 65 },
+      { "name": "Ice Amp", "level": 67 }
+    ],
+    "stats": [40, 44, 43, 29, 34],
+    "trait": "Frigid Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Kodama",
+    "level": 11,
+    "arcana": "Star",
+    "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Garu", "level": 0 },
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Psi", "level": 12 },
+      { "name": "Evil Touch", "level": 13 },
+      { "name": "Tarukaja", "level": 14 },
+      { "name": "Fear Boost", "level": 15 },
+      { "name": "Resist Fear", "level": 17 }
+    ],
+    "stats": [7, 11, 8, 10, 4],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Koh-i-Noor",
+    "level": 25,
+    "arcana": "Priestess",
+    "elems": ["rs", "wk", "-", "-", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Dodge Fire", "level": 0 },
+      { "name": "Dodge Ice", "level": 0 },
+      { "name": "Dodge Wind", "level": 0 },
+      { "name": "Dodge Elec", "level": 0 },
+      { "name": "Dodge Psy", "level": 0 },
+      { "name": "Dodge Nuke", "level": 0 },
+      { "name": "Dodge Bless", "level": 0 },
+      { "name": "Dodge Curse", "level": 0 },
+      { "name": "Crisis Control", "level": 0 },
+      { "name": "Bloodstained Eyes", "level": 0 },
+      { "name": "Rare Antibody", "level": 0 }
+    ],
+    "stats": [25, 25, 25, 25, 25],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Kohryu",
+    "level": 76,
+    "arcana": "Hierophant",
+    "elems": ["-", "-", "-", "-", "rp", "-", "nu", "wk", "nu", "-"],
+    "skills": [
+      { "name": "Psycho Force", "level": 0 },
+      { "name": "Mediarahan", "level": 0 },
+      { "name": "Mapsiodyne", "level": 0 },
+      { "name": "Life Aid", "level": 78 },
+      { "name": "Concentrate", "level": 79 },
+      { "name": "Psy Amp", "level": 80 },
+      { "name": "Spell Master", "level": 82 }
+    ],
+    "stats": [43, 51, 50, 53, 38],
+    "trait": "Universal Law",
+    "dlc": false
+  },
+  {
+    "name": "Koppa Tengu",
+    "level": 11,
+    "arcana": "Temperance",
+    "elems": ["-", "-", "-", "wk", "-", "rs", "-", "-", "wk", "-"],
+    "skills": [
+      { "name": "Garu", "level": 0 },
+      { "name": "Sukukaja", "level": 0 },
+      { "name": "Growth 1", "level": 12 },
+      { "name": "Taunt", "level": 13 },
+      { "name": "Rage Boost", "level": 14 },
+      { "name": "Wage War", "level": 15 }
+    ],
+    "stats": [7, 8, 8, 11, 6],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Koropokkuru",
+    "level": 9,
+    "arcana": "Hermit",
+    "elems": ["-", "-", "wk", "rs", "-", "rs", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Makajam", "level": 0 },
+      { "name": "Bufu", "level": 0 },
+      { "name": "Dodge Ice", "level": 11 },
+      { "name": "Sukunda", "level": 12 },
+      { "name": "Fire Wall", "level": 13 },
+      { "name": "Mabufu", "level": 14 },
+      { "name": "Climate Decorum", "level": 15 }
+    ],
+    "stats": [5, 8, 6, 9, 6],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Koumokuten",
+    "level": 49,
+    "arcana": "Hermit",
+    "elems": ["rs", "-", "-", "wk", "-", "-", "-", "-", "rs", "-"],
+    "skills": [
+      { "name": "Assault Dive", "level": 0 },
+      { "name": "Regenerate 2", "level": 0 },
+      { "name": "Revolution", "level": 0 },
+      { "name": "Attack Master", "level": 51 },
+      { "name": "Ice Wall", "level": 52 },
+      { "name": "Enduring Soul", "level": 54 },
+      { "name": "Deadly Fury", "level": 55 }
+    ],
+    "stats": [37, 29, 34, 29, 25],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Kumbhanda",
+    "level": 42,
+    "arcana": "Hermit",
+    "elems": ["-", "-", "nu", "-", "-", "-", "wk", "-", "-", "rs"],
+    "skills": [
+      { "name": "Magarula", "level": 0 },
+      { "name": "Stagnant Air", "level": 0 },
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Tempest Slash", "level": 43 },
+      { "name": "Dekaja", "level": 45 },
+      { "name": "Fear Boost", "level": 46 },
+      { "name": "Revolution", "level": 47 }
+    ],
+    "stats": [25, 30, 25, 27, 26],
+    "trait": "Rare Antibody",
+    "dlc": false
+  },
+  {
+    "name": "Kurama Tengu",
+    "level": 31,
+    "arcana": "Hermit",
+    "elems": ["-", "-", "-", "nu", "-", "rp", "-", "-", "rs", "rs"],
+    "skills": [
+      { "name": "Double Shot", "level": 0 },
+      { "name": "Masukunda", "level": 0 },
+      { "name": "Magarula", "level": 0 },
+      { "name": "Wind Boost", "level": 32 },
+      { "name": "Brain Jack", "level": 34 },
+      { "name": "Growth 2", "level": 36 }
+    ],
+    "stats": [20, 19, 21, 24, 16],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Kushinada",
+    "level": 42,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "-", "wk", "-", "-", "-", "wk", "rp", "-"],
+    "skills": [
+      { "name": "Hysterical Slap", "level": 0 },
+      { "name": "Psy Wall", "level": 0 },
+      { "name": "Mediarama", "level": 0 },
+      { "name": "Matarukaja", "level": 44 },
+      { "name": "Null Confuse", "level": 45 },
+      { "name": "Wind Wall", "level": 46 },
+      { "name": "Amrita Shower", "level": 47 },
+      { "name": "Null Ice", "level": 48 }
+    ],
+    "stats": [24, 30, 26, 28, 25],
+    "trait": "Savior Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Kushi Mitama",
+    "level": 12,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "wk", "-", "-", "rs", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Dia", "level": 0 },
+      { "name": "Media", "level": 0 },
+      { "name": "Makajam", "level": 0 },
+      { "name": "Regenerate 1", "level": 13 },
+      { "name": "Wind Wall", "level": 14 },
+      { "name": "Forget Boost", "level": 16 }
+    ],
+    "stats": [7, 11, 9, 8, 8],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Lachesis",
+    "level": 35,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "-", "nu", "wk", "rs", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Mabaisudi", "level": 0 },
+      { "name": "Bufula", "level": 0 },
+      { "name": "Growth 2", "level": 0 },
+      { "name": "Marakukaja", "level": 36 },
+      { "name": "Elec Wall", "level": 37 },
+      { "name": "Mabufula", "level": 39 },
+      { "name": "Ice Boost", "level": 41 }
+    ],
+    "stats": [18, 26, 22, 25, 21],
+    "trait": "Internal Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Lakshmi",
+    "level": 69,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "rs", "-"],
+    "skills": [
+      { "name": "Lullaby", "level": 0 },
+      { "name": "Diarahan", "level": 0 },
+      { "name": "Bufudyne", "level": 0 },
+      { "name": "Mediarahan", "level": 70 },
+      { "name": "Climate Decorum", "level": 71 },
+      { "name": "Amrita Shower", "level": 72 },
+      { "name": "Life Aid", "level": 74 }
+    ],
+    "stats": [39, 49, 41, 47, 38],
+    "trait": "Wealth of Lotus",
+    "dlc": false
+  },
+  {
+    "name": "Lamia",
+    "level": 26,
+    "arcana": "Empress",
+    "elems": ["-", "-", "-", "wk", "rs", "-", "-", "wk", "-", "nu"],
+    "skills": [
+      { "name": "Mudo", "level": 0 },
+      { "name": "Rakukaja", "level": 0 },
+      { "name": "Rising Slash", "level": 0 },
+      { "name": "Ominous Words", "level": 27 },
+      { "name": "Foul Breath", "level": 28 },
+      { "name": "Mamudo", "level": 30 },
+      { "name": "Despair Boost", "level": 31 }
+    ],
+    "stats": [21, 15, 18, 19, 12],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Leanan Sidhe",
+    "level": 19,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "wk", "-", "-", "rs", "rs", "-", "-", "-"],
+    "skills": [
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Psio", "level": 0 },
+      { "name": "Marin Karin", "level": 20 },
+      { "name": "Mamudo", "level": 21 },
+      { "name": "Mapsi", "level": 22 },
+      { "name": "Eiga", "level": 23 }
+    ],
+    "stats": [9, 17, 12, 16, 10],
+    "trait": "Skillful Technique",
+    "dlc": false
+  },
+  {
+    "name": "Legion",
+    "level": 38,
+    "arcana": "Fool",
+    "elems": ["rs", "-", "rs", "-", "-", "-", "rs", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Life Drain", "level": 0 },
+      { "name": "Evil Smile", "level": 0 },
+      { "name": "Foul Breath", "level": 39 },
+      { "name": "Tetra Break", "level": 40 },
+      { "name": "Null Dizzy", "level": 42 },
+      { "name": "Eigaon", "level": 45 }
+    ],
+    "stats": [24, 24, 30, 23, 20],
+    "trait": "Draining Mouth",
+    "dlc": false
+  },
+  {
+    "name": "Lilim",
+    "level": 32,
+    "arcana": "Devil",
+    "elems": ["-", "-", "-", "rs", "-", "wk", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Bufula", "level": 0 },
+      { "name": "Lullaby", "level": 0 },
+      { "name": "Freeze Boost", "level": 0 },
+      { "name": "Masukunda", "level": 34 },
+      { "name": "Dodge Bless", "level": 35 },
+      { "name": "Spirit Drain", "level": 36 },
+      { "name": "Mabufula", "level": 37 }
+    ],
+    "stats": [17, 23, 18, 25, 20],
+    "trait": "Cold-Blooded",
+    "dlc": false
+  },
+  {
+    "name": "Lilith",
+    "level": 60,
+    "arcana": "Moon",
+    "elems": ["-", "-", "wk", "rp", "-", "-", "-", "rp", "-", "nu"],
+    "skills": [
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Makarakarn", "level": 0 },
+      { "name": "Freidyne", "level": 0 },
+      { "name": "Mafreidyne", "level": 62 },
+      { "name": "Spirit Drain", "level": 63 },
+      { "name": "Freeze Boost", "level": 64 },
+      { "name": "Nuke Amp", "level": 65 }
+    ],
+    "stats": [33, 43, 37, 39, 35],
+    "trait": "Mighty Gaze",
+    "dlc": false
+  },
+  {
+    "name": "Loa",
+    "level": 70,
+    "arcana": "Hermit",
+    "elems": ["-", "-", "rs", "-", "nu", "-", "wk", "rs", "wk", "-"],
+    "skills": [
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Abysmal Surge", "level": 0 },
+      { "name": "Life Drain", "level": 0 },
+      { "name": "Maeigaon", "level": 72 },
+      { "name": "Absorb Curse", "level": 73 },
+      { "name": "Spirit Drain", "level": 74 },
+      { "name": "Fortify Spirit", "level": 75 }
+    ],
+    "stats": [42, 47, 43, 46, 39],
+    "trait": "Draining Mouth",
+    "dlc": false
+  },
+  {
+    "name": "Lucifer",
+    "level": 93,
+    "arcana": "Star",
+    "elems": ["nu", "nu", "rs", "rs", "rs", "rs", "-", "-", "wk", "ab"],
+    "skills": [
+      { "name": "Gigantomachia", "level": 0 },
+      { "name": "Absorb Curse", "level": 0 },
+      { "name": "Morning Star", "level": 94 },
+      { "name": "Spell Master", "level": 95 },
+      { "name": "Heat Riser", "level": 96 },
+      { "name": "Repel Bless", "level": 97 },
+      { "name": "Insta-Heal", "level": 98 },
+      { "name": "Absorb Phys", "level": 99 }
+    ],
+    "stats": [61, 59, 59, 56, 51],
+    "trait": "Allure of Wisdom",
+    "dlc": false
+  },
+  {
+    "name": "Macabre",
+    "level": 73,
+    "arcana": "Hanged",
+    "elems": ["-", "-", "-", "-", "rs", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Death Scythe", "level": 0 },
+      { "name": "Evil Smile", "level": 0 },
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Auto-Masuku", "level": 74 },
+      { "name": "Ghastly Wail", "level": 75 },
+      { "name": "Myriad Slashes", "level": 76 },
+      { "name": "Ali Dance", "level": 78 }
+    ],
+    "stats": [48, 49, 42, 48, 39],
+    "trait": "Ailment Hunter",
+    "dlc": false
+  },
+  {
+    "name": "Mada",
+    "level": 90,
+    "arcana": "Tower",
+    "elems": ["-", "-", "ab", "wk", "-", "-", "rs", "nu", "-", "-"],
+    "skills": [
+      { "name": "Inferno", "level": 0 },
+      { "name": "Fire Amp", "level": 0 },
+      { "name": "Burn Boost", "level": 0 },
+      { "name": "Fortify Spirit", "level": 91 },
+      { "name": "Blazing Hell", "level": 92 },
+      { "name": "Amrita Shower", "level": 93 },
+      { "name": "Enduring Soul", "level": 95 },
+      { "name": "Spell Master", "level": 96 }
+    ],
+    "stats": [55, 54, 61, 59, 48],
+    "trait": "Drunken Passion",
+    "dlc": false
+  },
+  {
+    "name": "Makami",
+    "level": 15,
+    "arcana": "Temperance",
+    "elems": ["-", "nu", "-", "-", "wk", "rs", "-", "rs", "nu", "-"],
+    "skills": [
+      { "name": "Double Fangs", "level": 0 },
+      { "name": "Frei", "level": 0 },
+      { "name": "Energy Drop", "level": 0 },
+      { "name": "Mafrei", "level": 17 },
+      { "name": "Makajam", "level": 18 },
+      { "name": "Resist Despair", "level": 19 },
+      { "name": "Dodge Elec", "level": 20 }
+    ],
+    "stats": [13, 12, 8, 11, 8],
+    "trait": "Skillful Technique",
+    "dlc": false
+  },
+  {
+    "name": "Mandrake",
+    "level": 3,
+    "arcana": "Death",
+    "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Pulinpa", "level": 0 },
+      { "name": "Energy Drop", "level": 0 },
+      { "name": "Lunge", "level": 4 },
+      { "name": "Sukunda", "level": 5 }
+    ],
+    "stats": [2, 3, 3, 4, 4],
+    "trait": "Savior Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Mara",
+    "level": 73,
+    "arcana": "Tower",
+    "elems": ["-", "nu", "ab", "-", "-", "-", "rp", "-", "rs", "nu"],
+    "skills": [
+      { "name": "Mapsiodyne", "level": 0 },
+      { "name": "One-shot Kill", "level": 0 },
+      { "name": "Tetra Break", "level": 0 },
+      { "name": "Charge", "level": 74 },
+      { "name": "Brain Buster", "level": 76 },
+      { "name": "Psy Amp", "level": 77 },
+      { "name": "Psycho Force", "level": 78 }
+    ],
+    "stats": [51, 43, 43, 45, 44],
+    "trait": "Mighty Gaze",
+    "dlc": false
+  },
+  {
+    "name": "Maria",
+    "level": 93,
+    "arcana": "Faith",
+    "elems": ["-", "-", "wk", "-", "rs", "nu", "-", "-", "ab", "-"],
+    "skills": [
+      { "name": "Invigorate 3", "level": 0 },
+      { "name": "Salvation", "level": 0 },
+      { "name": "Holy Benevolence", "level": 0 },
+      { "name": "Heat Riser", "level": 94 },
+      { "name": "Holy Embrace", "level": 96 },
+      { "name": "Angelic Grace", "level": 97 },
+      { "name": "Holy Whisper", "level": 98 }
+    ],
+    "stats": [52, 66, 53, 54, 61],
+    "trait": "Ave Maria",
+    "dlc": false
+  },
+  {
+    "name": "Matador",
+    "level": 17,
+    "arcana": "Death",
+    "elems": ["-", "-", "-", "-", "wk", "nu", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Psi", "level": 0 },
+      { "name": "Null Dizzy", "level": 0 },
+      { "name": "Sukukaja", "level": 0 },
+      { "name": "Mapsi", "level": 18 },
+      { "name": "Double Shot", "level": 20 },
+      { "name": "Swift Strike", "level": 22 }
+    ],
+    "stats": [11, 13, 10, 16, 8],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Melchizedek",
+    "level": 58,
+    "arcana": "Justice",
+    "elems": ["-", "-", "-", "-", "-", "wk", "rs", "-", "ab", "nu"],
+    "skills": [
+      { "name": "Megaton Raid", "level": 0 },
+      { "name": "Hamaon", "level": 0 },
+      { "name": "Hama Boost", "level": 59 },
+      { "name": "Revolution", "level": 60 },
+      { "name": "Mahamaon", "level": 62 },
+      { "name": "Matarukaja", "level": 63 },
+      { "name": "God's Hand", "level": 65 }
+    ],
+    "stats": [37, 32, 40, 39, 33],
+    "trait": "Deathly Illness",
+    "dlc": false
+  },
+  {
+    "name": "Metatron",
+    "level": 89,
+    "arcana": "Justice",
+    "elems": ["-", "-", "-", "-", "wk", "rp", "ab", "ab", "-", "wk"],
+    "skills": [
+      { "name": "Mahamaon", "level": 0 },
+      { "name": "Sword Dance", "level": 0 },
+      { "name": "Makougaon", "level": 0 },
+      { "name": "Megidolaon", "level": 91 },
+      { "name": "Hama Boost", "level": 92 },
+      { "name": "Concentrate", "level": 93 },
+      { "name": "Bless Amp", "level": 94 },
+      { "name": "Divine Judgement", "level": 95 }
+    ],
+    "stats": [54, 61, 60, 57, 42],
+    "trait": "Martyr's Gift",
+    "dlc": false
+  },
+  {
+    "name": "Michael",
+    "level": 87,
+    "arcana": "Judgement",
+    "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "rp", "nu"],
+    "skills": [
+      { "name": "Divine Judgement", "level": 0 },
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Debilitate", "level": 0 },
+      { "name": "Sword Dance", "level": 89 },
+      { "name": "Mahamaon", "level": 90 },
+      { "name": "Megidolaon", "level": 91 },
+      { "name": "Cosmic Flare", "level": 92 }
+    ],
+    "stats": [57, 54, 55, 56, 46],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Mishaguji",
+    "level": 52,
+    "arcana": "Hierophant",
+    "elems": ["rs", "-", "-", "wk", "nu", "-", "-", "-", "-", "ab"],
+    "skills": [
+      { "name": "Regenerate 3", "level": 0 },
+      { "name": "Brain Jack", "level": 0 },
+      { "name": "Psiodyne", "level": 0 },
+      { "name": "One-shot Kill", "level": 54 },
+      { "name": "Endure", "level": 55 },
+      { "name": "Deathbound", "level": 56 },
+      { "name": "Ailment Boost", "level": 57 }
+    ],
+    "stats": [32, 32, 32, 32, 35],
+    "trait": "Ailment Hunter",
+    "dlc": false
+  },
+  {
+    "name": "Mithra",
+    "level": 33,
+    "arcana": "Temperance",
+    "elems": ["-", "-", "-", "nu", "wk", "-", "-", "-", "nu", "-"],
+    "skills": [
+      { "name": "Kouga", "level": 0 },
+      { "name": "Mahama", "level": 0 },
+      { "name": "Diarama", "level": 0 },
+      { "name": "Makouga", "level": 34 },
+      { "name": "Dekunda", "level": 35 },
+      { "name": "Bless Boost", "level": 36 },
+      { "name": "Thermopylae", "level": 38 }
+    ],
+    "stats": [19, 26, 19, 24, 18],
+    "trait": "Blessed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Mithras",
+    "level": 39,
+    "arcana": "Sun",
+    "elems": ["rs", "rs", "ab", "-", "-", "-", "wk", "nu", "-", "-"],
+    "skills": [
+      { "name": "Tentarafoo", "level": 0 },
+      { "name": "Mafreila", "level": 0 },
+      { "name": "Heat Wave", "level": 0 },
+      { "name": "Tetra Break", "level": 41 },
+      { "name": "Nuke Break", "level": 42 },
+      { "name": "Mabaisudi", "level": 43 },
+      { "name": "Freidyne", "level": 45 }
+    ],
+    "stats": [27, 25, 27, 25, 20],
+    "trait": "Skillful Technique",
+    "dlc": false
+  },
+  {
+    "name": "Mokoi",
+    "level": 9,
+    "arcana": "Death",
+    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Dazzler", "level": 0 },
+      { "name": "Skull Cracker", "level": 10 },
+      { "name": "Marin Karin", "level": 12 },
+      { "name": "Dodge Elec", "level": 13 },
+      { "name": "Dekunda", "level": 14 }
+    ],
+    "stats": [9, 5, 6, 10, 4],
+    "trait": "Gloomy Child",
+    "dlc": false
+  },
+  {
+    "name": "Moloch",
+    "level": 60,
+    "arcana": "Hanged",
+    "elems": ["-", "-", "ab", "wk", "rs", "rs", "ab", "-", "-", "nu"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Stagnant Air", "level": 0 },
+      { "name": "Evil Smile", "level": 0 },
+      { "name": "Maragidyne", "level": 62 },
+      { "name": "Ghastly Wail", "level": 63 },
+      { "name": "Absorb Fire", "level": 64 },
+      { "name": "Fire Amp", "level": 65 }
+    ],
+    "stats": [32, 45, 42, 31, 37],
+    "trait": "Immunity",
+    "dlc": false
+  },
+  {
+    "name": "Mot",
+    "level": 72,
+    "arcana": "Death",
+    "elems": ["-", "rs", "-", "-", "ab", "wk", "-", "-", "-", "rp"],
+    "skills": [
+      { "name": "Megidola", "level": 0 },
+      { "name": "Matarukaja", "level": 0 },
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Concentrate", "level": 74 },
+      { "name": "Megidolaon", "level": 76 },
+      { "name": "Repel Elec", "level": 77 }
+    ],
+    "stats": [43, 51, 48, 42, 39],
+    "trait": "Mighty Gaze",
+    "dlc": false
+  },
+  {
+    "name": "Mother Harlot",
+    "level": 85,
+    "arcana": "Empress",
+    "elems": ["-", "-", "-", "-", "rp", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Mudo Boost", "level": 0 },
+      { "name": "Ice Age", "level": 86 },
+      { "name": "Ice Amp", "level": 87 },
+      { "name": "Repel Bless", "level": 88 },
+      { "name": "Debilitate", "level": 90 }
+    ],
+    "stats": [55, 54, 48, 50, 55],
+    "trait": "Ghost Nest",
+    "dlc": false
+  },
+  {
+    "name": "Mothman",
+    "level": 33,
+    "arcana": "Moon",
+    "elems": ["-", "wk", "-", "-", "nu", "-", "rs", "-", "-", "-"],
+    "skills": [
+      { "name": "Skull Cracker", "level": 0 },
+      { "name": "Mazionga", "level": 0 },
+      { "name": "Shock Boost", "level": 0 },
+      { "name": "Tentarafoo", "level": 35 },
+      { "name": "Ambient Aid", "level": 36 },
+      { "name": "Makajamaon", "level": 37 },
+      { "name": "Ziodyne", "level": 38 }
+    ],
+    "stats": [21, 24, 16, 24, 21],
+    "trait": "Static Electricity",
+    "dlc": false
+  },
+  {
+    "name": "Naga",
+    "level": 24,
+    "arcana": "Hermit",
+    "elems": ["-", "rs", "-", "-", "nu", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Power Slash", "level": 0 },
+      { "name": "Memory Blow", "level": 0 },
+      { "name": "Zionga", "level": 0 },
+      { "name": "Shock Boost", "level": 26 },
+      { "name": "Counter", "level": 27 },
+      { "name": "Mazionga", "level": 28 },
+      { "name": "Marakukaja", "level": 29 }
+    ],
+    "stats": [15, 17, 15, 17, 15],
+    "trait": "Striking Weight",
+    "dlc": false
+  },
+  {
+    "name": "Narcissus",
+    "level": 48,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "wk", "-", "nu", "rs", "-", "-", "rs", "-"],
+    "skills": [
+      { "name": "Dazzler", "level": 0 },
+      { "name": "Magarula", "level": 0 },
+      { "name": "Energy Drop", "level": 0 },
+      { "name": "Growth 3", "level": 50 },
+      { "name": "Dizzy Boost", "level": 51 },
+      { "name": "Mediarama", "level": 52 },
+      { "name": "Ambient Aid", "level": 53 }
+    ],
+    "stats": [27, 31, 29, 33, 31],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Nebiros",
+    "level": 74,
+    "arcana": "Devil",
+    "elems": ["-", "-", "-", "-", "-", "-", "nu", "-", "wk", "rs"],
+    "skills": [
+      { "name": "Marin Karin", "level": 0 },
+      { "name": "Mapsiodyne", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Brain Jack", "level": 76 },
+      { "name": "Brainwash Boost", "level": 77 },
+      { "name": "Megidolaon", "level": 78 },
+      { "name": "Null Bless", "level": 80 }
+    ],
+    "stats": [45, 52, 44, 46, 42],
+    "trait": "Psychic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Neko Shogun",
+    "level": 30,
+    "arcana": "Star",
+    "elems": ["rs", "-", "-", "-", "rs", "wk", "-", "-", "nu", "rs"],
+    "skills": [
+      { "name": "Psio", "level": 0 },
+      { "name": "Diarama", "level": 0 },
+      { "name": "Masukukaja", "level": 0 },
+      { "name": "Invigorate 1", "level": 31 },
+      { "name": "Cornered Fang", "level": 33 },
+      { "name": "Defense Master", "level": 35 },
+      { "name": "Fortified Moxy", "level": 36 }
+    ],
+    "stats": [19, 20, 19, 21, 18],
+    "trait": "Pinch Anchor",
+    "dlc": false
+  },
+  {
+    "name": "Nekomata",
+    "level": 17,
+    "arcana": "Magician",
+    "elems": ["-", "-", "-", "-", "wk", "-", "rs", "-", "-", "-"],
+    "skills": [
+      { "name": "Magaru", "level": 0 },
+      { "name": "Terror Claw", "level": 0 },
+      { "name": "Evil Touch", "level": 0 },
+      { "name": "Hysterical Slap", "level": 18 },
+      { "name": "Wind Break", "level": 20 },
+      { "name": "Elec Wall", "level": 21 },
+      { "name": "Dodge Elec", "level": 22 }
+    ],
+    "stats": [13, 10, 12, 15, 8],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Nigi Mitama",
+    "level": 22,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "rs"],
+    "skills": [
+      { "name": "Baisudi", "level": 0 },
+      { "name": "Diarama", "level": 0 },
+      { "name": "Makouha", "level": 0 },
+      { "name": "Divine Grace", "level": 24 },
+      { "name": "Me Patra", "level": 25 },
+      { "name": "Climate Decorum", "level": 26 }
+    ],
+    "stats": [13, 15, 15, 16, 14],
+    "trait": "Relief Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Norn",
+    "level": 52,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "-", "-", "rp", "ab", "-", "-", "rs", "-"],
+    "skills": [
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Garudyne", "level": 0 },
+      { "name": "Nocturnal Flash", "level": 0 },
+      { "name": "Diarahan", "level": 54 },
+      { "name": "Amrita Drop", "level": 55 },
+      { "name": "Tetraja", "level": 56 },
+      { "name": "Samarecarm", "level": 57 }
+    ],
+    "stats": [30, 38, 33, 34, 28],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Nue",
+    "level": 20,
+    "arcana": "Death",
+    "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Maeiha", "level": 0 },
+      { "name": "Skull Cracker", "level": 0 },
+      { "name": "Mudo", "level": 21 },
+      { "name": "Pulinpa", "level": 22 },
+      { "name": "Mamudo", "level": 24 },
+      { "name": "Assault Dive", "level": 25 },
+      { "name": "Curse Boost", "level": 26 }
+    ],
+    "stats": [16, 10, 17, 14, 10],
+    "trait": "Mighty Gaze",
+    "dlc": false
+  },
+  {
+    "name": "Obariyon",
+    "level": 8,
+    "arcana": "Fool",
+    "elems": ["rs", "-", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Snap", "level": 0 },
+      { "name": "Sukunda", "level": 0 },
+      { "name": "Lucky Punch", "level": 9 },
+      { "name": "Resist Fear", "level": 10 },
+      { "name": "Dekaja", "level": 12 }
+    ],
+    "stats": [7, 3, 9, 8, 4],
+    "trait": "Striking Weight",
+    "dlc": false
+  },
+  {
+    "name": "Oberon",
+    "level": 66,
+    "arcana": "Emperor",
+    "elems": ["-", "-", "-", "-", "rs", "-", "nu", "wk", "-", "-"],
+    "skills": [
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Nocturnal Flash", "level": 0 },
+      { "name": "Heat Wave", "level": 0 },
+      { "name": "Matarukaja", "level": 68 },
+      { "name": "Myriad Slashes", "level": 69 },
+      { "name": "Evade Nuke", "level": 70 },
+      { "name": "Samarecarm", "level": 71 },
+      { "name": "Elec Amp", "level": 72 }
+    ],
+    "stats": [40, 45, 42, 43, 35],
+    "trait": "Static Electricity",
+    "dlc": false
+  },
+  {
+    "name": "Odin",
+    "level": 84,
+    "arcana": "Emperor",
+    "elems": ["-", "-", "-", "-", "nu", "ab", "-", "-", "rp", "rp"],
+    "skills": [
+      { "name": "Thunder Reign", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Wild Thunder", "level": 86 },
+      { "name": "Concentrate", "level": 87 },
+      { "name": "Fast Heal", "level": 88 },
+      { "name": "Elec Amp", "level": 89 }
+    ],
+    "stats": [53, 58, 54, 52, 42],
+    "trait": "Bargain Bolts",
+    "dlc": false
+  },
+  {
+    "name": "Okuninushi",
+    "level": 54,
+    "arcana": "Faith",
+    "elems": ["-", "-", "-", "-", "rp", "wk", "nu", "wk", "-", "-"],
+    "skills": [
+      { "name": "Mapsio", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Matarukaja", "level": 0 },
+      { "name": "Psy Boost", "level": 55 },
+      { "name": "Psy Break", "level": 56 },
+      { "name": "Evade Nuke", "level": 57 },
+      { "name": "Heat Wave", "level": 59 }
+    ],
+    "stats": [39, 35, 33, 32, 30],
+    "trait": "Psychic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Ongyo-Ki",
+    "level": 89,
+    "arcana": "Hermit",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "rp", "rp"],
+    "skills": [
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Makajamaon", "level": 0 },
+      { "name": "Last Stand", "level": 0 },
+      { "name": "Arms Master", "level": 91 },
+      { "name": "Regenerate 3", "level": 92 },
+      { "name": "Firm Stance", "level": 93 },
+      { "name": "Agneyastra", "level": 95 }
+    ],
+    "stats": [56, 53, 57, 59, 49],
+    "trait": "Demon's Bite",
+    "dlc": false
+  },
+  {
+    "name": "Oni",
+    "level": 20,
+    "arcana": "Strength",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Rampage", "level": 0 },
+      { "name": "Counter", "level": 0 },
+      { "name": "Snap", "level": 0 },
+      { "name": "Giant Slice", "level": 22 },
+      { "name": "Sharp Student", "level": 23 },
+      { "name": "Memory Blow", "level": 24 }
+    ],
+    "stats": [19, 9, 17, 12, 10],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "Onmoraki",
+    "level": 12,
+    "arcana": "Moon",
+    "elems": ["-", "-", "rs", "wk", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Eiha", "level": 0 },
+      { "name": "Ice Wall", "level": 0 },
+      { "name": "Agi", "level": 13 },
+      { "name": "Evil Touch", "level": 14 },
+      { "name": "Pulinpa", "level": 15 },
+      { "name": "Confuse Boost", "level": 17 }
+    ],
+    "stats": [9, 12, 7, 10, 5],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Orichalcum",
+    "level": 60,
+    "arcana": "Faith",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "wk", "-"],
+    "skills": [
+      { "name": "Inferno", "level": 0 },
+      { "name": "Diamond Dust", "level": 0 },
+      { "name": "Panta Rhei", "level": 0 },
+      { "name": "Thunder Reign", "level": 0 },
+      { "name": "Psycho Force", "level": 0 },
+      { "name": "Atomic Flare", "level": 0 },
+      { "name": "Divine Judgement", "level": 0 },
+      { "name": "Demonic Decree", "level": 0 },
+      { "name": "Immunity", "level": 0 },
+      { "name": "Mouth of Savoring", "level": 0 },
+      { "name": "Blessed Bloodline", "level": 0 }
+    ],
+    "stats": [60, 60, 60, 60, 60],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Orlov",
+    "level": 30,
+    "arcana": "Strength",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "-", "wk"],
+    "skills": [
+      { "name": "Maragion", "level": 0 },
+      { "name": "Mabufula", "level": 0 },
+      { "name": "Magarula", "level": 0 },
+      { "name": "Mazionga", "level": 0 },
+      { "name": "Mapsio", "level": 0 },
+      { "name": "Mafreila", "level": 0 },
+      { "name": "Makouga", "level": 0 },
+      { "name": "Maeiga", "level": 0 },
+      { "name": "Heated Bloodline", "level": 0 },
+      { "name": "Electric Bloodline", "level": 0 },
+      { "name": "Atomic Bloodline", "level": 0 }
+    ],
+    "stats": [30, 30, 30, 30, 30],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Orobas",
+    "level": 17,
+    "arcana": "Hierophant",
+    "elems": ["-", "-", "-", "wk", "-", "rs", "-", "-", "-", "rs"],
+    "skills": [
+      { "name": "Maragi", "level": 0 },
+      { "name": "Sukukaja", "level": 0 },
+      { "name": "Dekaja", "level": 0 },
+      { "name": "Marakunda", "level": 19 },
+      { "name": "Fire Break", "level": 20 },
+      { "name": "Makajamaon", "level": 21 }
+    ],
+    "stats": [11, 14, 15, 12, 6],
+    "trait": "Mighty Gaze",
+    "dlc": false
+  },
+  {
+    "name": "Orthrus",
+    "level": 21,
+    "arcana": "Hanged",
+    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+    "skills": [
+      { "name": "Agilao", "level": 0 },
+      { "name": "Double Fangs", "level": 0 },
+      { "name": "Maragi", "level": 0 },
+      { "name": "Burn Boost", "level": 22 },
+      { "name": "Cornered Fang", "level": 24 },
+      { "name": "Matarukaja", "level": 26 }
+    ],
+    "stats": [16, 14, 14, 19, 7],
+    "trait": "Thermal Conduct",
+    "dlc": false
+  },
+  {
+    "name": "Ose",
+    "level": 42,
+    "arcana": "Fool",
+    "elems": ["-", "nu", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Oni Kagura", "level": 0 },
+      { "name": "Counterstrike", "level": 0 },
+      { "name": "Charge", "level": 0 },
+      { "name": "Tempest Slash", "level": 43 },
+      { "name": "Matarukaja", "level": 45 },
+      { "name": "Heat Wave", "level": 47 }
+    ],
+    "stats": [32, 24, 25, 31, 21],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "Pale Rider",
+    "level": 54,
+    "arcana": "Death",
+    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "rp"],
+    "skills": [
+      { "name": "Abysmal Surge", "level": 0 },
+      { "name": "Eigaon", "level": 0 },
+      { "name": "Brain Shake", "level": 0 },
+      { "name": "Curse Boost", "level": 55 },
+      { "name": "Megidola", "level": 56 },
+      { "name": "Evade Bless", "level": 58 },
+      { "name": "Deathbound", "level": 59 }
+    ],
+    "stats": [32, 37, 33, 40, 27],
+    "trait": "Foul Stench",
+    "dlc": false
+  },
+  {
+    "name": "Parvati",
+    "level": 56,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "-", "rp", "-", "-", "rs", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Diarama", "level": 0 },
+      { "name": "Psiodyne", "level": 0 },
+      { "name": "Psy Break", "level": 0 },
+      { "name": "Energy Shower", "level": 57 },
+      { "name": "Diarahan", "level": 58 },
+      { "name": "Mapsiodyne", "level": 59 },
+      { "name": "Null Ice", "level": 61 }
+    ],
+    "stats": [33, 39, 33, 39, 31],
+    "trait": "Skillful Technique",
+    "dlc": false
+  },
+  {
+    "name": "Pazuzu",
+    "level": 45,
+    "arcana": "Devil",
+    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Maeiga", "level": 0 },
+      { "name": "Tentarafoo", "level": 0 },
+      { "name": "Mudoon", "level": 0 },
+      { "name": "Ambient Aid", "level": 47 },
+      { "name": "Evil Smile", "level": 48 },
+      { "name": "Stagnant Air", "level": 49 },
+      { "name": "Eigaon", "level": 50 }
+    ],
+    "stats": [29, 33, 27, 26, 27],
+    "trait": "Cursed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Phoenix",
+    "level": 21,
+    "arcana": "Faith",
+    "elems": ["-", "-", "-", "rs", "wk", "nu", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Freila", "level": 0 },
+      { "name": "Dream Needle", "level": 0 },
+      { "name": "Diarama", "level": 22 },
+      { "name": "Recarm", "level": 23 },
+      { "name": "Nuke Boost", "level": 25 },
+      { "name": "Mafreila", "level": 26 }
+    ],
+    "stats": [12, 15, 15, 17, 11],
+    "trait": "Atomic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Pisaca",
+    "level": 28,
+    "arcana": "Death",
+    "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Dream Needle", "level": 0 },
+      { "name": "Rampage", "level": 0 },
+      { "name": "Stagnant Air", "level": 0 },
+      { "name": "Mamudo", "level": 29 },
+      { "name": "Abysmal Surge", "level": 31 },
+      { "name": "Despair Boost", "level": 32 },
+      { "name": "Mudoon", "level": 33 }
+    ],
+    "stats": [19, 21, 21, 16, 14],
+    "trait": "Rare Antibody",
+    "dlc": false
+  },
+  {
+    "name": "Pixie",
+    "level": 2,
+    "arcana": "Lovers",
+    "elems": ["-", "wk", "-", "wk", "rs", "-", "-", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Zio", "level": 0 },
+      { "name": "Dia", "level": 0 },
+      { "name": "Patra", "level": 3 },
+      { "name": "Tarukaja", "level": 5 },
+      { "name": "Resist Confuse", "level": 6 }
+    ],
+    "stats": [1, 3, 3, 4, 2],
+    "trait": "Static Electricity",
+    "dlc": false
+  },
+  {
+    "name": "Power",
+    "level": 41,
+    "arcana": "Justice",
+    "elems": ["-", "wk", "-", "-", "-", "rs", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Hamaon", "level": 0 },
+      { "name": "Brain Shake", "level": 0 },
+      { "name": "Swift Strike", "level": 42 },
+      { "name": "Makouga", "level": 43 },
+      { "name": "Bless Boost", "level": 44 },
+      { "name": "Masukukaja", "level": 45 },
+      { "name": "Null Curse", "level": 46 }
+    ],
+    "stats": [30, 26, 28, 25, 21],
+    "trait": "Internal Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Principality",
+    "level": 29,
+    "arcana": "Justice",
+    "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Makouga", "level": 0 },
+      { "name": "Makajamaon", "level": 0 },
+      { "name": "Tetraja", "level": 0 },
+      { "name": "Mediarama", "level": 30 },
+      { "name": "Forget Boost", "level": 32 },
+      { "name": "Bless Boost", "level": 34 },
+      { "name": "Mabaisudi", "level": 35 }
+    ],
+    "stats": [17, 19, 18, 21, 19],
+    "trait": "Blessed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Queen Mab",
+    "level": 43,
+    "arcana": "Magician",
+    "elems": ["-", "-", "nu", "-", "rs", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Mazionga", "level": 0 },
+      { "name": "Makajamaon", "level": 0 },
+      { "name": "Burn Boost", "level": 0 },
+      { "name": "Matarunda", "level": 44 },
+      { "name": "Makara Break", "level": 46 },
+      { "name": "Agidyne", "level": 47 },
+      { "name": "Concentrate", "level": 48 }
+    ],
+    "stats": [23, 35, 26, 30, 22],
+    "trait": "Static Electricity",
+    "dlc": false
+  },
+  {
+    "name": "Queen's Necklace",
+    "level": 15,
+    "arcana": "Empress",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "wk", "-", "-", "-"],
+    "skills": [
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Rakukaja", "level": 0 },
+      { "name": "Sukukaja", "level": 0 },
+      { "name": "Recarm", "level": 0 },
+      { "name": "Media", "level": 0 },
+      { "name": "Tarunda", "level": 0 },
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Sukunda", "level": 0 },
+      { "name": "Potent Hypnosis", "level": 0 },
+      { "name": "Relief Bloodline", "level": 0 },
+      { "name": "Savior Bloodline", "level": 0 }
+    ],
+    "stats": [15, 15, 15, 15, 15],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Quetzalcoatl",
+    "level": 66,
+    "arcana": "Sun",
+    "elems": ["-", "-", "nu", "-", "-", "rs", "wk", "-", "-", "-"],
+    "skills": [
+      { "name": "Magarula", "level": 0 },
+      { "name": "Garudyne", "level": 0 },
+      { "name": "Memory Blow", "level": 0 },
+      { "name": "Growth 3", "level": 68 },
+      { "name": "Regenerate 3", "level": 69 },
+      { "name": "Magarudyne", "level": 70 },
+      { "name": "Wind Amp", "level": 71 }
+    ],
+    "stats": [41, 46, 41, 43, 34],
+    "trait": "Wind Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Raja Naga",
+    "level": 55,
+    "arcana": "Temperance",
+    "elems": ["-", "-", "-", "-", "nu", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Elec Break", "level": 0 },
+      { "name": "Tentarafoo", "level": 0 },
+      { "name": "Shock Boost", "level": 57 },
+      { "name": "Makarakarn", "level": 58 },
+      { "name": "Maziodyne", "level": 59 },
+      { "name": "Evade Wind", "level": 60 }
+    ],
+    "stats": [33, 37, 36, 35, 31],
+    "trait": "Electric Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Rakshasa",
+    "level": 24,
+    "arcana": "Strength",
+    "elems": ["rs", "nu", "rs", "-", "-", "wk", "-", "-", "wk", "rs"],
+    "skills": [
+      { "name": "Giant Slice", "level": 0 },
+      { "name": "Wind Wall", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Regenerate 1", "level": 26 },
+      { "name": "Mind Slice", "level": 27 },
+      { "name": "Counterstrike", "level": 28 },
+      { "name": "Adverse Resolve", "level": 30 }
+    ],
+    "stats": [20, 15, 18, 17, 9],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Rangda",
+    "level": 48,
+    "arcana": "Magician",
+    "elems": ["rp", "rp", "nu", "-", "wk", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Swift Strike", "level": 0 },
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Counterstrike", "level": 0 },
+      { "name": "Eigaon", "level": 49 },
+      { "name": "Matarunda", "level": 51 },
+      { "name": "Mudoon", "level": 53 }
+    ],
+    "stats": [28, 34, 30, 33, 26],
+    "trait": "Cursed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Raphael",
+    "level": 78,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "-", "ab", "-", "-", "nu", "-", "nu", "-"],
+    "skills": [
+      { "name": "Sword Dance", "level": 0 },
+      { "name": "Charge", "level": 0 },
+      { "name": "Dekaja", "level": 0 },
+      { "name": "Heat Riser", "level": 80 },
+      { "name": "Growth 3", "level": 81 },
+      { "name": "Adverse Resolve", "level": 82 },
+      { "name": "Arms Master", "level": 83 }
+    ],
+    "stats": [57, 45, 49, 55, 35],
+    "trait": "Pinch Anchor",
+    "dlc": false
+  },
+  {
+    "name": "Red Rider",
+    "level": 41,
+    "arcana": "Tower",
+    "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Rising Slash", "level": 0 },
+      { "name": "Psy Break", "level": 0 },
+      { "name": "Mapsio", "level": 0 },
+      { "name": "Negative Pile", "level": 42 },
+      { "name": "Despair Boost", "level": 44 },
+      { "name": "Ominous Words", "level": 45 },
+      { "name": "Last Stand", "level": 46 }
+    ],
+    "stats": [26, 27, 25, 29, 23],
+    "trait": "Ailment Hunter",
+    "dlc": false
+  },
+  {
+    "name": "Regent",
+    "level": 10,
+    "arcana": "Emperor",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Maragi", "level": 0 },
+      { "name": "Mabufu", "level": 0 },
+      { "name": "Magaru", "level": 0 },
+      { "name": "Mazio", "level": 0 },
+      { "name": "Mapsi", "level": 0 },
+      { "name": "Mafrei", "level": 0 },
+      { "name": "Makouha", "level": 0 },
+      { "name": "Maeiha", "level": 0 },
+      { "name": "Mighty Gaze", "level": 0 },
+      { "name": "Skillful Technique", "level": 0 },
+      { "name": "Skillful Combo", "level": 0 }
+    ],
+    "stats": [10, 10, 10, 10, 10],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Saki Mitama",
+    "level": 6,
+    "arcana": "Lovers",
+    "elems": ["-", "-", "-", "rs", "-", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Bufu", "level": 0 },
+      { "name": "Energy Drop", "level": 0 },
+      { "name": "Wind Wall", "level": 0 },
+      { "name": "Growth 1", "level": 7 },
+      { "name": "Rakukaja", "level": 8 },
+      { "name": "Resist Dizzy", "level": 10 }
+    ],
+    "stats": [4, 6, 5, 6, 4],
+    "trait": "Internal Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Sandalphon",
+    "level": 75,
+    "arcana": "Moon",
+    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "rp", "nu"],
+    "skills": [
+      { "name": "Mahamaon", "level": 0 },
+      { "name": "Samarecarm", "level": 0 },
+      { "name": "Amrita Shower", "level": 0 },
+      { "name": "Angelic Grace", "level": 77 },
+      { "name": "Repel Curse", "level": 78 },
+      { "name": "Sword Dance", "level": 79 },
+      { "name": "Megidolaon", "level": 81 }
+    ],
+    "stats": [46, 51, 49, 48, 38],
+    "trait": "Omen",
+    "dlc": false
+  },
+  {
+    "name": "Sandman",
+    "level": 23,
+    "arcana": "Magician",
+    "elems": ["-", "-", "wk", "-", "wk", "rs", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Dormina", "level": 0 },
+      { "name": "Garula", "level": 0 },
+      { "name": "Dormin Rush", "level": 0 },
+      { "name": "Sukunda", "level": 24 },
+      { "name": "Null Sleep", "level": 26 },
+      { "name": "Magarula", "level": 27 },
+      { "name": "Sleep Boost", "level": 28 }
+    ],
+    "stats": [11, 13, 14, 17, 21],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Sarasvati",
+    "level": 50,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "-", "nu", "rs", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Mediarama", "level": 0 },
+      { "name": "Ice Wall", "level": 0 },
+      { "name": "Tentarafoo", "level": 0 },
+      { "name": "Psy Wall", "level": 51 },
+      { "name": "Dekaja", "level": 52 },
+      { "name": "Matarunda", "level": 53 },
+      { "name": "Diarahan", "level": 54 }
+    ],
+    "stats": [30, 35, 32, 33, 27],
+    "trait": "Relief Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Satan",
+    "level": 92,
+    "arcana": "Judgement",
+    "elems": ["-", "rs", "-", "rp", "-", "-", "-", "-", "-", "rp"],
+    "skills": [
+      { "name": "Diamond Dust", "level": 0 },
+      { "name": "Ice Age", "level": 0 },
+      { "name": "Regenerate 3", "level": 0 },
+      { "name": "Black Viper", "level": 94 },
+      { "name": "Invigorate 3", "level": 95 },
+      { "name": "Fortify Spirit", "level": 96 },
+      { "name": "Concentrate", "level": 97 },
+      { "name": "Absorb Ice", "level": 98 }
+    ],
+    "stats": [62, 59, 55, 52, 55],
+    "trait": "Cocytus",
+    "dlc": false
+  },
+  {
+    "name": "Satanael",
+    "level": 95,
+    "arcana": "Fool",
+    "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "nu", "ab"],
+    "skills": [
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Megidolaon", "level": 0 },
+      { "name": "Survival Trick", "level": 0 },
+      { "name": "Riot Gun", "level": 0 },
+      { "name": "Black Viper", "level": 96 },
+      { "name": "Heat Riser", "level": 97 },
+      { "name": "Tyrant's Mind", "level": 98 },
+      { "name": "Victory Cry", "level": 99 }
+    ],
+    "stats": [63, 60, 57, 56, 56],
+    "trait": "Pagan Allure",
+    "dlc": false
+  },
+  {
+    "name": "Scathach",
+    "level": 77,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "-", "nu", "rp", "-", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Makarakarn", "level": 0 },
+      { "name": "Freeze Boost", "level": 78 },
+      { "name": "Matarukaja", "level": 79 },
+      { "name": "Vorpal Blade", "level": 81 },
+      { "name": "Attack Master", "level": 82 }
+    ],
+    "stats": [48, 52, 46, 48, 44],
+    "trait": "Skillful Technique",
+    "dlc": false
+  },
+  {
+    "name": "Seiryu",
+    "level": 62,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Bufudyne", "level": 0 },
+      { "name": "Diarahan", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Repel Nuke", "level": 63 },
+      { "name": "Mabufudyne", "level": 65 },
+      { "name": "Amrita Drop", "level": 66 },
+      { "name": "Makarakarn", "level": 67 }
+    ],
+    "stats": [38, 41, 43, 37, 34],
+    "trait": "Relentless",
+    "dlc": false
+  },
+  {
+    "name": "Setanta",
+    "level": 25,
+    "arcana": "Emperor",
+    "elems": ["-", "rs", "-", "-", "-", "-", "wk", "rs", "-", "-"],
+    "skills": [
+      { "name": "Giant Slice", "level": 0 },
+      { "name": "Dormin Rush", "level": 0 },
+      { "name": "Counter", "level": 0 },
+      { "name": "Charge", "level": 27 },
+      { "name": "Rebellion", "level": 29 },
+      { "name": "Rising Slash", "level": 30 }
+    ],
+    "stats": [19, 16, 18, 13, 16],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "Seth",
+    "level": 51,
+    "arcana": "Tower",
+    "elems": ["-", "-", "rp", "-", "-", "nu", "-", "-", "wk", "rs"],
+    "skills": [
+      { "name": "One-shot Kill", "level": 0 },
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Masukukaja", "level": 0 },
+      { "name": "Gun Amp", "level": 53 },
+      { "name": "Fire Break", "level": 54 },
+      { "name": "Fortify Spirit", "level": 56 }
+    ],
+    "stats": [32, 35, 30, 35, 28],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Shiisaa",
+    "level": 15,
+    "arcana": "Strength",
+    "elems": ["rs", "-", "-", "-", "-", "-", "wk", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Double Fangs", "level": 0 },
+      { "name": "Skull Cracker", "level": 0 },
+      { "name": "Frei", "level": 0 },
+      { "name": "Dodge Curse", "level": 16 },
+      { "name": "Rampage", "level": 17 },
+      { "name": "Dodge Elec", "level": 19 }
+    ],
+    "stats": [10, 11, 11, 11, 9],
+    "trait": "Atomic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Shiki-Ouji",
+    "level": 18,
+    "arcana": "Chariot",
+    "elems": ["nu", "nu", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+    "skills": [
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Taunt", "level": 0 },
+      { "name": "Double Shot", "level": 0 },
+      { "name": "Mapsi", "level": 19 },
+      { "name": "Dekaja", "level": 21 },
+      { "name": "Psio", "level": 23 },
+      { "name": "Oni Kagura", "level": 24 }
+    ],
+    "stats": [16, 14, 12, 9, 10],
+    "trait": "Psychic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Shiva",
+    "level": 82,
+    "arcana": "Judgement",
+    "elems": ["-", "-", "-", "nu", "rp", "-", "ab", "wk", "nu", "nu"],
+    "skills": [
+      { "name": "Psycho Force", "level": 0 },
+      { "name": "Maziodyne", "level": 0 },
+      { "name": "Enduring Soul", "level": 0 },
+      { "name": "Riot Gun", "level": 85 },
+      { "name": "Megidolaon", "level": 86 },
+      { "name": "Auto-Mataru", "level": 87 },
+      { "name": "Psycho Blast", "level": 88 }
+    ],
+    "stats": [55, 54, 53, 53, 38],
+    "trait": "Psychic Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Siegfried",
+    "level": 84,
+    "arcana": "Faith",
+    "elems": ["nu", "rs", "-", "rs", "nu", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Brave Blade", "level": 0 },
+      { "name": "Masukukaja", "level": 0 },
+      { "name": "High Counter", "level": 0 },
+      { "name": "Charge", "level": 85 },
+      { "name": "Apt Pupil", "level": 87 },
+      { "name": "Vorpal Blade", "level": 89 },
+      { "name": "Auto-Mataru", "level": 90 }
+    ],
+    "stats": [61, 43, 55, 55, 45],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "Silky",
+    "level": 6,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "wk", "rs", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Dormina", "level": 0 },
+      { "name": "Bufu", "level": 0 },
+      { "name": "Dia", "level": 7 },
+      { "name": "Patra", "level": 9 },
+      { "name": "Sharp Student", "level": 10 }
+    ],
+    "stats": [4, 7, 4, 5, 5],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Skadi",
+    "level": 53,
+    "arcana": "Priestess",
+    "elems": ["-", "-", "-", "rp", "-", "-", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Deadly Fury", "level": 0 },
+      { "name": "Evil Smile", "level": 0 },
+      { "name": "Fear Boost", "level": 0 },
+      { "name": "Ghastly Wail", "level": 54 },
+      { "name": "Mabufudyne", "level": 56 },
+      { "name": "Maeigaon", "level": 57 },
+      { "name": "Spirit Drain", "level": 58 }
+    ],
+    "stats": [33, 39, 32, 34, 28],
+    "trait": "Bloodstained Eyes",
+    "dlc": false
+  },
+  {
+    "name": "Slime",
+    "level": 10,
+    "arcana": "Chariot",
+    "elems": ["rs", "rs", "wk", "-", "-", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Lunge", "level": 0 },
+      { "name": "Evil Touch", "level": 0 },
+      { "name": "Tarunda", "level": 11 },
+      { "name": "Fire Wall", "level": 13 },
+      { "name": "Headbutt", "level": 14 }
+    ],
+    "stats": [9, 6, 11, 6, 5],
+    "trait": "Rare Antibody",
+    "dlc": false
+  },
+  {
+    "name": "Sraosha",
+    "level": 80,
+    "arcana": "Star",
+    "elems": ["-", "-", "-", "-", "ab", "-", "-", "-", "rp", "wk"],
+    "skills": [
+      { "name": "Kougaon", "level": 0 },
+      { "name": "Mahamaon", "level": 0 },
+      { "name": "Hama Boost", "level": 0 },
+      { "name": "Makougaon", "level": 81 },
+      { "name": "Angelic Grace", "level": 83 },
+      { "name": "Amrita Shower", "level": 84 },
+      { "name": "Debilitate", "level": 85 }
+    ],
+    "stats": [47, 56, 45, 56, 43],
+    "trait": "Blessed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Stone of Scone",
+    "level": 20,
+    "arcana": "Fortune",
+    "elems": ["rs", "rs", "wk", "-", "-", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Agilao", "level": 0 },
+      { "name": "Bufula", "level": 0 },
+      { "name": "Garula", "level": 0 },
+      { "name": "Zionga", "level": 0 },
+      { "name": "Psio", "level": 0 },
+      { "name": "Freila", "level": 0 },
+      { "name": "Kouga", "level": 0 },
+      { "name": "Eiga", "level": 0 },
+      { "name": "Relentless", "level": 0 },
+      { "name": "Gluttonmouth", "level": 0 },
+      { "name": "Intense Focus", "level": 0 }
+    ],
+    "stats": [20, 20, 20, 20, 20],
+    "trait": "Ultimate Vessel",
+    "dlc": false
+  },
+  {
+    "name": "Succubus",
+    "level": 7,
+    "arcana": "Moon",
+    "elems": ["-", "-", "rs", "-", "-", "wk", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Dormina", "level": 0 },
+      { "name": "Rebellion", "level": 0 },
+      { "name": "Agi", "level": 8 },
+      { "name": "Dekaja", "level": 10 },
+      { "name": "Sleep Boost", "level": 11 },
+      { "name": "Mudo", "level": 12 }
+    ],
+    "stats": [4, 7, 5, 8, 4],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Sudama",
+    "level": 17,
+    "arcana": "Hermit",
+    "elems": ["-", "-", "-", "wk", "-", "rp", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Mapsi", "level": 0 },
+      { "name": "Lucky Punch", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Ambient Aid", "level": 20 },
+      { "name": "Wind Wall", "level": 21 },
+      { "name": "Apt Pupil", "level": 22 },
+      { "name": "Psio", "level": 23 }
+    ],
+    "stats": [9, 14, 12, 13, 10],
+    "trait": "Gloomy Child",
+    "dlc": false
+  },
+  {
+    "name": "Sui-Ki",
+    "level": 24,
+    "arcana": "Moon",
+    "elems": ["-", "rs", "-", "ab", "rs", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Mabufu", "level": 0 },
+      { "name": "Sledgehammer", "level": 0 },
+      { "name": "Bufula", "level": 0 },
+      { "name": "Null Ice", "level": 26 },
+      { "name": "Wage War", "level": 27 },
+      { "name": "Mabufula", "level": 28 },
+      { "name": "Dodge Fire", "level": 29 }
+    ],
+    "stats": [16, 15, 15, 18, 15],
+    "trait": "Frigid Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Surt",
+    "level": 83,
+    "arcana": "Magician",
+    "elems": ["-", "rs", "ab", "wk", "nu", "-", "-", "rs", "-", "-"],
+    "skills": [
+      { "name": "Blazing Hell", "level": 0 },
+      { "name": "Attack Master", "level": 0 },
+      { "name": "Brave Blade", "level": 0 },
+      { "name": "Fire Amp", "level": 84 },
+      { "name": "Marakunda", "level": 85 },
+      { "name": "Evade Ice", "level": 86 },
+      { "name": "Gigantomachia", "level": 88 }
+    ],
+    "stats": [55, 54, 51, 50, 46],
+    "trait": "Heated Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Suzaku",
+    "level": 16,
+    "arcana": "Sun",
+    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+    "skills": [
+      { "name": "Frei", "level": 0 },
+      { "name": "Tarunda", "level": 0 },
+      { "name": "Marin Karin", "level": 0 },
+      { "name": "Dekunda", "level": 18 },
+      { "name": "Mafrei", "level": 19 },
+      { "name": "Speed Master", "level": 20 },
+      { "name": "Matarunda", "level": 21 }
+    ],
+    "stats": [9, 12, 10, 15, 9],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Take-Minakata",
+    "level": 26,
+    "arcana": "Hanged",
+    "elems": ["-", "-", "-", "-", "rs", "-", "wk", "-", "-", "rs"],
+    "skills": [
+      { "name": "Zionga", "level": 0 },
+      { "name": "Assault Dive", "level": 0 },
+      { "name": "Defense Master", "level": 0 },
+      { "name": "Mazionga", "level": 27 },
+      { "name": "Elec Boost", "level": 29 },
+      { "name": "Swift Strike", "level": 31 },
+      { "name": "Shock Boost", "level": 32 }
+    ],
+    "stats": [17, 19, 18, 16, 15],
+    "trait": "Electric Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Tam Lin",
+    "level": 27,
+    "arcana": "Faith",
+    "elems": ["rs", "-", "nu", "-", "-", "rs", "-", "-", "ab", "wk"],
+    "skills": [
+      { "name": "Assault Dive", "level": 0 },
+      { "name": "Brain Shake", "level": 0 },
+      { "name": "Rebellion", "level": 0 },
+      { "name": "Sharp Student", "level": 28 },
+      { "name": "Brain Buster", "level": 30 },
+      { "name": "Brainwash Boost", "level": 31 },
+      { "name": "Heat Up", "level": 32 }
+    ],
+    "stats": [21, 16, 18, 16, 17],
+    "trait": "Gluttonmouth",
+    "dlc": false
+  },
+  {
+    "name": "Thor",
+    "level": 64,
+    "arcana": "Chariot",
+    "elems": ["rs", "-", "-", "-", "nu", "-", "-", "-", "rs", "rs"],
+    "skills": [
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Megaton Raid", "level": 0 },
+      { "name": "High Counter", "level": 0 },
+      { "name": "Elec Amp", "level": 66 },
+      { "name": "Maziodyne", "level": 67 },
+      { "name": "Heat Up", "level": 68 },
+      { "name": "Wild Thunder", "level": 71 }
+    ],
+    "stats": [44, 39, 43, 38, 35],
+    "trait": "Intense Focus",
+    "dlc": false
+  },
+  {
+    "name": "Thoth",
+    "level": 36,
+    "arcana": "Emperor",
+    "elems": ["-", "-", "-", "-", "-", "-", "wk", "nu", "nu", "rs"],
+    "skills": [
+      { "name": "Taunt", "level": 0 },
+      { "name": "Freila", "level": 0 },
+      { "name": "Masukunda", "level": 0 },
+      { "name": "Megido", "level": 37 },
+      { "name": "Psy Wall", "level": 39 },
+      { "name": "Concentrate", "level": 40 },
+      { "name": "Growth 2", "level": 42 }
+    ],
+    "stats": [21, 28, 21, 24, 21],
+    "trait": "Skillful Technique",
+    "dlc": false
+  },
+  {
+    "name": "Throne",
+    "level": 72,
+    "arcana": "Justice",
+    "elems": ["-", "-", "nu", "-", "-", "nu", "-", "wk", "rp", "-"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Hamaon", "level": 0 },
+      { "name": "Burn Boost", "level": 0 },
+      { "name": "Fire Amp", "level": 74 },
+      { "name": "Makougaon", "level": 75 },
+      { "name": "Invigorate 3", "level": 76 },
+      { "name": "Inferno", "level": 78 }
+    ],
+    "stats": [42, 49, 43, 46, 43],
+    "trait": "Crisis Control",
+    "dlc": false
+  },
+  {
+    "name": "Thunderbird",
+    "level": 34,
+    "arcana": "Sun",
+    "elems": ["-", "-", "-", "-", "ab", "-", "wk", "-", "-", "wk"],
+    "skills": [
+      { "name": "Mazionga", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Shock Boost", "level": 0 },
+      { "name": "Rebellion", "level": 35 },
+      { "name": "Ziodyne", "level": 37 },
+      { "name": "Elec Boost", "level": 38 },
+      { "name": "Maziodyne", "level": 39 }
+    ],
+    "stats": [17, 24, 24, 26, 18],
+    "trait": "Electric Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Titania",
+    "level": 56,
+    "arcana": "Empress",
+    "elems": ["-", "-", "-", "-", "-", "-", "wk", "rs", "rs", "rs"],
+    "skills": [
+      { "name": "Freidyne", "level": 0 },
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Lullaby", "level": 0 },
+      { "name": "Concentrate", "level": 59 },
+      { "name": "Nuke Amp", "level": 60 },
+      { "name": "Mediarahan", "level": 61 }
+    ],
+    "stats": [32, 40, 35, 38, 30],
+    "trait": "Foul Stench",
+    "dlc": false
+  },
+  {
+    "name": "Trumpeter",
+    "level": 59,
+    "arcana": "Judgement",
+    "elems": ["-", "-", "-", "ab", "rp", "-", "-", "-", "rp", "nu"],
+    "skills": [
+      { "name": "Mafreidyne", "level": 0 },
+      { "name": "Abysmal Surge", "level": 0 },
+      { "name": "Brain Buster", "level": 0 },
+      { "name": "Fortify Spirit", "level": 61 },
+      { "name": "Gun Amp", "level": 62 },
+      { "name": "Life Aid", "level": 63 },
+      { "name": "Debilitate", "level": 65 }
+    ],
+    "stats": [33, 42, 40, 38, 31],
+    "trait": "Relentless",
+    "dlc": false
+  },
+  {
+    "name": "Unicorn",
+    "level": 39,
+    "arcana": "Faith",
+    "elems": ["-", "-", "-", "nu", "-", "-", "rs", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Assault Dive", "level": 0 },
+      { "name": "Mahama", "level": 0 },
+      { "name": "Dekunda", "level": 0 },
+      { "name": "Samarecarm", "level": 41 },
+      { "name": "Swift Strike", "level": 42 },
+      { "name": "Kougaon", "level": 43 },
+      { "name": "Hamaon", "level": 44 }
+    ],
+    "stats": [20, 27, 25, 28, 24],
+    "trait": "Blessed Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Uriel",
+    "level": 81,
+    "arcana": "Justice",
+    "elems": ["-", "-", "nu", "-", "-", "-", "-", "ab", "rp", "-"],
+    "skills": [
+      { "name": "Deathbound", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Bloodbath", "level": 0 },
+      { "name": "Repel Nuke", "level": 83 },
+      { "name": "Megidolaon", "level": 84 },
+      { "name": "Angelic Grace", "level": 85 },
+      { "name": "Spell Master", "level": 86 }
+    ],
+    "stats": [50, 54, 49, 55, 42],
+    "trait": "Mouth of Savoring",
+    "dlc": false
+  },
+  {
+    "name": "Valkyrie",
+    "level": 44,
+    "arcana": "Strength",
+    "elems": ["-", "rs", "wk", "rp", "-", "-", "-", "-", "nu", "-"],
+    "skills": [
+      { "name": "Rising Slash", "level": 0 },
+      { "name": "Counterstrike", "level": 0 },
+      { "name": "Attack Master", "level": 45 },
+      { "name": "Deathbound", "level": 46 },
+      { "name": "Matarukaja", "level": 47 },
+      { "name": "Dodge Phys", "level": 49 }
+    ],
+    "stats": [33, 24, 28, 29, 25],
+    "trait": "Skillful Combo",
+    "dlc": false
+  },
+  {
+    "name": "Vasuki",
+    "level": 68,
+    "arcana": "Star",
+    "elems": ["-", "-", "-", "nu", "nu", "-", "-", "-", "-", "wk"],
+    "skills": [
+      { "name": "Mahamaon", "level": 0 },
+      { "name": "Brain Jack", "level": 0 },
+      { "name": "Triple Down", "level": 0 },
+      { "name": "Trigger Happy", "level": 70 },
+      { "name": "Makarakarn", "level": 71 },
+      { "name": "Brainwash Boost", "level": 72 },
+      { "name": "Null Curse", "level": 73 }
+    ],
+    "stats": [42, 45, 44, 42, 38],
+    "trait": "Foul Stench",
+    "dlc": false
+  },
+  {
+    "name": "Vishnu",
+    "level": 83,
+    "arcana": "Fool",
+    "elems": ["-", "-", "wk", "ab", "-", "-", "-", "-", "nu", "nu"],
+    "skills": [
+      { "name": "Megidolaon", "level": 0 },
+      { "name": "Magarudyne", "level": 0 },
+      { "name": "Ali Dance", "level": 0 },
+      { "name": "Vacuum Wave", "level": 85 },
+      { "name": "Concentrate", "level": 86 },
+      { "name": "Repel Fire", "level": 87 },
+      { "name": "Wind Amp", "level": 88 },
+      { "name": "Riot Gun", "level": 90 }
+    ],
+    "stats": [56, 51, 49, 57, 43],
+    "trait": "Vahana's Wings",
+    "dlc": false
+  },
+  {
+    "name": "Vohu Manah",
+    "level": 80,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "ab", "nu"],
+    "skills": [
+      { "name": "Divine Judgement", "level": 0 },
+      { "name": "Bless Amp", "level": 0 },
+      { "name": "Makougaon", "level": 0 },
+      { "name": "Absorb Bless", "level": 82 },
+      { "name": "Fortify Spirit", "level": 83 },
+      { "name": "Invigorate 3", "level": 84 },
+      { "name": "Salvation", "level": 85 }
+    ],
+    "stats": [46, 59, 45, 56, 41],
+    "trait": "Positive Thoughts",
+    "dlc": false
+  },
+  {
+    "name": "White Rider",
+    "level": 38,
+    "arcana": "Chariot",
+    "elems": ["-", "-", "nu", "wk", "-", "-", "-", "-", "nu", "rp"],
+    "skills": [
+      { "name": "Triple Down", "level": 0 },
+      { "name": "Evil Touch", "level": 0 },
+      { "name": "Oni Kagura", "level": 0 },
+      { "name": "Gun Boost", "level": 40 },
+      { "name": "Maeiga", "level": 41 },
+      { "name": "Masukukaja", "level": 42 },
+      { "name": "Foul Breath", "level": 43 },
+      { "name": "Ailment Boost", "level": 44 }
+    ],
+    "stats": [22, 21, 26, 27, 25],
+    "trait": "Bloodstained Eyes",
+    "dlc": false
+  },
+  {
+    "name": "Yaksini",
+    "level": 20,
+    "arcana": "Empress",
+    "elems": ["-", "nu", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+    "skills": [
+      { "name": "Hysterical Slap", "level": 0 },
+      { "name": "Wage War", "level": 0 },
+      { "name": "Counter", "level": 0 },
+      { "name": "Oni Kagura", "level": 22 },
+      { "name": "Attack Master", "level": 23 },
+      { "name": "Vicious Strike", "level": 24 }
+    ],
+    "stats": [14, 11, 13, 16, 13],
+    "trait": "Foul Odor",
+    "dlc": false
+  },
+  {
+    "name": "Yamata-no-Orochi",
+    "level": 64,
+    "arcana": "Judgement",
+    "elems": ["rs", "-", "-", "ab", "-", "rs", "-", "-", "-", "rs"],
+    "skills": [
+      { "name": "One-shot Kill", "level": 0 },
+      { "name": "Mabufudyne", "level": 0 },
+      { "name": "Freeze Boost", "level": 0 },
+      { "name": "Absorb Ice", "level": 66 },
+      { "name": "Ice Amp", "level": 67 },
+      { "name": "Diamond Dust", "level": 69 }
+    ],
+    "stats": [44, 38, 48, 36, 33],
+    "trait": "Cold-Blooded",
+    "dlc": false
+  },
+  {
+    "name": "Yatagarasu",
+    "level": 57,
+    "arcana": "Councillor",
+    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "nu", "wk"],
+    "skills": [
+      { "name": "Agidyne", "level": 0 },
+      { "name": "Makara Break", "level": 0 },
+      { "name": "Dekunda", "level": 0 },
+      { "name": "Mediarahan", "level": 59 },
+      { "name": "Last Stand", "level": 60 },
+      { "name": "Wind Break", "level": 61 },
+      { "name": "Null Wind", "level": 64 }
+    ],
+    "stats": [35, 41, 30, 40, 32],
+    "trait": "Potent Hypnosis",
+    "dlc": false
+  },
+  {
+    "name": "Yoshitsune",
+    "level": 87,
+    "arcana": "Tower",
+    "elems": ["nu", "-", "rs", "-", "rp", "-", "-", "-", "rp", "-"],
+    "skills": [
+      { "name": "Brave Blade", "level": 0 },
+      { "name": "Charge", "level": 0 },
+      { "name": "Ziodyne", "level": 0 },
+      { "name": "Last Stand", "level": 89 },
+      { "name": "Fast Heal", "level": 90 },
+      { "name": "Elec Amp", "level": 92 },
+      { "name": "Hassou Tobi", "level": 94 }
+    ],
+    "stats": [63, 52, 50, 54, 49],
+    "trait": "Retaliating Body",
+    "dlc": false
+  },
+  {
+    "name": "Yurlungur",
+    "level": 43,
+    "arcana": "Sun",
+    "elems": ["-", "-", "-", "-", "nu", "-", "wk", "-", "rs", "-"],
+    "skills": [
+      { "name": "Brain Jack", "level": 0 },
+      { "name": "Mazionga", "level": 0 },
+      { "name": "Megidola", "level": 0 },
+      { "name": "Revolution", "level": 45 },
+      { "name": "Elec Break", "level": 46 },
+      { "name": "Tetra Break", "level": 48 },
+      { "name": "Elec Boost", "level": 49 }
+    ],
+    "stats": [26, 29, 30, 27, 24],
+    "trait": "Mouth of Savoring",
+    "dlc": false
+  },
+  {
+    "name": "Zaou-Gongen",
+    "level": 80,
+    "arcana": "Strength",
+    "elems": ["-", "-", "rp", "-", "wk", "-", "-", "-", "nu", "nu"],
+    "skills": [
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Abysmal Surge", "level": 0 },
+      { "name": "God's Hand", "level": 0 },
+      { "name": "Evade Phys", "level": 82 },
+      { "name": "Enduring Soul", "level": 83 },
+      { "name": "Gun Amp", "level": 84 },
+      { "name": "Blazing Hell", "level": 86 }
+    ],
+    "stats": [57, 45, 50, 56, 39],
+    "trait": "Undying Fury",
+    "dlc": false
+  },
+  {
+    "name": "Zouchouten",
+    "level": 31,
+    "arcana": "Strength",
+    "elems": ["rs", "-", "-", "-", "-", "wk", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Kill Rush", "level": 0 },
+      { "name": "Zionga", "level": 0 },
+      { "name": "Terror Claw", "level": 32 },
+      { "name": "Sharp Student", "level": 33 },
+      { "name": "Resist Fear", "level": 34 },
+      { "name": "Swift Strike", "level": 35 },
+      { "name": "Attack Master", "level": 36 }
+    ],
+    "stats": [22, 19, 24, 18, 17],
+    "trait": "Electric Bloodline",
+    "dlc": false
+  },
+  {
+    "name": "Ariadne",
+    "level": 30,
+    "arcana": "Fortune",
+    "elems": ["-", "rs", "-", "-", "-", "-", "wk", "nu", "rs", "-"],
+    "skills": [
+      { "name": "Beast Weaver", "level": 0 },
+      { "name": "Apt Pupil", "level": 0 },
+      { "name": "Miracle Punch", "level": 0 },
+      { "name": "Attack Master", "level": 31 },
+      { "name": "Fortified Moxy", "level": 32 },
+      { "name": "Evade Phys", "level": 34 },
+      { "name": "Charge", "level": 36 }
+    ],
+    "stats": [23, 19, 20, 17, 18],
+    "trait": "Tag Team",
+    "dlc": true
+  },
+  {
+    "name": "Ariadne Picaro",
+    "level": 42,
+    "arcana": "Fortune",
+    "elems": ["-", "rs", "-", "-", "-", "-", "wk", "nu", "rs", "-"],
+    "skills": [
+      { "name": "Beast Weaver", "level": 0 },
+      { "name": "Apt Pupil", "level": 0 },
+      { "name": "Miracle Punch", "level": 0 },
+      { "name": "Auto-Mataru", "level": 43 },
+      { "name": "Heat Up", "level": 44 },
+      { "name": "Evade Phys", "level": 46 },
+      { "name": "Charge", "level": 48 }
+    ],
+    "stats": [36, 23, 29, 24, 21],
+    "trait": "Tag Team",
+    "dlc": true
+  },
+  {
+    "name": "Asterius",
+    "level": 56,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "rs", "wk", "-", "-", "rs", "-", "-", "nu"],
+    "skills": [
+      { "name": "Titanomachia", "level": 0 },
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Burn Boost", "level": 0 },
+      { "name": "Auto-Mataru", "level": 57 },
+      { "name": "Fire Amp", "level": 59 },
+      { "name": "Tetrakarn", "level": 60 },
+      { "name": "Gigantomachia", "level": 62 }
+    ],
+    "stats": [43, 43, 32, 32, 25],
+    "trait": "Frenzied Bull",
+    "dlc": true
+  },
+  {
+    "name": "Asterius Picaro",
+    "level": 62,
+    "arcana": "Fortune",
+    "elems": ["-", "-", "rs", "wk", "-", "-", "rs", "-", "-", "nu"],
+    "skills": [
+      { "name": "Titanomachia", "level": 0 },
+      { "name": "Maragidyne", "level": 0 },
+      { "name": "Burn Boost", "level": 0 },
+      { "name": "Auto-Masuku", "level": 63 },
+      { "name": "Fire Amp", "level": 65 },
+      { "name": "Makarakarn", "level": 66 },
+      { "name": "Gigantomachia", "level": 68 }
+    ],
+    "stats": [46, 46, 36, 36, 29],
+    "trait": "Frenzied Bull",
+    "dlc": true
+  },
+  {
+    "name": "Athena",
+    "level": 46,
+    "arcana": "Chariot",
+    "elems": ["rs", "nu", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Akasha Arts", "level": 0 },
+      { "name": "Marakukaja", "level": 0 },
+      { "name": "Rising Slash", "level": 0 },
+      { "name": "Diarahan", "level": 47 },
+      { "name": "Matarukaja", "level": 48 },
+      { "name": "Auto-Maraku", "level": 50 },
+      { "name": "Samarecarm", "level": 51 },
+      { "name": "Megaton Raid", "level": 52 }
+    ],
+    "stats": [33, 27, 29, 29, 27],
+    "trait": "Grace of the Olive",
+    "dlc": true
+  },
+  {
+    "name": "Athena Picaro",
+    "level": 50,
+    "arcana": "Chariot",
+    "elems": ["rs", "nu", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "skills": [
+      { "name": "Akasha Arts", "level": 0 },
+      { "name": "Matarukaja", "level": 0 },
+      { "name": "Rising Slash", "level": 0 },
+      { "name": "Diarahan", "level": 51 },
+      { "name": "Marakukaja", "level": 52 },
+      { "name": "Auto-Mataru", "level": 54 },
+      { "name": "Samarecarm", "level": 55 },
+      { "name": "Megaton Raid", "level": 56 }
+    ],
+    "stats": [35, 30, 31, 32, 29],
+    "trait": "Grace of the Olive",
+    "dlc": true
+  },
+  {
+    "name": "Izanagi",
+    "level": 20,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Cross Slash", "level": 0 },
+      { "name": "Zionga", "level": 0 },
+      { "name": "Tarukaja", "level": 0 },
+      { "name": "Rising Slash", "level": 21 },
+      { "name": "Dodge Phys", "level": 22 },
+      { "name": "Mazionga", "level": 24 },
+      { "name": "Growth 3", "level": 25 }
+    ],
+    "stats": [14, 13, 13, 14, 13],
+    "trait": "God Maker",
+    "dlc": true
+  },
+  {
+    "name": "Izanagi Picaro",
+    "level": 23,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "nu"],
+    "skills": [
+      { "name": "Cross Slash", "level": 0 },
+      { "name": "Zionga", "level": 0 },
+      { "name": "Rakukaja", "level": 0 },
+      { "name": "Rising Slash", "level": 24 },
+      { "name": "Null Phys", "level": 25 },
+      { "name": "Mazionga", "level": 27 },
+      { "name": "Growth 3", "level": 28 }
+    ],
+    "stats": [16, 15, 15, 16, 14],
+    "trait": "God Maker",
+    "dlc": true
+  },
+  {
+    "name": "Izanagi-no-Okami",
+    "level": 80,
+    "arcana": "World",
+    "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "-", "-"],
+    "skills": [
+      { "name": "Myriad Truths", "level": 0 },
+      { "name": "Victory Cry", "level": 0 },
+      { "name": "Angelic Grace", "level": 0 },
+      { "name": "Concentrate", "level": 81 },
+      { "name": "Heat Riser", "level": 82 },
+      { "name": "Heat Up", "level": 83 },
+      { "name": "Salvation", "level": 84 },
+      { "name": "Almighty Boost", "level": 85 }
+    ],
+    "stats": [52, 56, 46, 48, 45],
+    "trait": "Country Maker",
+    "dlc": true
+  },
+  {
+    "name": "Izanagi-no-Okami Picaro",
+    "level": 89,
+    "arcana": "World",
+    "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "-", "-"],
+    "skills": [
+      { "name": "Myriad Truths", "level": 0 },
+      { "name": "Victory Cry", "level": 0 },
+      { "name": "Angelic Grace", "level": 0 },
+      { "name": "Concentrate", "level": 90 },
+      { "name": "Debilitate", "level": 91 },
+      { "name": "Enduring Soul", "level": 92 },
+      { "name": "Salvation", "level": 93 },
+      { "name": "Almighty Boost", "level": 94 }
+    ],
+    "stats": [54, 61, 56, 58, 45],
+    "trait": "Country Maker",
+    "dlc": true
+  },
+  {
+    "name": "Kaguya",
+    "level": 16,
+    "arcana": "Moon",
+    "elems": ["-", "-", "wk", "-", "-", "rs", "-", "-", "nu", "nu"],
+    "skills": [
+      { "name": "Shining Arrows", "level": 0 },
+      { "name": "Mediarama", "level": 0 },
+      { "name": "Counterstrike", "level": 0 },
+      { "name": "Divine Grace", "level": 17 },
+      { "name": "Amrita Shower", "level": 18 },
+      { "name": "Diarahan", "level": 21 },
+      { "name": "Repel Phys", "level": 22 }
+    ],
+    "stats": [11, 15, 12, 11, 6],
+    "trait": "Inviolable Beauty",
+    "dlc": true
+  },
+  {
+    "name": "Kaguya Picaro",
+    "level": 25,
+    "arcana": "Moon",
+    "elems": ["-", "-", "wk", "-", "-", "-", "-", "-", "nu", "nu"],
+    "skills": [
+      { "name": "Shining Arrows", "level": 0 },
+      { "name": "Mediarama", "level": 0 },
+      { "name": "High Counter", "level": 0 },
+      { "name": "Divine Grace", "level": 26 },
+      { "name": "Amrita Shower", "level": 27 },
+      { "name": "Diarahan", "level": 30 },
+      { "name": "Repel Phys", "level": 31 }
+    ],
+    "stats": [17, 20, 19, 15, 11],
+    "trait": "Inviolable Beauty",
+    "dlc": true
+  },
+  {
+    "name": "Magatsu-Izanagi",
+    "level": 44,
+    "arcana": "Tower",
+    "elems": ["-", "rs", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+    "skills": [
+      { "name": "Magatsu Mandala", "level": 0 },
+      { "name": "Megidola", "level": 0 },
+      { "name": "Ghastly Wail", "level": 0 },
+      { "name": "Maziodyne", "level": 45 },
+      { "name": "Bloodbath", "level": 46 },
+      { "name": "Attack Master", "level": 48 },
+      { "name": "Heat Riser", "level": 50 }
+    ],
+    "stats": [37, 35, 32, 25, 10],
+    "trait": "Hollow Jester",
+    "dlc": true
+  },
+  {
+    "name": "Magatsu-Izanagi Picaro",
+    "level": 48,
+    "arcana": "Tower",
+    "elems": ["-", "rs", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+    "skills": [
+      { "name": "Magatsu Mandala", "level": 0 },
+      { "name": "Megidola", "level": 0 },
+      { "name": "Ghastly Wail", "level": 0 },
+      { "name": "Magarudyne", "level": 49 },
+      { "name": "Bloodbath", "level": 50 },
+      { "name": "Speed Master", "level": 52 },
+      { "name": "Heat Riser", "level": 54 }
+    ],
+    "stats": [40, 38, 35, 27, 11],
+    "trait": "Hollow Jester",
+    "dlc": true
+  },
+  {
+    "name": "Messiah",
+    "level": 81,
+    "arcana": "Judgement",
+    "elems": ["-", "-", "rs", "rs", "rs", "rs", "rs", "rs", "rp", "wk"],
+    "skills": [
+      { "name": "Oratorio", "level": 0 },
+      { "name": "Megidolaon", "level": 0 },
+      { "name": "God's Hand", "level": 0 },
+      { "name": "Regenerate 3", "level": 82 },
+      { "name": "Enduring Soul", "level": 83 },
+      { "name": "Invigorate 3", "level": 84 },
+      { "name": "Absorb Phys", "level": 85 },
+      { "name": "Almighty Boost", "level": 87 }
+    ],
+    "stats": [50, 50, 50, 50, 50],
+    "trait": "Hallowed Spirit",
+    "dlc": true
+  },
+  {
+    "name": "Messiah Picaro",
+    "level": 90,
+    "arcana": "Judgement",
+    "elems": ["-", "-", "rs", "rs", "rs", "rs", "rs", "rs", "rp", "wk"],
+    "skills": [
+      { "name": "Oratorio", "level": 0 },
+      { "name": "Megidolaon", "level": 0 },
+      { "name": "Agneyastra", "level": 0 },
+      { "name": "Insta-Heal", "level": 91 },
+      { "name": "Enduring Soul", "level": 92 },
+      { "name": "Life Aid", "level": 93 },
+      { "name": "Firm Stance", "level": 94 },
+      { "name": "Almighty Boost", "level": 96 }
+    ],
+    "stats": [56, 56, 55, 55, 55],
+    "trait": "Hallowed Spirit",
+    "dlc": true
+  },
+  {
+    "name": "Orpheus",
+    "level": 26,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Cadenza", "level": 0 },
+      { "name": "Agilao", "level": 0 },
+      { "name": "Tarunda", "level": 0 },
+      { "name": "Endure", "level": 27 },
+      { "name": "Maragion", "level": 29 },
+      { "name": "Marakukaja", "level": 30 },
+      { "name": "Fire Boost", "level": 32 }
+    ],
+    "stats": [17, 17, 17, 17, 17],
+    "trait": "Circle of Sadness",
+    "dlc": true
+  },
+  {
+    "name": "Orpheus F",
+    "level": 11,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Neo Cadenza", "level": 0 },
+      { "name": "Agi", "level": 0 },
+      { "name": "Tarunda", "level": 0 },
+      { "name": "Endure", "level": 0 },
+      { "name": "Maragion", "level": 12 },
+      { "name": "Marakukaja", "level": 14 },
+      { "name": "Dodge Curse", "level": 15 }
+    ],
+    "stats": [8, 9, 8, 9, 6],
+    "trait": "Circle of Sadness",
+    "dlc": true
+  },
+  {
+    "name": "Orpheus F Picaro",
+    "level": 13,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Neo Cadenza", "level": 0 },
+      { "name": "Maragi", "level": 0 },
+      { "name": "Rakunda", "level": 0 },
+      { "name": "Endure", "level": 0 },
+      { "name": "Agilao", "level": 14 },
+      { "name": "Marakukaja", "level": 16 },
+      { "name": "Dodge Curse", "level": 17 }
+    ],
+    "stats": [9, 11, 9, 10, 7],
+    "trait": "Circle of Sadness",
+    "dlc": true
+  },
+  {
+    "name": "Orpheus Picaro",
+    "level": 29,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "skills": [
+      { "name": "Cadenza", "level": 0 },
+      { "name": "Maragion", "level": 0 },
+      { "name": "Matarunda", "level": 0 },
+      { "name": "Endure", "level": 30 },
+      { "name": "Agidyne", "level": 32 },
+      { "name": "Matarukaja", "level": 33 },
+      { "name": "Fire Boost", "level": 35 }
+    ],
+    "stats": [19, 19, 19, 19, 18],
+    "trait": "Circle of Sadness",
+    "dlc": true
+  },
+  {
+    "name": "Raoul",
+    "level": 76,
+    "arcana": "Fool",
+    "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+    "skills": [
+      { "name": "Phantom Show", "level": 0 },
+      { "name": "Eigaon", "level": 0 },
+      { "name": "Ali Dance", "level": 0 },
+      { "name": "Maeigaon", "level": 78 },
+      { "name": "Heat Riser", "level": 79 },
+      { "name": "Curse Amp", "level": 80 },
+      { "name": "Concentrate", "level": 81 },
+      { "name": "Life Aid", "level": 82 }
+    ],
+    "stats": [47, 49, 43, 54, 42],
+    "trait": "Hazy Presence",
+    "dlc": true
+  },
+  {
+    "name": "Thanatos",
+    "level": 65,
+    "arcana": "Death",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "wk", "rp"],
+    "skills": [
+      { "name": "Door of Hades", "level": 0 },
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Curse Amp", "level": 66 },
+      { "name": "One-shot Kill", "level": 68 },
+      { "name": "Fortified Moxy", "level": 69 },
+      { "name": "Enduring Soul", "level": 70 }
+    ],
+    "stats": [43, 49, 41, 38, 31],
+    "trait": "Iron Heart",
+    "dlc": true
+  },
+  {
+    "name": "Thanatos Picaro",
+    "level": 69,
+    "arcana": "Death",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "wk", "rp"],
+    "skills": [
+      { "name": "Door of Hades", "level": 0 },
+      { "name": "Maeigaon", "level": 0 },
+      { "name": "Mamudoon", "level": 0 },
+      { "name": "Mudo Boost", "level": 70 },
+      { "name": "One-shot Kill", "level": 72 },
+      { "name": "Adverse Resolve", "level": 73 },
+      { "name": "Enduring Soul", "level": 74 }
+    ],
+    "stats": [45, 51, 43, 40, 35],
+    "trait": "Iron Heart",
+    "dlc": true
+  },
+  {
+    "name": "Tsukiyomi",
+    "level": 50,
+    "arcana": "Moon",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "rs", "rp"],
+    "skills": [
+      { "name": "Abyssal Wings", "level": 0 },
+      { "name": "Absorb Curse", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Life Drain", "level": 0 },
+      { "name": "Curse Amp", "level": 53 },
+      { "name": "Vorpal Blade", "level": 55 },
+      { "name": "Arms Master", "level": 56 }
+    ],
+    "stats": [38, 32, 33, 37, 17],
+    "trait": "Bolstering Force",
+    "dlc": true
+  },
+  {
+    "name": "Tsukiyomi Picaro",
+    "level": 55,
+    "arcana": "Moon",
+    "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "rs", "rp"],
+    "skills": [
+      { "name": "Abyssal Wings", "level": 0 },
+      { "name": "Absorb Curse", "level": 0 },
+      { "name": "Myriad Slashes", "level": 0 },
+      { "name": "Spirit Drain", "level": 0 },
+      { "name": "Curse Amp", "level": 58 },
+      { "name": "Vorpal Blade", "level": 60 },
+      { "name": "Spell Master", "level": 61 }
+    ],
+    "stats": [41, 35, 36, 40, 20],
+    "trait": "Bolstering Force",
+    "dlc": true
+  }
+]
