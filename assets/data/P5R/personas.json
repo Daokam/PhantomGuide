@@ -3,7 +3,7 @@
     "name": "Abaddon",
     "level": 75,
     "arcana": "Judgement",
-    "elems": ["ab", "ab", "-", "-", "-", "-", "-", "-", "rs", "ab"],
+    "elems": ["Dr", "Dr", "", "", "", "", "", "", "Str", "Dr"],
     "skills": [
       { "name": "Mabufudyne", "level": 0 },
       { "name": "Megaton Raid", "level": 0 },
@@ -21,7 +21,7 @@
     "name": "Agathion",
     "level": 3,
     "arcana": "Chariot",
-    "elems": ["-", "rs", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+    "elems": ["", "Str", "", "", "Str", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Dia", "level": 0 },
       { "name": "Baisudi", "level": 0 },
@@ -38,7 +38,7 @@
     "name": "Alice",
     "level": 83,
     "arcana": "Death",
-    "elems": ["-", "-", "-", "-", "-", "-", "rs", "rs", "wk", "rp"],
+    "elems": ["", "", "", "", "", "", "Str", "Str", "Wk", "Rpl"],
     "skills": [
       { "name": "Mamudoon", "level": 0 },
       { "name": "Mudo Boost", "level": 0 },
@@ -56,7 +56,7 @@
     "name": "Alilat",
     "level": 81,
     "arcana": "Empress",
-    "elems": ["rp", "rp", "wk", "ab", "-", "-", "nu", "-", "-", "wk"],
+    "elems": ["Rpl", "Rpl", "Wk", "Dr", "", "", "Nul", "", "", "Wk"],
     "skills": [
       { "name": "Diamond Dust", "level": 0 },
       { "name": "Marakukaja", "level": 0 },
@@ -75,7 +75,7 @@
     "name": "Ame-no-Uzume",
     "level": 13,
     "arcana": "Lovers",
-    "elems": ["-", "-", "ab", "-", "-", "-", "wk", "-", "-", "-"],
+    "elems": ["", "", "Dr", "", "", "", "Wk", "", "", ""],
     "skills": [
       { "name": "Mazio", "level": 0 },
       { "name": "Magaru", "level": 0 },
@@ -92,7 +92,7 @@
     "name": "Ananta",
     "level": 44,
     "arcana": "Councillor",
-    "elems": ["-", "-", "-", "ab", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "", "Dr", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Mafreila", "level": 0 },
       { "name": "Defense Master", "level": 0 },
@@ -111,7 +111,7 @@
     "name": "Andras",
     "level": 27,
     "arcana": "Devil",
-    "elems": ["-", "-", "wk", "rs", "-", "-", "rs", "-", "wk", "nu"],
+    "elems": ["", "", "Wk", "Str", "", "", "Str", "", "Wk", "Nul"],
     "skills": [
       { "name": "Foul Breath", "level": 0 },
       { "name": "Terror Claw", "level": 0 },
@@ -128,7 +128,7 @@
     "name": "Angel",
     "level": 9,
     "arcana": "Justice",
-    "elems": ["-", "wk", "-", "-", "rs", "-", "-", "-", "nu", "wk"],
+    "elems": ["", "Wk", "", "", "Str", "", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Kouha", "level": 0 },
       { "name": "Makajam", "level": 0 },
@@ -145,7 +145,7 @@
     "name": "Anubis",
     "level": 34,
     "arcana": "Judgement",
-    "elems": ["-", "rs", "-", "-", "-", "-", "rs", "-", "nu", "nu"],
+    "elems": ["", "Str", "", "", "", "", "Str", "", "Nul", "Nul"],
     "skills": [
       { "name": "Hamaon", "level": 0 },
       { "name": "Mudoon", "level": 0 },
@@ -162,7 +162,7 @@
     "name": "Anzu",
     "level": 25,
     "arcana": "Hierophant",
-    "elems": ["-", "wk", "-", "-", "rs", "rp", "-", "wk", "-", "-"],
+    "elems": ["", "Wk", "", "", "Str", "Rpl", "", "Wk", "", ""],
     "skills": [
       { "name": "Garula", "level": 0 },
       { "name": "Masukukaja", "level": 0 },
@@ -179,7 +179,7 @@
     "name": "Apsaras",
     "level": 11,
     "arcana": "Priestess",
-    "elems": ["-", "-", "wk", "rs", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "Str", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Rebellion", "level": 0 },
       { "name": "Ice Wall", "level": 0 },
@@ -196,7 +196,7 @@
     "name": "Ara Mitama",
     "level": 30,
     "arcana": "Chariot",
-    "elems": ["rs", "-", "-", "wk", "-", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "", "", "Wk", "", "", "", "", "", ""],
     "skills": [
       { "name": "Miracle Punch", "level": 0 },
       { "name": "Freila", "level": 0 },
@@ -214,7 +214,7 @@
     "name": "Arahabaki",
     "level": 35,
     "arcana": "Hermit",
-    "elems": ["rp", "rp", "-", "-", "-", "-", "wk", "wk", "rs", "rs"],
+    "elems": ["Rpl", "Rpl", "", "", "", "", "Wk", "Wk", "Str", "Str"],
     "skills": [
       { "name": "Makarakarn", "level": 0 },
       { "name": "Abysmal Surge", "level": 0 },
@@ -231,7 +231,7 @@
     "name": "Archangel",
     "level": 14,
     "arcana": "Justice",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "nu", "wk"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Giant Slice", "level": 0 },
       { "name": "Dazzler", "level": 0 },
@@ -248,7 +248,7 @@
     "name": "Ardha",
     "level": 84,
     "arcana": "Temperance",
-    "elems": ["rs", "-", "-", "nu", "nu", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "", "", "Nul", "Nul", "", "", "", "", ""],
     "skills": [
       { "name": "God's Hand", "level": 0 },
       { "name": "Cosmic Flare", "level": 0 },
@@ -266,7 +266,7 @@
     "name": "Arsène",
     "level": 1,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "wk", "-", "-", "-", "-", "wk", "rs"],
+    "elems": ["", "", "", "Wk", "", "", "", "", "Wk", "Str"],
     "skills": [
       { "name": "Eiha", "level": 0 },
       { "name": "Cleave", "level": 2 },
@@ -282,7 +282,7 @@
     "name": "Asura",
     "level": 76,
     "arcana": "Sun",
-    "elems": ["-", "-", "nu", "-", "-", "-", "wk", "rp", "-", "-"],
+    "elems": ["", "", "Nul", "", "", "", "Wk", "Rpl", "", ""],
     "skills": [
       { "name": "Atomic Flare", "level": 0 },
       { "name": "Mahamaon", "level": 0 },
@@ -300,7 +300,7 @@
     "name": "Atavaka",
     "level": 65,
     "arcana": "Faith",
-    "elems": ["rs", "nu", "rp", "-", "-", "-", "-", "-", "-", "rs"],
+    "elems": ["Str", "Nul", "Rpl", "", "", "", "", "", "", "Str"],
     "skills": [
       { "name": "Maragidyne", "level": 0 },
       { "name": "Oni Kagura", "level": 0 },
@@ -318,7 +318,7 @@
     "name": "Atropos",
     "level": 39,
     "arcana": "Fortune",
-    "elems": ["-", "-", "wk", "-", "-", "nu", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "", "", "Nul", "", "", "", ""],
     "skills": [
       { "name": "Mazionga", "level": 0 },
       { "name": "Fire Wall", "level": 0 },
@@ -336,7 +336,7 @@
     "name": "Attis",
     "level": 82,
     "arcana": "Hanged",
-    "elems": ["-", "-", "nu", "-", "-", "rp", "-", "-", "-", "wk"],
+    "elems": ["", "", "Nul", "", "", "Rpl", "", "", "", "Wk"],
     "skills": [
       { "name": "Maragidyne", "level": 0 },
       { "name": "Salvation", "level": 0 },
@@ -354,7 +354,7 @@
     "name": "Baal",
     "level": 82,
     "arcana": "Emperor",
-    "elems": ["-", "-", "rs", "-", "-", "ab", "-", "-", "rs", "-"],
+    "elems": ["", "", "Str", "", "", "Dr", "", "", "Str", ""],
     "skills": [
       { "name": "Panta Rhei", "level": 0 },
       { "name": "Revolution", "level": 0 },
@@ -372,7 +372,7 @@
     "name": "Baphomet",
     "level": 58,
     "arcana": "Devil",
-    "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "Str", "", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Evade Fire", "level": 0 },
@@ -390,7 +390,7 @@
     "name": "Barong",
     "level": 52,
     "arcana": "Emperor",
-    "elems": ["-", "rs", "-", "-", "rs", "wk", "-", "-", "nu", "wk"],
+    "elems": ["", "Str", "", "", "Str", "Wk", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Ziodyne", "level": 0 },
       { "name": "Wage War", "level": 0 },
@@ -407,7 +407,7 @@
     "name": "Beelzebub",
     "level": 87,
     "arcana": "Devil",
-    "elems": ["-", "-", "ab", "-", "-", "-", "-", "-", "wk", "rp"],
+    "elems": ["", "", "Dr", "", "", "", "", "", "Wk", "Rpl"],
     "skills": [
       { "name": "Maeigaon", "level": 0 },
       { "name": "Mamudoon", "level": 0 },
@@ -426,7 +426,7 @@
     "name": "Belial",
     "level": 82,
     "arcana": "Devil",
-    "elems": ["nu", "-", "-", "rs", "-", "-", "-", "-", "-", "nu"],
+    "elems": ["Nul", "", "", "Str", "", "", "", "", "", "Nul"],
     "skills": [
       { "name": "Eigaon", "level": 0 },
       { "name": "Bloodbath", "level": 0 },
@@ -444,7 +444,7 @@
     "name": "Belphegor",
     "level": 37,
     "arcana": "Tower",
-    "elems": ["-", "-", "wk", "rs", "rs", "-", "-", "rs", "-", "rp"],
+    "elems": ["", "", "Wk", "Str", "Str", "", "", "Str", "", "Rpl"],
     "skills": [
       { "name": "Mabufula", "level": 0 },
       { "name": "Ice Break", "level": 0 },
@@ -461,7 +461,7 @@
     "name": "Berith",
     "level": 9,
     "arcana": "Hierophant",
-    "elems": ["-", "nu", "rs", "wk", "-", "-", "-", "-", "-", "-"],
+    "elems": ["", "Nul", "Str", "Wk", "", "", "", "", "", ""],
     "skills": [
       { "name": "Cleave", "level": 0 },
       { "name": "Rakukaja", "level": 0 },
@@ -477,7 +477,7 @@
     "name": "Bicorn",
     "level": 4,
     "arcana": "Hermit",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "-", "rs"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "", "Str"],
     "skills": [
       { "name": "Lunge", "level": 0 },
       { "name": "Tarunda", "level": 0 },
@@ -493,7 +493,7 @@
     "name": "Bishamonten",
     "level": 67,
     "arcana": "Hierophant",
-    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "-", "rs", "rs"],
+    "elems": ["", "", "Dr", "Wk", "", "", "", "", "Str", "Str"],
     "skills": [
       { "name": "Freidyne", "level": 0 },
       { "name": "Diarahan", "level": 0 },
@@ -511,7 +511,7 @@
     "name": "Black Frost",
     "level": 67,
     "arcana": "Fool",
-    "elems": ["-", "-", "rp", "ab", "-", "-", "-", "nu", "-", "rp"],
+    "elems": ["", "", "Rpl", "Dr", "", "", "", "Nul", "", "Rpl"],
     "skills": [
       { "name": "Mabufudyne", "level": 0 },
       { "name": "One-shot Kill", "level": 0 },
@@ -529,7 +529,7 @@
     "name": "Black Ooze",
     "level": 18,
     "arcana": "Moon",
-    "elems": ["rs", "rs", "-", "rs", "wk", "-", "wk", "-", "wk", "nu"],
+    "elems": ["Str", "Str", "", "Str", "Wk", "", "Wk", "", "Wk", "Nul"],
     "skills": [
       { "name": "Sledgehammer", "level": 0 },
       { "name": "Evil Touch", "level": 0 },
@@ -547,7 +547,7 @@
     "name": "Black Rider",
     "level": 59,
     "arcana": "Tower",
-    "elems": ["-", "-", "wk", "ab", "-", "-", "-", "-", "rs", "rs"],
+    "elems": ["", "", "Wk", "Dr", "", "", "", "", "Str", "Str"],
     "skills": [
       { "name": "Mamudoon", "level": 0 },
       { "name": "Flash Bomb", "level": 0 },
@@ -565,7 +565,7 @@
     "name": "Bugs",
     "level": 49,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "-", "-", "rs", "wk", "-", "nu"],
+    "elems": ["", "", "", "", "", "", "Str", "Wk", "", "Nul"],
     "skills": [
       { "name": "Miracle Punch", "level": 0 },
       { "name": "Masukunda", "level": 0 },
@@ -583,7 +583,7 @@
     "name": "Byakhee",
     "level": 70,
     "arcana": "Moon",
-    "elems": ["-", "-", "nu", "wk", "-", "nu", "-", "wk", "-", "nu"],
+    "elems": ["", "", "Nul", "Wk", "", "Nul", "", "Wk", "", "Nul"],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Foul Breath", "level": 0 },
@@ -601,7 +601,7 @@
     "name": "Byakko",
     "level": 45,
     "arcana": "Temperance",
-    "elems": ["-", "-", "wk", "ab", "-", "-", "-", "wk", "-", "rs"],
+    "elems": ["", "", "Wk", "Dr", "", "", "", "Wk", "", "Str"],
     "skills": [
       { "name": "Swift Strike", "level": 0 },
       { "name": "Mabufula", "level": 0 },
@@ -620,7 +620,7 @@
     "name": "Cait Sith",
     "level": 5,
     "arcana": "Magician",
-    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+    "elems": ["", "", "", "", "Str", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Agi", "level": 0 },
       { "name": "Cleave", "level": 0 },
@@ -637,7 +637,7 @@
     "name": "Cerberus",
     "level": 55,
     "arcana": "Chariot",
-    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+    "elems": ["", "", "Dr", "Wk", "", "", "", "Str", "", ""],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Megaton Raid", "level": 0 },
@@ -654,7 +654,7 @@
     "name": "Chernobog",
     "level": 62,
     "arcana": "Death",
-    "elems": ["-", "rs", "wk", "ab", "nu", "-", "-", "-", "wk", "ab"],
+    "elems": ["", "Str", "Wk", "Dr", "Nul", "", "", "", "Wk", "Dr"],
     "skills": [
       { "name": "Mudoon", "level": 0 },
       { "name": "Bloodbath", "level": 0 },
@@ -672,7 +672,7 @@
     "name": "Chi You",
     "level": 88,
     "arcana": "Chariot",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "nu", "wk", "-", "-"],
+    "elems": ["Str", "Str", "", "", "", "", "Nul", "Wk", "", ""],
     "skills": [
       { "name": "Psycho Force", "level": 0 },
       { "name": "Repel Phys", "level": 0 },
@@ -690,7 +690,7 @@
     "name": "Chimera",
     "level": 74,
     "arcana": "Strength",
-    "elems": ["-", "-", "ab", "nu", "-", "wk", "-", "-", "-", "wk"],
+    "elems": ["", "", "Dr", "Nul", "", "Wk", "", "", "", "Wk"],
     "skills": [
       { "name": "Maragidyne", "level": 0 },
       { "name": "Heat Wave", "level": 0 },
@@ -708,7 +708,7 @@
     "name": "Choronzon",
     "level": 28,
     "arcana": "Magician",
-    "elems": ["rs", "-", "ab", "-", "-", "-", "-", "-", "wk", "-"],
+    "elems": ["Str", "", "Dr", "", "", "", "", "", "Wk", ""],
     "skills": [
       { "name": "Pulinpa", "level": 0 },
       { "name": "Life Drain", "level": 0 },
@@ -727,7 +727,7 @@
     "name": "Clotho",
     "level": 27,
     "arcana": "Fortune",
-    "elems": ["-", "-", "-", "wk", "-", "nu", "-", "wk", "-", "-"],
+    "elems": ["", "", "", "Wk", "", "Nul", "", "Wk", "", ""],
     "skills": [
       { "name": "Mahama", "level": 0 },
       { "name": "Me Patra", "level": 0 },
@@ -745,7 +745,7 @@
     "name": "Crystal Skull",
     "level": 50,
     "arcana": "Fool",
-    "elems": ["rs", "rs", "-", "-", "-", "wk", "-", "-", "-", "-"],
+    "elems": ["Str", "Str", "", "", "", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Maragidyne", "level": 0 },
       { "name": "Mabufudyne", "level": 0 },
@@ -767,7 +767,7 @@
     "name": "Cu Chulainn",
     "level": 76,
     "arcana": "Faith",
-    "elems": ["rs", "rs", "-", "-", "wk", "rp", "-", "-", "nu", "-"],
+    "elems": ["Str", "Str", "", "", "Wk", "Rpl", "", "", "Nul", ""],
     "skills": [
       { "name": "High Counter", "level": 0 },
       { "name": "One-shot Kill", "level": 0 },
@@ -785,7 +785,7 @@
     "name": "Cybele",
     "level": 83,
     "arcana": "Priestess",
-    "elems": ["-", "-", "rs", "-", "wk", "-", "-", "-", "nu", "-"],
+    "elems": ["", "", "Str", "", "Wk", "", "", "", "Nul", ""],
     "skills": [
       { "name": "Samarecarm", "level": 0 },
       { "name": "Mediarahan", "level": 0 },
@@ -803,7 +803,7 @@
     "name": "Daisoujou",
     "level": 40,
     "arcana": "Hierophant",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "nu", "wk"],
+    "elems": ["Str", "", "", "", "", "", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Spirit Drain", "level": 0 },
       { "name": "Makouga", "level": 0 },
@@ -821,7 +821,7 @@
     "name": "Dakini",
     "level": 50,
     "arcana": "Empress",
-    "elems": ["-", "nu", "rs", "-", "-", "-", "-", "-", "-", "-"],
+    "elems": ["", "Nul", "Str", "", "", "", "", "", "", ""],
     "skills": [
       { "name": "Bad Beat", "level": 0 },
       { "name": "Myriad Slashes", "level": 0 },
@@ -839,7 +839,7 @@
     "name": "Decarabia",
     "level": 32,
     "arcana": "Councillor",
-    "elems": ["wk", "-", "rp", "-", "-", "-", "-", "rs", "-", "rs"],
+    "elems": ["Wk", "", "Rpl", "", "", "", "", "Str", "", "Str"],
     "skills": [
       { "name": "Agilao", "level": 0 },
       { "name": "Ominous Words", "level": 0 },
@@ -857,7 +857,7 @@
     "name": "Dionysus",
     "level": 71,
     "arcana": "Councillor",
-    "elems": ["-", "-", "-", "-", "rp", "-", "-", "-", "nu", "nu"],
+    "elems": ["", "", "", "", "Rpl", "", "", "", "Nul", "Nul"],
     "skills": [
       { "name": "Maziodyne", "level": 0 },
       { "name": "Ziodyne", "level": 0 },
@@ -875,7 +875,7 @@
     "name": "Dominion",
     "level": 68,
     "arcana": "Justice",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "rp", "nu", "rs"],
+    "elems": ["", "", "", "", "Wk", "", "", "Rpl", "Nul", "Str"],
     "skills": [
       { "name": "Makajamaon", "level": 0 },
       { "name": "Hamaon", "level": 0 },
@@ -893,7 +893,7 @@
     "name": "Eligor",
     "level": 16,
     "arcana": "Emperor",
-    "elems": ["-", "-", "rs", "-", "wk", "-", "-", "-", "-", "rs"],
+    "elems": ["", "", "Str", "", "Wk", "", "", "", "", "Str"],
     "skills": [
       { "name": "Maragi", "level": 0 },
       { "name": "Sharp Student", "level": 0 },
@@ -910,7 +910,7 @@
     "name": "Emperor's Amulet",
     "level": 35,
     "arcana": "Hanged",
-    "elems": ["rs", "rs", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Str", "", "", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Bufudyne", "level": 0 },
@@ -932,7 +932,7 @@
     "name": "Fafnir",
     "level": 86,
     "arcana": "Hermit",
-    "elems": ["rp", "rp", "ab", "-", "rs", "-", "-", "ab", "-", "-"],
+    "elems": ["Rpl", "Rpl", "Dr", "", "Str", "", "", "Dr", "", ""],
     "skills": [
       { "name": "Gigantomachia", "level": 0 },
       { "name": "Evil Smile", "level": 0 },
@@ -950,7 +950,7 @@
     "name": "Flauros",
     "level": 19,
     "arcana": "Devil",
-    "elems": ["-", "-", "nu", "wk", "-", "rs", "-", "rs", "-", "-"],
+    "elems": ["", "", "Nul", "Wk", "", "Str", "", "Str", "", ""],
     "skills": [
       { "name": "Giant Slice", "level": 0 },
       { "name": "Dormin Rush", "level": 0 },
@@ -968,7 +968,7 @@
     "name": "Forneus",
     "level": 63,
     "arcana": "Magician",
-    "elems": ["-", "-", "-", "ab", "wk", "-", "nu", "-", "-", "-"],
+    "elems": ["", "", "", "Dr", "Wk", "", "Nul", "", "", ""],
     "skills": [
       { "name": "Psiodyne", "level": 0 },
       { "name": "Masukunda", "level": 0 },
@@ -986,7 +986,7 @@
     "name": "Fortuna",
     "level": 46,
     "arcana": "Fortune",
-    "elems": ["-", "-", "nu", "-", "wk", "nu", "-", "-", "-", "-"],
+    "elems": ["", "", "Nul", "", "Wk", "Nul", "", "", "", ""],
     "skills": [
       { "name": "Magarula", "level": 0 },
       { "name": "Masukukaja", "level": 0 },
@@ -1004,7 +1004,7 @@
     "name": "Futsunushi",
     "level": 86,
     "arcana": "Magician",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "-", "-"],
+    "elems": ["Str", "", "", "", "", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Myriad Slashes", "level": 0 },
       { "name": "Matarukaja", "level": 0 },
@@ -1023,7 +1023,7 @@
     "name": "Fuu-Ki",
     "level": 23,
     "arcana": "Star",
-    "elems": ["-", "rs", "-", "-", "wk", "ab", "-", "-", "-", "-"],
+    "elems": ["", "Str", "", "", "Wk", "Dr", "", "", "", ""],
     "skills": [
       { "name": "Tetra Break", "level": 0 },
       { "name": "Tarukaja", "level": 0 },
@@ -1040,7 +1040,7 @@
     "name": "Gabriel",
     "level": 77,
     "arcana": "Temperance",
-    "elems": ["-", "-", "-", "-", "-", "-", "nu", "-", "ab", "-"],
+    "elems": ["", "", "", "", "", "", "Nul", "", "Dr", ""],
     "skills": [
       { "name": "Maziodyne", "level": 0 },
       { "name": "Mabufudyne", "level": 0 },
@@ -1059,7 +1059,7 @@
     "name": "Ganesha",
     "level": 53,
     "arcana": "Sun",
-    "elems": ["rs", "rs", "-", "-", "-", "ab", "wk", "-", "-", "-"],
+    "elems": ["Str", "Str", "", "", "", "Dr", "Wk", "", "", ""],
     "skills": [
       { "name": "Miracle Punch", "level": 0 },
       { "name": "Tempest Slash", "level": 0 },
@@ -1077,7 +1077,7 @@
     "name": "Garuda",
     "level": 52,
     "arcana": "Star",
-    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "rp", "-"],
+    "elems": ["", "", "", "", "", "Str", "", "", "Rpl", ""],
     "skills": [
       { "name": "Garudyne", "level": 0 },
       { "name": "Mind Slice", "level": 0 },
@@ -1095,7 +1095,7 @@
     "name": "Genbu",
     "level": 7,
     "arcana": "Temperance",
-    "elems": ["-", "-", "-", "nu", "wk", "-", "rs", "-", "-", "-"],
+    "elems": ["", "", "", "Nul", "Wk", "", "Str", "", "", ""],
     "skills": [
       { "name": "Bufu", "level": 0 },
       { "name": "Rakunda", "level": 0 },
@@ -1112,7 +1112,7 @@
     "name": "Girimehkala",
     "level": 43,
     "arcana": "Moon",
-    "elems": ["rp", "rp", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["Rpl", "Rpl", "Str", "", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Mudoon", "level": 0 },
       { "name": "Marakunda", "level": 0 },
@@ -1129,7 +1129,7 @@
     "name": "Hanuman",
     "level": 64,
     "arcana": "Strength",
-    "elems": ["-", "rs", "-", "wk", "-", "-", "rs", "-", "rs", "-"],
+    "elems": ["", "Str", "", "Wk", "", "", "Str", "", "Str", ""],
     "skills": [
       { "name": "Tempest Slash", "level": 0 },
       { "name": "Matarunda", "level": 0 },
@@ -1146,7 +1146,7 @@
     "name": "Hariti",
     "level": 40,
     "arcana": "Empress",
-    "elems": ["-", "-", "-", "-", "-", "wk", "rs", "-", "rs", "-"],
+    "elems": ["", "", "", "", "", "Wk", "Str", "", "Str", ""],
     "skills": [
       { "name": "Zionga", "level": 0 },
       { "name": "Energy Shower", "level": 0 },
@@ -1165,7 +1165,7 @@
     "name": "Hastur",
     "level": 84,
     "arcana": "Star",
-    "elems": ["-", "-", "rs", "-", "-", "ab", "nu", "-", "-", "nu"],
+    "elems": ["", "", "Str", "", "", "Dr", "Nul", "", "", "Nul"],
     "skills": [
       { "name": "Vacuum Wave", "level": 0 },
       { "name": "Nocturnal Flash", "level": 0 },
@@ -1183,7 +1183,7 @@
     "name": "Hecatoncheires",
     "level": 42,
     "arcana": "Hanged",
-    "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "Str", "", "", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Swift Strike", "level": 0 },
       { "name": "Regenerate 2", "level": 0 },
@@ -1201,7 +1201,7 @@
     "name": "Hell Biker",
     "level": 37,
     "arcana": "Death",
-    "elems": ["-", "-", "rp", "-", "-", "rs", "-", "-", "wk", "-"],
+    "elems": ["", "", "Rpl", "", "", "Str", "", "", "Wk", ""],
     "skills": [
       { "name": "Mudoon", "level": 0 },
       { "name": "Agilao", "level": 0 },
@@ -1219,7 +1219,7 @@
     "name": "High Pixie",
     "level": 16,
     "arcana": "Fool",
-    "elems": ["-", "wk", "-", "-", "rs", "rs", "-", "wk", "-", "-"],
+    "elems": ["", "Wk", "", "", "Str", "Str", "", "Wk", "", ""],
     "skills": [
       { "name": "Garu", "level": 0 },
       { "name": "Media", "level": 0 },
@@ -1236,7 +1236,7 @@
     "name": "Hope Diamond",
     "level": 40,
     "arcana": "Death",
-    "elems": ["rs", "rs", "-", "wk", "-", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Str", "", "Wk", "", "", "", "", "", ""],
     "skills": [
       { "name": "Auto-Mataru", "level": 0 },
       { "name": "Auto-Maraku", "level": 0 },
@@ -1258,7 +1258,7 @@
     "name": "Horus",
     "level": 47,
     "arcana": "Sun",
-    "elems": ["-", "-", "wk", "-", "nu", "-", "-", "-", "rp", "-"],
+    "elems": ["", "", "Wk", "", "Nul", "", "", "", "Rpl", ""],
     "skills": [
       { "name": "Megidola", "level": 0 },
       { "name": "Diarama", "level": 0 },
@@ -1276,7 +1276,7 @@
     "name": "Hua Po",
     "level": 9,
     "arcana": "Hanged",
-    "elems": ["-", "wk", "rp", "wk", "-", "-", "-", "-", "-", "-"],
+    "elems": ["", "Wk", "Rpl", "Wk", "", "", "", "", "", ""],
     "skills": [
       { "name": "Agi", "level": 0 },
       { "name": "Dormina", "level": 0 },
@@ -1293,7 +1293,7 @@
     "name": "Incubus",
     "level": 5,
     "arcana": "Devil",
-    "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "wk", "-"],
+    "elems": ["", "", "Wk", "", "Str", "", "", "", "Wk", ""],
     "skills": [
       { "name": "Life Drain", "level": 0 },
       { "name": "Dream Needle", "level": 0 },
@@ -1309,7 +1309,7 @@
     "name": "Inugami",
     "level": 14,
     "arcana": "Hanged",
-    "elems": ["-", "nu", "nu", "-", "-", "wk", "-", "-", "-", "nu"],
+    "elems": ["", "Nul", "Nul", "", "", "Wk", "", "", "", "Nul"],
     "skills": [
       { "name": "Pulinpa", "level": 0 },
       { "name": "Tarukaja", "level": 0 },
@@ -1327,7 +1327,7 @@
     "name": "Ippon-Datara",
     "level": 13,
     "arcana": "Hermit",
-    "elems": ["-", "rs", "rs", "wk", "-", "rp", "-", "-", "rs", "rs"],
+    "elems": ["", "Str", "Str", "Wk", "", "Rpl", "", "", "Str", "Str"],
     "skills": [
       { "name": "Sledgehammer", "level": 0 },
       { "name": "Tarukaja", "level": 0 },
@@ -1344,7 +1344,7 @@
     "name": "Ishtar",
     "level": 85,
     "arcana": "Lovers",
-    "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "-"],
+    "elems": ["", "", "", "", "Nul", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Mediarahan", "level": 0 },
       { "name": "Samarecarm", "level": 0 },
@@ -1362,7 +1362,7 @@
     "name": "Isis",
     "level": 26,
     "arcana": "Priestess",
-    "elems": ["-", "-", "-", "-", "-", "-", "wk", "-", "nu", "-"],
+    "elems": ["", "", "", "", "", "", "Wk", "", "Nul", ""],
     "skills": [
       { "name": "Makouga", "level": 0 },
       { "name": "Mahama", "level": 0 },
@@ -1380,7 +1380,7 @@
     "name": "Jack Frost",
     "level": 11,
     "arcana": "Magician",
-    "elems": ["-", "-", "wk", "nu", "-", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "Nul", "", "", "", "", "", ""],
     "skills": [
       { "name": "Bufu", "level": 0 },
       { "name": "Ice Break", "level": 0 },
@@ -1397,7 +1397,7 @@
     "name": "Jack-o'-Lantern",
     "level": 2,
     "arcana": "Magician",
-    "elems": ["-", "-", "ab", "wk", "-", "wk", "-", "-", "-", "-"],
+    "elems": ["", "", "Dr", "Wk", "", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Agi", "level": 0 },
       { "name": "Rakunda", "level": 0 },
@@ -1413,7 +1413,7 @@
     "name": "Jatayu",
     "level": 51,
     "arcana": "Hanged",
-    "elems": ["-", "-", "-", "rs", "-", "rp", "-", "wk", "rs", "-"],
+    "elems": ["", "", "", "Str", "", "Rpl", "", "Wk", "Str", ""],
     "skills": [
       { "name": "Garudyne", "level": 0 },
       { "name": "Masukukaja", "level": 0 },
@@ -1431,7 +1431,7 @@
     "name": "Jikokuten",
     "level": 22,
     "arcana": "Temperance",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "rs", "wk"],
+    "elems": ["Str", "", "", "", "", "", "", "", "Str", "Wk"],
     "skills": [
       { "name": "Assault Dive", "level": 0 },
       { "name": "Defense Master", "level": 0 },
@@ -1449,7 +1449,7 @@
     "name": "Kaiwan",
     "level": 36,
     "arcana": "Star",
-    "elems": ["-", "nu", "-", "-", "-", "-", "nu", "wk", "-", "-"],
+    "elems": ["", "Nul", "", "", "", "", "Nul", "Wk", "", ""],
     "skills": [
       { "name": "Makajam", "level": 0 },
       { "name": "Psio", "level": 0 },
@@ -1467,7 +1467,7 @@
     "name": "Kali",
     "level": 63,
     "arcana": "Empress",
-    "elems": ["-", "rp", "nu", "-", "-", "-", "rp", "-", "-", "rs"],
+    "elems": ["", "Rpl", "Nul", "", "", "", "Rpl", "", "", "Str"],
     "skills": [
       { "name": "Heat Wave", "level": 0 },
       { "name": "Bloodbath", "level": 0 },
@@ -1485,7 +1485,7 @@
     "name": "Kelpie",
     "level": 6,
     "arcana": "Strength",
-    "elems": ["-", "-", "-", "rs", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "", "Str", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Garu", "level": 0 },
       { "name": "Lunge", "level": 0 },
@@ -1501,7 +1501,7 @@
     "name": "Kikuri-Hime",
     "level": 40,
     "arcana": "Priestess",
-    "elems": ["-", "-", "wk", "-", "-", "nu", "-", "-", "rs", "-"],
+    "elems": ["", "", "Wk", "", "", "Nul", "", "", "Str", ""],
     "skills": [
       { "name": "Lullaby", "level": 0 },
       { "name": "Marakukaja", "level": 0 },
@@ -1518,7 +1518,7 @@
     "name": "Kin-Ki",
     "level": 25,
     "arcana": "Chariot",
-    "elems": ["rs", "rp", "-", "-", "-", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Rpl", "", "", "", "", "", "", "", ""],
     "skills": [
       { "name": "Vajra Blast", "level": 0 },
       { "name": "Rakukaja", "level": 0 },
@@ -1536,7 +1536,7 @@
     "name": "King Frost",
     "level": 61,
     "arcana": "Emperor",
-    "elems": ["-", "-", "-", "ab", "-", "-", "-", "-", "nu", "-"],
+    "elems": ["", "", "", "Dr", "", "", "", "", "Nul", ""],
     "skills": [
       { "name": "Bufudyne", "level": 0 },
       { "name": "Ice Break", "level": 0 },
@@ -1554,7 +1554,7 @@
     "name": "Kodama",
     "level": 11,
     "arcana": "Star",
-    "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "Str", "", "", "", "", "", ""],
     "skills": [
       { "name": "Garu", "level": 0 },
       { "name": "Rakunda", "level": 0 },
@@ -1572,7 +1572,7 @@
     "name": "Koh-i-Noor",
     "level": 25,
     "arcana": "Priestess",
-    "elems": ["rs", "wk", "-", "-", "-", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Wk", "", "", "", "", "", "", "", ""],
     "skills": [
       { "name": "Dodge Fire", "level": 0 },
       { "name": "Dodge Ice", "level": 0 },
@@ -1594,7 +1594,7 @@
     "name": "Kohryu",
     "level": 76,
     "arcana": "Hierophant",
-    "elems": ["-", "-", "-", "-", "rp", "-", "nu", "wk", "nu", "-"],
+    "elems": ["", "", "", "", "Rpl", "", "Nul", "Wk", "Nul", ""],
     "skills": [
       { "name": "Psycho Force", "level": 0 },
       { "name": "Mediarahan", "level": 0 },
@@ -1612,7 +1612,7 @@
     "name": "Koppa Tengu",
     "level": 11,
     "arcana": "Temperance",
-    "elems": ["-", "-", "-", "wk", "-", "rs", "-", "-", "wk", "-"],
+    "elems": ["", "", "", "Wk", "", "Str", "", "", "Wk", ""],
     "skills": [
       { "name": "Garu", "level": 0 },
       { "name": "Sukukaja", "level": 0 },
@@ -1629,7 +1629,7 @@
     "name": "Koropokkuru",
     "level": 9,
     "arcana": "Hermit",
-    "elems": ["-", "-", "wk", "rs", "-", "rs", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "Str", "", "Str", "", "", "", ""],
     "skills": [
       { "name": "Makajam", "level": 0 },
       { "name": "Bufu", "level": 0 },
@@ -1647,7 +1647,7 @@
     "name": "Koumokuten",
     "level": 49,
     "arcana": "Hermit",
-    "elems": ["rs", "-", "-", "wk", "-", "-", "-", "-", "rs", "-"],
+    "elems": ["Str", "", "", "Wk", "", "", "", "", "Str", ""],
     "skills": [
       { "name": "Assault Dive", "level": 0 },
       { "name": "Regenerate 2", "level": 0 },
@@ -1665,7 +1665,7 @@
     "name": "Kumbhanda",
     "level": 42,
     "arcana": "Hermit",
-    "elems": ["-", "-", "nu", "-", "-", "-", "wk", "-", "-", "rs"],
+    "elems": ["", "", "Nul", "", "", "", "Wk", "", "", "Str"],
     "skills": [
       { "name": "Magarula", "level": 0 },
       { "name": "Stagnant Air", "level": 0 },
@@ -1683,7 +1683,7 @@
     "name": "Kurama Tengu",
     "level": 31,
     "arcana": "Hermit",
-    "elems": ["-", "-", "-", "nu", "-", "rp", "-", "-", "rs", "rs"],
+    "elems": ["", "", "", "Nul", "", "Rpl", "", "", "Str", "Str"],
     "skills": [
       { "name": "Double Shot", "level": 0 },
       { "name": "Masukunda", "level": 0 },
@@ -1700,7 +1700,7 @@
     "name": "Kushinada",
     "level": 42,
     "arcana": "Lovers",
-    "elems": ["-", "-", "-", "wk", "-", "-", "-", "wk", "rp", "-"],
+    "elems": ["", "", "", "Wk", "", "", "", "Wk", "Rpl", ""],
     "skills": [
       { "name": "Hysterical Slap", "level": 0 },
       { "name": "Psy Wall", "level": 0 },
@@ -1719,7 +1719,7 @@
     "name": "Kushi Mitama",
     "level": 12,
     "arcana": "Councillor",
-    "elems": ["-", "-", "wk", "-", "-", "rs", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "", "", "Str", "", "", "", ""],
     "skills": [
       { "name": "Dia", "level": 0 },
       { "name": "Media", "level": 0 },
@@ -1736,7 +1736,7 @@
     "name": "Lachesis",
     "level": 35,
     "arcana": "Fortune",
-    "elems": ["-", "-", "-", "nu", "wk", "rs", "-", "-", "-", "-"],
+    "elems": ["", "", "", "Nul", "Wk", "Str", "", "", "", ""],
     "skills": [
       { "name": "Mabaisudi", "level": 0 },
       { "name": "Bufula", "level": 0 },
@@ -1754,7 +1754,7 @@
     "name": "Lakshmi",
     "level": 69,
     "arcana": "Fortune",
-    "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "rs", "-"],
+    "elems": ["", "", "Wk", "Str", "", "", "", "", "Str", ""],
     "skills": [
       { "name": "Lullaby", "level": 0 },
       { "name": "Diarahan", "level": 0 },
@@ -1772,7 +1772,7 @@
     "name": "Lamia",
     "level": 26,
     "arcana": "Empress",
-    "elems": ["-", "-", "-", "wk", "rs", "-", "-", "wk", "-", "nu"],
+    "elems": ["", "", "", "Wk", "Str", "", "", "Wk", "", "Nul"],
     "skills": [
       { "name": "Mudo", "level": 0 },
       { "name": "Rakukaja", "level": 0 },
@@ -1790,7 +1790,7 @@
     "name": "Leanan Sidhe",
     "level": 19,
     "arcana": "Lovers",
-    "elems": ["-", "-", "wk", "-", "-", "rs", "rs", "-", "-", "-"],
+    "elems": ["", "", "Wk", "", "", "Str", "Str", "", "", ""],
     "skills": [
       { "name": "Rakunda", "level": 0 },
       { "name": "Psio", "level": 0 },
@@ -1807,7 +1807,7 @@
     "name": "Legion",
     "level": 38,
     "arcana": "Fool",
-    "elems": ["rs", "-", "rs", "-", "-", "-", "rs", "-", "wk", "nu"],
+    "elems": ["Str", "", "Str", "", "", "", "Str", "", "Wk", "Nul"],
     "skills": [
       { "name": "Bloodbath", "level": 0 },
       { "name": "Life Drain", "level": 0 },
@@ -1825,7 +1825,7 @@
     "name": "Lilim",
     "level": 32,
     "arcana": "Devil",
-    "elems": ["-", "-", "-", "rs", "-", "wk", "-", "-", "wk", "nu"],
+    "elems": ["", "", "", "Str", "", "Wk", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Bufula", "level": 0 },
       { "name": "Lullaby", "level": 0 },
@@ -1843,7 +1843,7 @@
     "name": "Lilith",
     "level": 60,
     "arcana": "Moon",
-    "elems": ["-", "-", "wk", "rp", "-", "-", "-", "rp", "-", "nu"],
+    "elems": ["", "", "Wk", "Rpl", "", "", "", "Rpl", "", "Nul"],
     "skills": [
       { "name": "Mabufudyne", "level": 0 },
       { "name": "Makarakarn", "level": 0 },
@@ -1861,7 +1861,7 @@
     "name": "Loa",
     "level": 70,
     "arcana": "Hermit",
-    "elems": ["-", "-", "rs", "-", "nu", "-", "wk", "rs", "wk", "-"],
+    "elems": ["", "", "Str", "", "Nul", "", "Wk", "Str", "Wk", ""],
     "skills": [
       { "name": "Mamudoon", "level": 0 },
       { "name": "Abysmal Surge", "level": 0 },
@@ -1879,7 +1879,7 @@
     "name": "Lucifer",
     "level": 93,
     "arcana": "Star",
-    "elems": ["nu", "nu", "rs", "rs", "rs", "rs", "-", "-", "wk", "ab"],
+    "elems": ["Nul", "Nul", "Str", "Str", "Str", "Str", "", "", "Wk", "Dr"],
     "skills": [
       { "name": "Gigantomachia", "level": 0 },
       { "name": "Absorb Curse", "level": 0 },
@@ -1898,7 +1898,7 @@
     "name": "Macabre",
     "level": 73,
     "arcana": "Hanged",
-    "elems": ["-", "-", "-", "-", "rs", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "", "", "Str", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Death Scythe", "level": 0 },
       { "name": "Evil Smile", "level": 0 },
@@ -1916,7 +1916,7 @@
     "name": "Mada",
     "level": 90,
     "arcana": "Tower",
-    "elems": ["-", "-", "ab", "wk", "-", "-", "rs", "nu", "-", "-"],
+    "elems": ["", "", "Dr", "Wk", "", "", "Str", "Nul", "", ""],
     "skills": [
       { "name": "Inferno", "level": 0 },
       { "name": "Fire Amp", "level": 0 },
@@ -1935,7 +1935,7 @@
     "name": "Makami",
     "level": 15,
     "arcana": "Temperance",
-    "elems": ["-", "nu", "-", "-", "wk", "rs", "-", "rs", "nu", "-"],
+    "elems": ["", "Nul", "", "", "Wk", "Str", "", "Str", "Nul", ""],
     "skills": [
       { "name": "Double Fangs", "level": 0 },
       { "name": "Frei", "level": 0 },
@@ -1953,7 +1953,7 @@
     "name": "Mandrake",
     "level": 3,
     "arcana": "Death",
-    "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "", "Str", "", "", "", "", ""],
     "skills": [
       { "name": "Pulinpa", "level": 0 },
       { "name": "Energy Drop", "level": 0 },
@@ -1968,7 +1968,7 @@
     "name": "Mara",
     "level": 73,
     "arcana": "Tower",
-    "elems": ["-", "nu", "ab", "-", "-", "-", "rp", "-", "rs", "nu"],
+    "elems": ["", "Nul", "Dr", "", "", "", "Rpl", "", "Str", "Nul"],
     "skills": [
       { "name": "Mapsiodyne", "level": 0 },
       { "name": "One-shot Kill", "level": 0 },
@@ -1986,7 +1986,7 @@
     "name": "Maria",
     "level": 93,
     "arcana": "Faith",
-    "elems": ["-", "-", "wk", "-", "rs", "nu", "-", "-", "ab", "-"],
+    "elems": ["", "", "Wk", "", "Str", "Nul", "", "", "Dr", ""],
     "skills": [
       { "name": "Invigorate 3", "level": 0 },
       { "name": "Salvation", "level": 0 },
@@ -2004,7 +2004,7 @@
     "name": "Matador",
     "level": 17,
     "arcana": "Death",
-    "elems": ["-", "-", "-", "-", "wk", "nu", "-", "-", "-", "-"],
+    "elems": ["", "", "", "", "Wk", "Nul", "", "", "", ""],
     "skills": [
       { "name": "Psi", "level": 0 },
       { "name": "Null Dizzy", "level": 0 },
@@ -2021,7 +2021,7 @@
     "name": "Melchizedek",
     "level": 58,
     "arcana": "Justice",
-    "elems": ["-", "-", "-", "-", "-", "wk", "rs", "-", "ab", "nu"],
+    "elems": ["", "", "", "", "", "Wk", "Str", "", "Dr", "Nul"],
     "skills": [
       { "name": "Megaton Raid", "level": 0 },
       { "name": "Hamaon", "level": 0 },
@@ -2039,7 +2039,7 @@
     "name": "Metatron",
     "level": 89,
     "arcana": "Justice",
-    "elems": ["-", "-", "-", "-", "wk", "rp", "ab", "ab", "-", "wk"],
+    "elems": ["", "", "", "", "Wk", "Rpl", "Dr", "Dr", "", "Wk"],
     "skills": [
       { "name": "Mahamaon", "level": 0 },
       { "name": "Sword Dance", "level": 0 },
@@ -2058,7 +2058,7 @@
     "name": "Michael",
     "level": 87,
     "arcana": "Judgement",
-    "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "rp", "nu"],
+    "elems": ["", "Str", "", "", "", "", "", "", "Rpl", "Nul"],
     "skills": [
       { "name": "Divine Judgement", "level": 0 },
       { "name": "Mabufudyne", "level": 0 },
@@ -2076,7 +2076,7 @@
     "name": "Mishaguji",
     "level": 52,
     "arcana": "Hierophant",
-    "elems": ["rs", "-", "-", "wk", "nu", "-", "-", "-", "-", "ab"],
+    "elems": ["Str", "", "", "Wk", "Nul", "", "", "", "", "Dr"],
     "skills": [
       { "name": "Regenerate 3", "level": 0 },
       { "name": "Brain Jack", "level": 0 },
@@ -2094,7 +2094,7 @@
     "name": "Mithra",
     "level": 33,
     "arcana": "Temperance",
-    "elems": ["-", "-", "-", "nu", "wk", "-", "-", "-", "nu", "-"],
+    "elems": ["", "", "", "Nul", "Wk", "", "", "", "Nul", ""],
     "skills": [
       { "name": "Kouga", "level": 0 },
       { "name": "Mahama", "level": 0 },
@@ -2112,7 +2112,7 @@
     "name": "Mithras",
     "level": 39,
     "arcana": "Sun",
-    "elems": ["rs", "rs", "ab", "-", "-", "-", "wk", "nu", "-", "-"],
+    "elems": ["Str", "Str", "Dr", "", "", "", "Wk", "Nul", "", ""],
     "skills": [
       { "name": "Tentarafoo", "level": 0 },
       { "name": "Mafreila", "level": 0 },
@@ -2130,7 +2130,7 @@
     "name": "Mokoi",
     "level": 9,
     "arcana": "Death",
-    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+    "elems": ["", "", "", "", "Str", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Tarukaja", "level": 0 },
       { "name": "Dazzler", "level": 0 },
@@ -2147,7 +2147,7 @@
     "name": "Moloch",
     "level": 60,
     "arcana": "Hanged",
-    "elems": ["-", "-", "ab", "wk", "rs", "rs", "ab", "-", "-", "nu"],
+    "elems": ["", "", "Dr", "Wk", "Str", "Str", "Dr", "", "", "Nul"],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Stagnant Air", "level": 0 },
@@ -2165,7 +2165,7 @@
     "name": "Mot",
     "level": 72,
     "arcana": "Death",
-    "elems": ["-", "rs", "-", "-", "ab", "wk", "-", "-", "-", "rp"],
+    "elems": ["", "Str", "", "", "Dr", "Wk", "", "", "", "Rpl"],
     "skills": [
       { "name": "Megidola", "level": 0 },
       { "name": "Matarukaja", "level": 0 },
@@ -2182,7 +2182,7 @@
     "name": "Mother Harlot",
     "level": 85,
     "arcana": "Empress",
-    "elems": ["-", "-", "-", "-", "rp", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "", "", "Rpl", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Mabufudyne", "level": 0 },
       { "name": "Mamudoon", "level": 0 },
@@ -2200,7 +2200,7 @@
     "name": "Mothman",
     "level": 33,
     "arcana": "Moon",
-    "elems": ["-", "wk", "-", "-", "nu", "-", "rs", "-", "-", "-"],
+    "elems": ["", "Wk", "", "", "Nul", "", "Str", "", "", ""],
     "skills": [
       { "name": "Skull Cracker", "level": 0 },
       { "name": "Mazionga", "level": 0 },
@@ -2218,7 +2218,7 @@
     "name": "Naga",
     "level": 24,
     "arcana": "Hermit",
-    "elems": ["-", "rs", "-", "-", "nu", "wk", "-", "-", "-", "-"],
+    "elems": ["", "Str", "", "", "Nul", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Power Slash", "level": 0 },
       { "name": "Memory Blow", "level": 0 },
@@ -2236,7 +2236,7 @@
     "name": "Narcissus",
     "level": 48,
     "arcana": "Lovers",
-    "elems": ["-", "-", "wk", "-", "nu", "rs", "-", "-", "rs", "-"],
+    "elems": ["", "", "Wk", "", "Nul", "Str", "", "", "Str", ""],
     "skills": [
       { "name": "Dazzler", "level": 0 },
       { "name": "Magarula", "level": 0 },
@@ -2254,7 +2254,7 @@
     "name": "Nebiros",
     "level": 74,
     "arcana": "Devil",
-    "elems": ["-", "-", "-", "-", "-", "-", "nu", "-", "wk", "rs"],
+    "elems": ["", "", "", "", "", "", "Nul", "", "Wk", "Str"],
     "skills": [
       { "name": "Marin Karin", "level": 0 },
       { "name": "Mapsiodyne", "level": 0 },
@@ -2272,7 +2272,7 @@
     "name": "Neko Shogun",
     "level": 30,
     "arcana": "Star",
-    "elems": ["rs", "-", "-", "-", "rs", "wk", "-", "-", "nu", "rs"],
+    "elems": ["Str", "", "", "", "Str", "Wk", "", "", "Nul", "Str"],
     "skills": [
       { "name": "Psio", "level": 0 },
       { "name": "Diarama", "level": 0 },
@@ -2290,7 +2290,7 @@
     "name": "Nekomata",
     "level": 17,
     "arcana": "Magician",
-    "elems": ["-", "-", "-", "-", "wk", "-", "rs", "-", "-", "-"],
+    "elems": ["", "", "", "", "Wk", "", "Str", "", "", ""],
     "skills": [
       { "name": "Magaru", "level": 0 },
       { "name": "Terror Claw", "level": 0 },
@@ -2308,7 +2308,7 @@
     "name": "Nigi Mitama",
     "level": 22,
     "arcana": "Councillor",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "rs"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "Str", "Str"],
     "skills": [
       { "name": "Baisudi", "level": 0 },
       { "name": "Diarama", "level": 0 },
@@ -2325,7 +2325,7 @@
     "name": "Norn",
     "level": 52,
     "arcana": "Fortune",
-    "elems": ["-", "-", "-", "-", "rp", "ab", "-", "-", "rs", "-"],
+    "elems": ["", "", "", "", "Rpl", "Dr", "", "", "Str", ""],
     "skills": [
       { "name": "Ziodyne", "level": 0 },
       { "name": "Garudyne", "level": 0 },
@@ -2343,7 +2343,7 @@
     "name": "Nue",
     "level": 20,
     "arcana": "Death",
-    "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "-", "nu"],
+    "elems": ["", "", "Wk", "Str", "", "", "", "", "", "Nul"],
     "skills": [
       { "name": "Maeiha", "level": 0 },
       { "name": "Skull Cracker", "level": 0 },
@@ -2361,7 +2361,7 @@
     "name": "Obariyon",
     "level": 8,
     "arcana": "Fool",
-    "elems": ["rs", "-", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "", "", "", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Snap", "level": 0 },
       { "name": "Sukunda", "level": 0 },
@@ -2377,7 +2377,7 @@
     "name": "Oberon",
     "level": 66,
     "arcana": "Emperor",
-    "elems": ["-", "-", "-", "-", "rs", "-", "nu", "wk", "-", "-"],
+    "elems": ["", "", "", "", "Str", "", "Nul", "Wk", "", ""],
     "skills": [
       { "name": "Ziodyne", "level": 0 },
       { "name": "Nocturnal Flash", "level": 0 },
@@ -2396,7 +2396,7 @@
     "name": "Odin",
     "level": 84,
     "arcana": "Emperor",
-    "elems": ["-", "-", "-", "-", "nu", "ab", "-", "-", "rp", "rp"],
+    "elems": ["", "", "", "", "Nul", "Dr", "", "", "Rpl", "Rpl"],
     "skills": [
       { "name": "Thunder Reign", "level": 0 },
       { "name": "Myriad Slashes", "level": 0 },
@@ -2414,7 +2414,7 @@
     "name": "Okuninushi",
     "level": 54,
     "arcana": "Faith",
-    "elems": ["-", "-", "-", "-", "rp", "wk", "nu", "wk", "-", "-"],
+    "elems": ["", "", "", "", "Rpl", "Wk", "Nul", "Wk", "", ""],
     "skills": [
       { "name": "Mapsio", "level": 0 },
       { "name": "Myriad Slashes", "level": 0 },
@@ -2432,7 +2432,7 @@
     "name": "Ongyo-Ki",
     "level": 89,
     "arcana": "Hermit",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "rp", "rp"],
+    "elems": ["Str", "", "", "", "", "", "", "", "Rpl", "Rpl"],
     "skills": [
       { "name": "Myriad Slashes", "level": 0 },
       { "name": "Makajamaon", "level": 0 },
@@ -2450,7 +2450,7 @@
     "name": "Oni",
     "level": 20,
     "arcana": "Strength",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Str", "", "", "", "", "", "", "", ""],
     "skills": [
       { "name": "Rampage", "level": 0 },
       { "name": "Counter", "level": 0 },
@@ -2467,7 +2467,7 @@
     "name": "Onmoraki",
     "level": 12,
     "arcana": "Moon",
-    "elems": ["-", "-", "rs", "wk", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "Str", "Wk", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Eiha", "level": 0 },
       { "name": "Ice Wall", "level": 0 },
@@ -2484,7 +2484,7 @@
     "name": "Orichalcum",
     "level": 60,
     "arcana": "Faith",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "wk", "-"],
+    "elems": ["Str", "Str", "", "", "", "", "", "", "Wk", ""],
     "skills": [
       { "name": "Inferno", "level": 0 },
       { "name": "Diamond Dust", "level": 0 },
@@ -2506,7 +2506,7 @@
     "name": "Orlov",
     "level": 30,
     "arcana": "Strength",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "-", "wk"],
+    "elems": ["Str", "Str", "", "", "", "", "", "", "", "Wk"],
     "skills": [
       { "name": "Maragion", "level": 0 },
       { "name": "Mabufula", "level": 0 },
@@ -2528,7 +2528,7 @@
     "name": "Orobas",
     "level": 17,
     "arcana": "Hierophant",
-    "elems": ["-", "-", "-", "wk", "-", "rs", "-", "-", "-", "rs"],
+    "elems": ["", "", "", "Wk", "", "Str", "", "", "", "Str"],
     "skills": [
       { "name": "Maragi", "level": 0 },
       { "name": "Sukukaja", "level": 0 },
@@ -2545,7 +2545,7 @@
     "name": "Orthrus",
     "level": 21,
     "arcana": "Hanged",
-    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+    "elems": ["", "", "Dr", "Wk", "", "", "", "Str", "", ""],
     "skills": [
       { "name": "Agilao", "level": 0 },
       { "name": "Double Fangs", "level": 0 },
@@ -2562,7 +2562,7 @@
     "name": "Ose",
     "level": 42,
     "arcana": "Fool",
-    "elems": ["-", "nu", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "Nul", "Str", "", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Oni Kagura", "level": 0 },
       { "name": "Counterstrike", "level": 0 },
@@ -2579,7 +2579,7 @@
     "name": "Pale Rider",
     "level": 54,
     "arcana": "Death",
-    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "rp"],
+    "elems": ["", "", "", "", "", "Str", "", "", "Wk", "Rpl"],
     "skills": [
       { "name": "Abysmal Surge", "level": 0 },
       { "name": "Eigaon", "level": 0 },
@@ -2597,7 +2597,7 @@
     "name": "Parvati",
     "level": 56,
     "arcana": "Lovers",
-    "elems": ["-", "-", "-", "rp", "-", "-", "rs", "-", "rs", "wk"],
+    "elems": ["", "", "", "Rpl", "", "", "Str", "", "Str", "Wk"],
     "skills": [
       { "name": "Diarama", "level": 0 },
       { "name": "Psiodyne", "level": 0 },
@@ -2615,7 +2615,7 @@
     "name": "Pazuzu",
     "level": 45,
     "arcana": "Devil",
-    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "nu"],
+    "elems": ["", "", "", "", "", "Str", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Maeiga", "level": 0 },
       { "name": "Tentarafoo", "level": 0 },
@@ -2633,7 +2633,7 @@
     "name": "Phoenix",
     "level": 21,
     "arcana": "Faith",
-    "elems": ["-", "-", "-", "rs", "wk", "nu", "-", "-", "-", "-"],
+    "elems": ["", "", "", "Str", "Wk", "Nul", "", "", "", ""],
     "skills": [
       { "name": "Freila", "level": 0 },
       { "name": "Dream Needle", "level": 0 },
@@ -2650,7 +2650,7 @@
     "name": "Pisaca",
     "level": 28,
     "arcana": "Death",
-    "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "Wk", "", "Str", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Dream Needle", "level": 0 },
       { "name": "Rampage", "level": 0 },
@@ -2668,7 +2668,7 @@
     "name": "Pixie",
     "level": 2,
     "arcana": "Lovers",
-    "elems": ["-", "wk", "-", "wk", "rs", "-", "-", "-", "rs", "wk"],
+    "elems": ["", "Wk", "", "Wk", "Str", "", "", "", "Str", "Wk"],
     "skills": [
       { "name": "Zio", "level": 0 },
       { "name": "Dia", "level": 0 },
@@ -2684,7 +2684,7 @@
     "name": "Power",
     "level": 41,
     "arcana": "Justice",
-    "elems": ["-", "wk", "-", "-", "-", "rs", "-", "-", "nu", "wk"],
+    "elems": ["", "Wk", "", "", "", "Str", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Hamaon", "level": 0 },
       { "name": "Brain Shake", "level": 0 },
@@ -2702,7 +2702,7 @@
     "name": "Principality",
     "level": 29,
     "arcana": "Justice",
-    "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "nu", "wk"],
+    "elems": ["", "", "Str", "", "", "", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Makouga", "level": 0 },
       { "name": "Makajamaon", "level": 0 },
@@ -2720,7 +2720,7 @@
     "name": "Queen Mab",
     "level": 43,
     "arcana": "Magician",
-    "elems": ["-", "-", "nu", "-", "rs", "wk", "-", "-", "-", "-"],
+    "elems": ["", "", "Nul", "", "Str", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Mazionga", "level": 0 },
       { "name": "Makajamaon", "level": 0 },
@@ -2738,7 +2738,7 @@
     "name": "Queen's Necklace",
     "level": 15,
     "arcana": "Empress",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "wk", "-", "-", "-"],
+    "elems": ["Str", "Str", "", "", "", "", "Wk", "", "", ""],
     "skills": [
       { "name": "Tarukaja", "level": 0 },
       { "name": "Rakukaja", "level": 0 },
@@ -2760,7 +2760,7 @@
     "name": "Quetzalcoatl",
     "level": 66,
     "arcana": "Sun",
-    "elems": ["-", "-", "nu", "-", "-", "rs", "wk", "-", "-", "-"],
+    "elems": ["", "", "Nul", "", "", "Str", "Wk", "", "", ""],
     "skills": [
       { "name": "Magarula", "level": 0 },
       { "name": "Garudyne", "level": 0 },
@@ -2778,7 +2778,7 @@
     "name": "Raja Naga",
     "level": 55,
     "arcana": "Temperance",
-    "elems": ["-", "-", "-", "-", "nu", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "", "", "Nul", "", "", "", "", ""],
     "skills": [
       { "name": "Ziodyne", "level": 0 },
       { "name": "Elec Break", "level": 0 },
@@ -2796,7 +2796,7 @@
     "name": "Rakshasa",
     "level": 24,
     "arcana": "Strength",
-    "elems": ["rs", "nu", "rs", "-", "-", "wk", "-", "-", "wk", "rs"],
+    "elems": ["Str", "Nul", "Str", "", "", "Wk", "", "", "Wk", "Str"],
     "skills": [
       { "name": "Giant Slice", "level": 0 },
       { "name": "Wind Wall", "level": 0 },
@@ -2814,7 +2814,7 @@
     "name": "Rangda",
     "level": 48,
     "arcana": "Magician",
-    "elems": ["rp", "rp", "nu", "-", "wk", "-", "-", "-", "wk", "nu"],
+    "elems": ["Rpl", "Rpl", "Nul", "", "Wk", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Swift Strike", "level": 0 },
       { "name": "Bloodbath", "level": 0 },
@@ -2831,7 +2831,7 @@
     "name": "Raphael",
     "level": 78,
     "arcana": "Lovers",
-    "elems": ["-", "-", "-", "ab", "-", "-", "nu", "-", "nu", "-"],
+    "elems": ["", "", "", "Dr", "", "", "Nul", "", "Nul", ""],
     "skills": [
       { "name": "Sword Dance", "level": 0 },
       { "name": "Charge", "level": 0 },
@@ -2849,7 +2849,7 @@
     "name": "Red Rider",
     "level": 41,
     "arcana": "Tower",
-    "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "", "", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Rising Slash", "level": 0 },
       { "name": "Psy Break", "level": 0 },
@@ -2867,7 +2867,7 @@
     "name": "Regent",
     "level": 10,
     "arcana": "Emperor",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "wk", "-", "-"],
+    "elems": ["Str", "Str", "", "", "", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Maragi", "level": 0 },
       { "name": "Mabufu", "level": 0 },
@@ -2889,7 +2889,7 @@
     "name": "Saki Mitama",
     "level": 6,
     "arcana": "Lovers",
-    "elems": ["-", "-", "-", "rs", "-", "wk", "-", "-", "-", "-"],
+    "elems": ["", "", "", "Str", "", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Bufu", "level": 0 },
       { "name": "Energy Drop", "level": 0 },
@@ -2906,7 +2906,7 @@
     "name": "Sandalphon",
     "level": 75,
     "arcana": "Moon",
-    "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "rp", "nu"],
+    "elems": ["Str", "Str", "", "", "", "", "", "", "Rpl", "Nul"],
     "skills": [
       { "name": "Mahamaon", "level": 0 },
       { "name": "Samarecarm", "level": 0 },
@@ -2924,7 +2924,7 @@
     "name": "Sandman",
     "level": 23,
     "arcana": "Magician",
-    "elems": ["-", "-", "wk", "-", "wk", "rs", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "", "Wk", "Str", "", "", "", ""],
     "skills": [
       { "name": "Dormina", "level": 0 },
       { "name": "Garula", "level": 0 },
@@ -2942,7 +2942,7 @@
     "name": "Sarasvati",
     "level": 50,
     "arcana": "Priestess",
-    "elems": ["-", "-", "-", "nu", "rs", "-", "-", "wk", "-", "-"],
+    "elems": ["", "", "", "Nul", "Str", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Mediarama", "level": 0 },
       { "name": "Ice Wall", "level": 0 },
@@ -2960,7 +2960,7 @@
     "name": "Satan",
     "level": 92,
     "arcana": "Judgement",
-    "elems": ["-", "rs", "-", "rp", "-", "-", "-", "-", "-", "rp"],
+    "elems": ["", "Str", "", "Rpl", "", "", "", "", "", "Rpl"],
     "skills": [
       { "name": "Diamond Dust", "level": 0 },
       { "name": "Ice Age", "level": 0 },
@@ -2979,7 +2979,7 @@
     "name": "Satanael",
     "level": 95,
     "arcana": "Fool",
-    "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "nu", "ab"],
+    "elems": ["Str", "Str", "Str", "Str", "Str", "Str", "Str", "Str", "Nul", "Dr"],
     "skills": [
       { "name": "Maeigaon", "level": 0 },
       { "name": "Megidolaon", "level": 0 },
@@ -2998,7 +2998,7 @@
     "name": "Scathach",
     "level": 77,
     "arcana": "Priestess",
-    "elems": ["-", "-", "-", "nu", "rp", "-", "-", "-", "-", "nu"],
+    "elems": ["", "", "", "Nul", "Rpl", "", "", "", "", "Nul"],
     "skills": [
       { "name": "Mabufudyne", "level": 0 },
       { "name": "Myriad Slashes", "level": 0 },
@@ -3016,7 +3016,7 @@
     "name": "Seiryu",
     "level": 62,
     "arcana": "Councillor",
-    "elems": ["-", "-", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+    "elems": ["", "", "", "Str", "", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Bufudyne", "level": 0 },
       { "name": "Diarahan", "level": 0 },
@@ -3034,7 +3034,7 @@
     "name": "Setanta",
     "level": 25,
     "arcana": "Emperor",
-    "elems": ["-", "rs", "-", "-", "-", "-", "wk", "rs", "-", "-"],
+    "elems": ["", "Str", "", "", "", "", "Wk", "Str", "", ""],
     "skills": [
       { "name": "Giant Slice", "level": 0 },
       { "name": "Dormin Rush", "level": 0 },
@@ -3051,7 +3051,7 @@
     "name": "Seth",
     "level": 51,
     "arcana": "Tower",
-    "elems": ["-", "-", "rp", "-", "-", "nu", "-", "-", "wk", "rs"],
+    "elems": ["", "", "Rpl", "", "", "Nul", "", "", "Wk", "Str"],
     "skills": [
       { "name": "One-shot Kill", "level": 0 },
       { "name": "Agidyne", "level": 0 },
@@ -3068,7 +3068,7 @@
     "name": "Shiisaa",
     "level": 15,
     "arcana": "Strength",
-    "elems": ["rs", "-", "-", "-", "-", "-", "wk", "-", "nu", "wk"],
+    "elems": ["Str", "", "", "", "", "", "Wk", "", "Nul", "Wk"],
     "skills": [
       { "name": "Double Fangs", "level": 0 },
       { "name": "Skull Cracker", "level": 0 },
@@ -3085,7 +3085,7 @@
     "name": "Shiki-Ouji",
     "level": 18,
     "arcana": "Chariot",
-    "elems": ["nu", "nu", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+    "elems": ["Nul", "Nul", "", "", "", "", "", "Wk", "Nul", "Nul"],
     "skills": [
       { "name": "Tarukaja", "level": 0 },
       { "name": "Taunt", "level": 0 },
@@ -3103,7 +3103,7 @@
     "name": "Shiva",
     "level": 82,
     "arcana": "Judgement",
-    "elems": ["-", "-", "-", "nu", "rp", "-", "ab", "wk", "nu", "nu"],
+    "elems": ["", "", "", "Nul", "Rpl", "", "Dr", "Wk", "Nul", "Nul"],
     "skills": [
       { "name": "Psycho Force", "level": 0 },
       { "name": "Maziodyne", "level": 0 },
@@ -3121,7 +3121,7 @@
     "name": "Siegfried",
     "level": 84,
     "arcana": "Faith",
-    "elems": ["nu", "rs", "-", "rs", "nu", "-", "-", "wk", "-", "-"],
+    "elems": ["Nul", "Str", "", "Str", "Nul", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Brave Blade", "level": 0 },
       { "name": "Masukukaja", "level": 0 },
@@ -3139,7 +3139,7 @@
     "name": "Silky",
     "level": 6,
     "arcana": "Priestess",
-    "elems": ["-", "-", "wk", "rs", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["", "", "Wk", "Str", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Dormina", "level": 0 },
       { "name": "Bufu", "level": 0 },
@@ -3155,7 +3155,7 @@
     "name": "Skadi",
     "level": 53,
     "arcana": "Priestess",
-    "elems": ["-", "-", "-", "rp", "-", "-", "-", "-", "-", "nu"],
+    "elems": ["", "", "", "Rpl", "", "", "", "", "", "Nul"],
     "skills": [
       { "name": "Deadly Fury", "level": 0 },
       { "name": "Evil Smile", "level": 0 },
@@ -3173,7 +3173,7 @@
     "name": "Slime",
     "level": 10,
     "arcana": "Chariot",
-    "elems": ["rs", "rs", "wk", "-", "-", "wk", "-", "-", "-", "-"],
+    "elems": ["Str", "Str", "Wk", "", "", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Lunge", "level": 0 },
       { "name": "Evil Touch", "level": 0 },
@@ -3189,7 +3189,7 @@
     "name": "Sraosha",
     "level": 80,
     "arcana": "Star",
-    "elems": ["-", "-", "-", "-", "ab", "-", "-", "-", "rp", "wk"],
+    "elems": ["", "", "", "", "Dr", "", "", "", "Rpl", "Wk"],
     "skills": [
       { "name": "Kougaon", "level": 0 },
       { "name": "Mahamaon", "level": 0 },
@@ -3207,7 +3207,7 @@
     "name": "Stone of Scone",
     "level": 20,
     "arcana": "Fortune",
-    "elems": ["rs", "rs", "wk", "-", "-", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Str", "Wk", "", "", "", "", "", "", ""],
     "skills": [
       { "name": "Agilao", "level": 0 },
       { "name": "Bufula", "level": 0 },
@@ -3229,7 +3229,7 @@
     "name": "Succubus",
     "level": 7,
     "arcana": "Moon",
-    "elems": ["-", "-", "rs", "-", "-", "wk", "-", "-", "wk", "nu"],
+    "elems": ["", "", "Str", "", "", "Wk", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Dormina", "level": 0 },
       { "name": "Rebellion", "level": 0 },
@@ -3246,7 +3246,7 @@
     "name": "Sudama",
     "level": 17,
     "arcana": "Hermit",
-    "elems": ["-", "-", "-", "wk", "-", "rp", "-", "wk", "-", "-"],
+    "elems": ["", "", "", "Wk", "", "Rpl", "", "Wk", "", ""],
     "skills": [
       { "name": "Mapsi", "level": 0 },
       { "name": "Lucky Punch", "level": 0 },
@@ -3264,7 +3264,7 @@
     "name": "Sui-Ki",
     "level": 24,
     "arcana": "Moon",
-    "elems": ["-", "rs", "-", "ab", "rs", "-", "-", "wk", "-", "-"],
+    "elems": ["", "Str", "", "Dr", "Str", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Mabufu", "level": 0 },
       { "name": "Sledgehammer", "level": 0 },
@@ -3282,7 +3282,7 @@
     "name": "Surt",
     "level": 83,
     "arcana": "Magician",
-    "elems": ["-", "rs", "ab", "wk", "nu", "-", "-", "rs", "-", "-"],
+    "elems": ["", "Str", "Dr", "Wk", "Nul", "", "", "Str", "", ""],
     "skills": [
       { "name": "Blazing Hell", "level": 0 },
       { "name": "Attack Master", "level": 0 },
@@ -3300,7 +3300,7 @@
     "name": "Suzaku",
     "level": 16,
     "arcana": "Sun",
-    "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+    "elems": ["", "", "Dr", "Wk", "", "", "", "Str", "", ""],
     "skills": [
       { "name": "Frei", "level": 0 },
       { "name": "Tarunda", "level": 0 },
@@ -3318,7 +3318,7 @@
     "name": "Take-Minakata",
     "level": 26,
     "arcana": "Hanged",
-    "elems": ["-", "-", "-", "-", "rs", "-", "wk", "-", "-", "rs"],
+    "elems": ["", "", "", "", "Str", "", "Wk", "", "", "Str"],
     "skills": [
       { "name": "Zionga", "level": 0 },
       { "name": "Assault Dive", "level": 0 },
@@ -3336,7 +3336,7 @@
     "name": "Tam Lin",
     "level": 27,
     "arcana": "Faith",
-    "elems": ["rs", "-", "nu", "-", "-", "rs", "-", "-", "ab", "wk"],
+    "elems": ["Str", "", "Nul", "", "", "Str", "", "", "Dr", "Wk"],
     "skills": [
       { "name": "Assault Dive", "level": 0 },
       { "name": "Brain Shake", "level": 0 },
@@ -3354,7 +3354,7 @@
     "name": "Thor",
     "level": 64,
     "arcana": "Chariot",
-    "elems": ["rs", "-", "-", "-", "nu", "-", "-", "-", "rs", "rs"],
+    "elems": ["Str", "", "", "", "Nul", "", "", "", "Str", "Str"],
     "skills": [
       { "name": "Ziodyne", "level": 0 },
       { "name": "Megaton Raid", "level": 0 },
@@ -3372,7 +3372,7 @@
     "name": "Thoth",
     "level": 36,
     "arcana": "Emperor",
-    "elems": ["-", "-", "-", "-", "-", "-", "wk", "nu", "nu", "rs"],
+    "elems": ["", "", "", "", "", "", "Wk", "Nul", "Nul", "Str"],
     "skills": [
       { "name": "Taunt", "level": 0 },
       { "name": "Freila", "level": 0 },
@@ -3390,7 +3390,7 @@
     "name": "Throne",
     "level": 72,
     "arcana": "Justice",
-    "elems": ["-", "-", "nu", "-", "-", "nu", "-", "wk", "rp", "-"],
+    "elems": ["", "", "Nul", "", "", "Nul", "", "Wk", "Rpl", ""],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Hamaon", "level": 0 },
@@ -3408,7 +3408,7 @@
     "name": "Thunderbird",
     "level": 34,
     "arcana": "Sun",
-    "elems": ["-", "-", "-", "-", "ab", "-", "wk", "-", "-", "wk"],
+    "elems": ["", "", "", "", "Dr", "", "Wk", "", "", "Wk"],
     "skills": [
       { "name": "Mazionga", "level": 0 },
       { "name": "Tarukaja", "level": 0 },
@@ -3426,7 +3426,7 @@
     "name": "Titania",
     "level": 56,
     "arcana": "Empress",
-    "elems": ["-", "-", "-", "-", "-", "-", "wk", "rs", "rs", "rs"],
+    "elems": ["", "", "", "", "", "", "Wk", "Str", "Str", "Str"],
     "skills": [
       { "name": "Freidyne", "level": 0 },
       { "name": "Ziodyne", "level": 0 },
@@ -3443,7 +3443,7 @@
     "name": "Trumpeter",
     "level": 59,
     "arcana": "Judgement",
-    "elems": ["-", "-", "-", "ab", "rp", "-", "-", "-", "rp", "nu"],
+    "elems": ["", "", "", "Dr", "Rpl", "", "", "", "Rpl", "Nul"],
     "skills": [
       { "name": "Mafreidyne", "level": 0 },
       { "name": "Abysmal Surge", "level": 0 },
@@ -3461,7 +3461,7 @@
     "name": "Unicorn",
     "level": 39,
     "arcana": "Faith",
-    "elems": ["-", "-", "-", "nu", "-", "-", "rs", "-", "nu", "wk"],
+    "elems": ["", "", "", "Nul", "", "", "Str", "", "Nul", "Wk"],
     "skills": [
       { "name": "Assault Dive", "level": 0 },
       { "name": "Mahama", "level": 0 },
@@ -3479,7 +3479,7 @@
     "name": "Uriel",
     "level": 81,
     "arcana": "Justice",
-    "elems": ["-", "-", "nu", "-", "-", "-", "-", "ab", "rp", "-"],
+    "elems": ["", "", "Nul", "", "", "", "", "Dr", "Rpl", ""],
     "skills": [
       { "name": "Deathbound", "level": 0 },
       { "name": "Myriad Slashes", "level": 0 },
@@ -3497,7 +3497,7 @@
     "name": "Valkyrie",
     "level": 44,
     "arcana": "Strength",
-    "elems": ["-", "rs", "wk", "rp", "-", "-", "-", "-", "nu", "-"],
+    "elems": ["", "Str", "Wk", "Rpl", "", "", "", "", "Nul", ""],
     "skills": [
       { "name": "Rising Slash", "level": 0 },
       { "name": "Counterstrike", "level": 0 },
@@ -3514,7 +3514,7 @@
     "name": "Vasuki",
     "level": 68,
     "arcana": "Star",
-    "elems": ["-", "-", "-", "nu", "nu", "-", "-", "-", "-", "wk"],
+    "elems": ["", "", "", "Nul", "Nul", "", "", "", "", "Wk"],
     "skills": [
       { "name": "Mahamaon", "level": 0 },
       { "name": "Brain Jack", "level": 0 },
@@ -3532,7 +3532,7 @@
     "name": "Vishnu",
     "level": 83,
     "arcana": "Fool",
-    "elems": ["-", "-", "wk", "ab", "-", "-", "-", "-", "nu", "nu"],
+    "elems": ["", "", "Wk", "Dr", "", "", "", "", "Nul", "Nul"],
     "skills": [
       { "name": "Megidolaon", "level": 0 },
       { "name": "Magarudyne", "level": 0 },
@@ -3551,7 +3551,7 @@
     "name": "Vohu Manah",
     "level": 80,
     "arcana": "Councillor",
-    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "ab", "nu"],
+    "elems": ["", "", "", "", "Str", "Wk", "", "", "Dr", "Nul"],
     "skills": [
       { "name": "Divine Judgement", "level": 0 },
       { "name": "Bless Amp", "level": 0 },
@@ -3569,7 +3569,7 @@
     "name": "White Rider",
     "level": 38,
     "arcana": "Chariot",
-    "elems": ["-", "-", "nu", "wk", "-", "-", "-", "-", "nu", "rp"],
+    "elems": ["", "", "Nul", "Wk", "", "", "", "", "Nul", "Rpl"],
     "skills": [
       { "name": "Triple Down", "level": 0 },
       { "name": "Evil Touch", "level": 0 },
@@ -3588,7 +3588,7 @@
     "name": "Yaksini",
     "level": 20,
     "arcana": "Empress",
-    "elems": ["-", "nu", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+    "elems": ["", "Nul", "", "Str", "", "", "", "Wk", "", ""],
     "skills": [
       { "name": "Hysterical Slap", "level": 0 },
       { "name": "Wage War", "level": 0 },
@@ -3605,7 +3605,7 @@
     "name": "Yamata-no-Orochi",
     "level": 64,
     "arcana": "Judgement",
-    "elems": ["rs", "-", "-", "ab", "-", "rs", "-", "-", "-", "rs"],
+    "elems": ["Str", "", "", "Dr", "", "Str", "", "", "", "Str"],
     "skills": [
       { "name": "One-shot Kill", "level": 0 },
       { "name": "Mabufudyne", "level": 0 },
@@ -3622,7 +3622,7 @@
     "name": "Yatagarasu",
     "level": 57,
     "arcana": "Councillor",
-    "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "nu", "wk"],
+    "elems": ["", "", "", "", "", "Str", "", "", "Nul", "Wk"],
     "skills": [
       { "name": "Agidyne", "level": 0 },
       { "name": "Makara Break", "level": 0 },
@@ -3640,7 +3640,7 @@
     "name": "Yoshitsune",
     "level": 87,
     "arcana": "Tower",
-    "elems": ["nu", "-", "rs", "-", "rp", "-", "-", "-", "rp", "-"],
+    "elems": ["Nul", "", "Str", "", "Rpl", "", "", "", "Rpl", ""],
     "skills": [
       { "name": "Brave Blade", "level": 0 },
       { "name": "Charge", "level": 0 },
@@ -3658,7 +3658,7 @@
     "name": "Yurlungur",
     "level": 43,
     "arcana": "Sun",
-    "elems": ["-", "-", "-", "-", "nu", "-", "wk", "-", "rs", "-"],
+    "elems": ["", "", "", "", "Nul", "", "Wk", "", "Str", ""],
     "skills": [
       { "name": "Brain Jack", "level": 0 },
       { "name": "Mazionga", "level": 0 },
@@ -3676,7 +3676,7 @@
     "name": "Zaou-Gongen",
     "level": 80,
     "arcana": "Strength",
-    "elems": ["-", "-", "rp", "-", "wk", "-", "-", "-", "nu", "nu"],
+    "elems": ["", "", "Rpl", "", "Wk", "", "", "", "Nul", "Nul"],
     "skills": [
       { "name": "Maragidyne", "level": 0 },
       { "name": "Abysmal Surge", "level": 0 },
@@ -3694,7 +3694,7 @@
     "name": "Zouchouten",
     "level": 31,
     "arcana": "Strength",
-    "elems": ["rs", "-", "-", "-", "-", "wk", "-", "-", "-", "-"],
+    "elems": ["Str", "", "", "", "", "Wk", "", "", "", ""],
     "skills": [
       { "name": "Kill Rush", "level": 0 },
       { "name": "Zionga", "level": 0 },
@@ -3712,7 +3712,7 @@
     "name": "Ariadne",
     "level": 30,
     "arcana": "Fortune",
-    "elems": ["-", "rs", "-", "-", "-", "-", "wk", "nu", "rs", "-"],
+    "elems": ["", "Str", "", "", "", "", "Wk", "Nul", "Str", ""],
     "skills": [
       { "name": "Beast Weaver", "level": 0 },
       { "name": "Apt Pupil", "level": 0 },
@@ -3730,7 +3730,7 @@
     "name": "Ariadne Picaro",
     "level": 42,
     "arcana": "Fortune",
-    "elems": ["-", "rs", "-", "-", "-", "-", "wk", "nu", "rs", "-"],
+    "elems": ["", "Str", "", "", "", "", "Wk", "Nul", "Str", ""],
     "skills": [
       { "name": "Beast Weaver", "level": 0 },
       { "name": "Apt Pupil", "level": 0 },
@@ -3748,7 +3748,7 @@
     "name": "Asterius",
     "level": 56,
     "arcana": "Fortune",
-    "elems": ["-", "-", "rs", "wk", "-", "-", "rs", "-", "-", "nu"],
+    "elems": ["", "", "Str", "Wk", "", "", "Str", "", "", "Nul"],
     "skills": [
       { "name": "Titanomachia", "level": 0 },
       { "name": "Maragidyne", "level": 0 },
@@ -3766,7 +3766,7 @@
     "name": "Asterius Picaro",
     "level": 62,
     "arcana": "Fortune",
-    "elems": ["-", "-", "rs", "wk", "-", "-", "rs", "-", "-", "nu"],
+    "elems": ["", "", "Str", "Wk", "", "", "Str", "", "", "Nul"],
     "skills": [
       { "name": "Titanomachia", "level": 0 },
       { "name": "Maragidyne", "level": 0 },
@@ -3784,7 +3784,7 @@
     "name": "Athena",
     "level": 46,
     "arcana": "Chariot",
-    "elems": ["rs", "nu", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Nul", "", "", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Akasha Arts", "level": 0 },
       { "name": "Marakukaja", "level": 0 },
@@ -3803,7 +3803,7 @@
     "name": "Athena Picaro",
     "level": 50,
     "arcana": "Chariot",
-    "elems": ["rs", "nu", "-", "-", "wk", "-", "-", "-", "-", "-"],
+    "elems": ["Str", "Nul", "", "", "Wk", "", "", "", "", ""],
     "skills": [
       { "name": "Akasha Arts", "level": 0 },
       { "name": "Matarukaja", "level": 0 },
@@ -3822,7 +3822,7 @@
     "name": "Izanagi",
     "level": 20,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "nu"],
+    "elems": ["", "", "", "", "Str", "Wk", "", "", "", "Nul"],
     "skills": [
       { "name": "Cross Slash", "level": 0 },
       { "name": "Zionga", "level": 0 },
@@ -3840,7 +3840,7 @@
     "name": "Izanagi Picaro",
     "level": 23,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "nu"],
+    "elems": ["", "", "", "", "Nul", "Wk", "", "", "", "Nul"],
     "skills": [
       { "name": "Cross Slash", "level": 0 },
       { "name": "Zionga", "level": 0 },
@@ -3858,7 +3858,7 @@
     "name": "Izanagi-no-Okami",
     "level": 80,
     "arcana": "World",
-    "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "-", "-"],
+    "elems": ["Str", "Str", "Str", "Str", "Str", "Str", "Str", "Str", "", ""],
     "skills": [
       { "name": "Myriad Truths", "level": 0 },
       { "name": "Victory Cry", "level": 0 },
@@ -3877,7 +3877,7 @@
     "name": "Izanagi-no-Okami Picaro",
     "level": 89,
     "arcana": "World",
-    "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "-", "-"],
+    "elems": ["Str", "Str", "Str", "Str", "Str", "Str", "Str", "Str", "", ""],
     "skills": [
       { "name": "Myriad Truths", "level": 0 },
       { "name": "Victory Cry", "level": 0 },
@@ -3896,7 +3896,7 @@
     "name": "Kaguya",
     "level": 16,
     "arcana": "Moon",
-    "elems": ["-", "-", "wk", "-", "-", "rs", "-", "-", "nu", "nu"],
+    "elems": ["", "", "Wk", "", "", "Str", "", "", "Nul", "Nul"],
     "skills": [
       { "name": "Shining Arrows", "level": 0 },
       { "name": "Mediarama", "level": 0 },
@@ -3914,7 +3914,7 @@
     "name": "Kaguya Picaro",
     "level": 25,
     "arcana": "Moon",
-    "elems": ["-", "-", "wk", "-", "-", "-", "-", "-", "nu", "nu"],
+    "elems": ["", "", "Wk", "", "", "", "", "", "Nul", "Nul"],
     "skills": [
       { "name": "Shining Arrows", "level": 0 },
       { "name": "Mediarama", "level": 0 },
@@ -3932,7 +3932,7 @@
     "name": "Magatsu-Izanagi",
     "level": 44,
     "arcana": "Tower",
-    "elems": ["-", "rs", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+    "elems": ["", "Str", "", "", "", "", "", "Wk", "Nul", "Nul"],
     "skills": [
       { "name": "Magatsu Mandala", "level": 0 },
       { "name": "Megidola", "level": 0 },
@@ -3950,7 +3950,7 @@
     "name": "Magatsu-Izanagi Picaro",
     "level": 48,
     "arcana": "Tower",
-    "elems": ["-", "rs", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+    "elems": ["", "Str", "", "", "", "", "", "Wk", "Nul", "Nul"],
     "skills": [
       { "name": "Magatsu Mandala", "level": 0 },
       { "name": "Megidola", "level": 0 },
@@ -3968,7 +3968,7 @@
     "name": "Messiah",
     "level": 81,
     "arcana": "Judgement",
-    "elems": ["-", "-", "rs", "rs", "rs", "rs", "rs", "rs", "rp", "wk"],
+    "elems": ["", "", "Str", "Str", "Str", "Str", "Str", "Str", "Rpl", "Wk"],
     "skills": [
       { "name": "Oratorio", "level": 0 },
       { "name": "Megidolaon", "level": 0 },
@@ -3987,7 +3987,7 @@
     "name": "Messiah Picaro",
     "level": 90,
     "arcana": "Judgement",
-    "elems": ["-", "-", "rs", "rs", "rs", "rs", "rs", "rs", "rp", "wk"],
+    "elems": ["", "", "Str", "Str", "Str", "Str", "Str", "Str", "Rpl", "Wk"],
     "skills": [
       { "name": "Oratorio", "level": 0 },
       { "name": "Megidolaon", "level": 0 },
@@ -4006,7 +4006,7 @@
     "name": "Orpheus",
     "level": 26,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "Str", "Wk"],
     "skills": [
       { "name": "Cadenza", "level": 0 },
       { "name": "Agilao", "level": 0 },
@@ -4024,7 +4024,7 @@
     "name": "Orpheus F",
     "level": 11,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "Str", "Wk"],
     "skills": [
       { "name": "Neo Cadenza", "level": 0 },
       { "name": "Agi", "level": 0 },
@@ -4042,7 +4042,7 @@
     "name": "Orpheus F Picaro",
     "level": 13,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "Str", "Wk"],
     "skills": [
       { "name": "Neo Cadenza", "level": 0 },
       { "name": "Maragi", "level": 0 },
@@ -4060,7 +4060,7 @@
     "name": "Orpheus Picaro",
     "level": 29,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+    "elems": ["", "", "", "", "Wk", "", "", "", "Str", "Wk"],
     "skills": [
       { "name": "Cadenza", "level": 0 },
       { "name": "Maragion", "level": 0 },
@@ -4078,7 +4078,7 @@
     "name": "Raoul",
     "level": 76,
     "arcana": "Fool",
-    "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+    "elems": ["", "", "", "", "", "", "", "", "Wk", "Nul"],
     "skills": [
       { "name": "Phantom Show", "level": 0 },
       { "name": "Eigaon", "level": 0 },
@@ -4097,7 +4097,7 @@
     "name": "Thanatos",
     "level": 65,
     "arcana": "Death",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "wk", "rp"],
+    "elems": ["Str", "", "", "", "", "", "", "", "Wk", "Rpl"],
     "skills": [
       { "name": "Door of Hades", "level": 0 },
       { "name": "Maeigaon", "level": 0 },
@@ -4115,7 +4115,7 @@
     "name": "Thanatos Picaro",
     "level": 69,
     "arcana": "Death",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "wk", "rp"],
+    "elems": ["Str", "", "", "", "", "", "", "", "Wk", "Rpl"],
     "skills": [
       { "name": "Door of Hades", "level": 0 },
       { "name": "Maeigaon", "level": 0 },
@@ -4133,7 +4133,7 @@
     "name": "Tsukiyomi",
     "level": 50,
     "arcana": "Moon",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "rs", "rp"],
+    "elems": ["Str", "", "", "", "", "", "", "Wk", "Str", "Rpl"],
     "skills": [
       { "name": "Abyssal Wings", "level": 0 },
       { "name": "Absorb Curse", "level": 0 },
@@ -4151,7 +4151,7 @@
     "name": "Tsukiyomi Picaro",
     "level": 55,
     "arcana": "Moon",
-    "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "rs", "rp"],
+    "elems": ["Str", "", "", "", "", "", "", "Wk", "Str", "Rpl"],
     "skills": [
       { "name": "Abyssal Wings", "level": 0 },
       { "name": "Absorb Curse", "level": 0 },

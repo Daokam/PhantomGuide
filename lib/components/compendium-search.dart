@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:phantomguide/components/persona-item.dart';
+import 'package:phantomguide/services/fusion-service.dart';
 import 'package:phantomguide/services/persona-service.dart';
 
 class CompendiumSearch extends StatefulWidget {
@@ -11,12 +12,14 @@ class CompendiumSearch extends StatefulWidget {
 
 class CompendiumSearchState extends State<CompendiumSearch> {
   PersonaService personaService = PersonaService();
+  FusionService fusionService = FusionService();
+  TextEditingController searchController = TextEditingController();
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
-    initPersonas();
+    init();
   }
 
   @override
@@ -31,10 +34,14 @@ class CompendiumSearchState extends State<CompendiumSearch> {
               child: Container(
                   margin: const EdgeInsets.only(top: 10),
                   width: 350,
-                  child: const TextField(
-                    decoration: InputDecoration(
+                  child: TextField(
+                    onChanged: (text) {
+                      searchPersonas(text);
+                    },
+                    controller: searchController,
+                    decoration: const InputDecoration(
                       border: OutlineInputBorder(),
-                      labelText: 'Search',
+                      hintText: 'Search',
                       filled: true,
                       fillColor: Colors.white,
                     ),
@@ -57,8 +64,21 @@ class CompendiumSearchState extends State<CompendiumSearch> {
         ]));
   }
 
-  initPersonas() async {
+  init() async {
     await personaService.initPersonas();
+    await fusionService.initArcanaCombos();
     setState(() {});
+  }
+
+  searchPersonas(String query) {
+    if (searchController.text.isEmpty) {
+      setState(() {
+        personaService.clearSearch();
+      });
+    } else {
+      setState(() {
+        personaService.searchPersonas(query);
+      });
+    }
   }
 }

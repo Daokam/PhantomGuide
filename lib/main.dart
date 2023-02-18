@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:phantomguide/pages/main-page.dart';
 
-void main() {
+void main() async {
   runApp(const MyApp());
 }
 

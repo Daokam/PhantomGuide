@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:phantomguide/components/persona-item.dart';
-import 'package:phantomguide/components/persona-page.dart';
+import 'package:phantomguide/components/persona-page/persona-page.dart';
 import 'package:phantomguide/services/persona-service.dart';
 
 import 'compendium-search.dart';

@@ -1,4 +1,4 @@
-{ "arcanaCombos": [
+[
     { "source": ["Fool", "Fool"], "result": "Fool" },
     { "source": ["Fool", "Magician"], "result": "Death" },
     { "source": ["Fool", "Priestess"], "result": "Moon" },
@@ -271,6 +271,5 @@
     { "source": ["Faith", "Faith"], "result": "Faith" },
     { "source": ["Faith", "Councillor"], "result": "Priestess" },
     { "source": ["Councillor", "Councillor"], "result": "Councillor" },
-    { "source": ["World", "World"], "result": "World" },
+    { "source": ["World", "World"], "result": "World" }
 ]
-}
