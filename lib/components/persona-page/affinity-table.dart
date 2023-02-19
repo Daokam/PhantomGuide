@@ -8,13 +8,13 @@ class AffinityTable extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
         width: double.maxFinite,
-        decoration: BoxDecoration(
+        decoration: const BoxDecoration(
             border: Border(bottom: BorderSide(width: 3, color: Colors.white))),
         child: DataTable(
             headingRowHeight: 40,
             headingRowColor: MaterialStateProperty.all(Colors.white),
             dataRowColor: MaterialStateProperty.all(Colors.black),
-            dataTextStyle: TextStyle(color: Colors.white),
+            dataTextStyle: const TextStyle(color: Colors.white),
             columnSpacing: 4,
             columns: <DataColumn>[
               for (var element in ElementService().getElements())
@@ -33,7 +33,8 @@ class AffinityTable extends StatelessWidget {
               DataRow(cells: <DataCell>[
                 for (var affinity in affinities)
                   DataCell(Center(
-                      child: Text(affinity, style: TextStyle(fontSize: 20)))),
+                      child: Text(affinity,
+                          style: const TextStyle(fontSize: 20)))),
               ])
             ]));
   }

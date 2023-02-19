@@ -11,10 +11,8 @@ class PersonaHeader extends StatelessWidget {
     return Container(
         color: Colors.red,
         width: double.maxFinite,
-        child:
-            Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
-          Expanded(
-              flex: 2,
+        child: Stack(children: [
+          Container(
               child: Align(
                   alignment: Alignment.centerLeft,
                   child: Material(
@@ -26,13 +24,11 @@ class PersonaHeader extends StatelessWidget {
                             Icons.arrow_back_ios,
                             color: Colors.white,
                           ))))),
-          Expanded(
-              flex: 6,
+          Container(
               child: Center(
                   child: Text(name,
                       style:
                           const TextStyle(fontSize: 30, color: Colors.white)))),
-          Expanded(flex: 2, child: SizedBox())
         ]));
   }
 }

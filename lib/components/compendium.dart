@@ -11,14 +11,43 @@ class Compendium extends StatefulWidget {
   CompendiumState createState() => CompendiumState();
 }
 
-class CompendiumState extends State<Compendium> {
+class CompendiumState extends State<Compendium> with TickerProviderStateMixin {
   PersonaService personaService = PersonaService();
   bool personaClicked = false;
   int currentPersona = 0;
+  late AnimationController _controller;
+  late Animation<Offset> _animation;
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    _controller = AnimationController(
+      duration: const Duration(milliseconds: 250),
+      vsync: this,
+    );
+    _animation = Tween<Offset>(
+      begin: const Offset(0.0, 0.0),
+      end: const Offset(-1.0, 0.0),
+    ).animate(_controller);
+  }
 
   @override
   Widget build(BuildContext context) {
-    return getCurrentPage();
+    return Stack(
+      children: [
+        if (personaClicked)
+          PersonaPage(
+            persona: personaService.getPersonas()[currentPersona],
+            toggleSearchPage: toggleSearchPage,
+          ),
+        SlideTransition(
+            position: _animation,
+            child: CompendiumSearch(
+              togglePersonaPage: togglePersonaPage,
+            )),
+      ],
+    );
   }
 
   Widget getCurrentPage() {
@@ -28,9 +57,11 @@ class CompendiumState extends State<Compendium> {
         toggleSearchPage: toggleSearchPage,
       );
     } else {
-      return CompendiumSearch(
-        togglePersonaPage: togglePersonaPage,
-      );
+      return SlideTransition(
+          position: _animation,
+          child: CompendiumSearch(
+            togglePersonaPage: togglePersonaPage,
+          ));
     }
   }
 
@@ -40,6 +71,7 @@ class CompendiumState extends State<Compendium> {
     setState(() {
       personaClicked = true;
       currentPersona = personaIndex;
+      _controller.forward();
     });
   }
 
@@ -47,7 +79,11 @@ class CompendiumState extends State<Compendium> {
     if (!mounted) return;
 
     setState(() {
-      personaClicked = false;
+      _controller.reverse().whenComplete(() => {
+            setState(() {
+              personaClicked = false;
+            })
+          });
     });
   }
 }
