@@ -1,17 +1,33 @@
-# phantomguide
+# Phantomguide
 
-A new Flutter project.
+# Manguak
+## Overview
 
-## Getting Started
+A Persona 5 companion app made in Dart (Flutter). 
 
-This project is a starting point for a Flutter application.
+## Current functionnalities
 
-A few resources to get you started if this is your first Flutter project:
+- Displays all Persona 5 Royal personas with image, stats and arcana.
+- Searching personas
+- Persona images displayed using webscraper
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# PhantomGuide
+## Functionnalities to be implemented
+
+- Fusion calculator (Results of fusing personas)
+- Exam guide
+- Confidant guide
+
+
+## How to run
+
+This is a flutter project currently being tested on a Google Pixel 4 on Android 12.0.
+
+Command to start project:
+
+```
+flutter run
+```
+
+
+
