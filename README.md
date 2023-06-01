@@ -1,6 +1,5 @@
 # Phantomguide
 
-# Manguak
 ## Overview
 
 A Persona 5 companion app made in Dart (Flutter). 
